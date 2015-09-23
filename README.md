@@ -2,6 +2,8 @@
 
 A new Bayesian generative model for social interaction data, for uncovering influence relations from time-stamped conversation data.
 
+![](https://cloud.githubusercontent.com/assets/4409730/10062058/85cf2ad8-622c-11e5-8c4e-b0750eb6251c.png)
+
 > Please refer to
 > 
 > Fangjian Guo, Charles Blundell, Hanna Wallach and Katherine A. Heller. The Bayesian Echo Chamber: modeling social influence via linguistic accommodation. *AISTATS 2015, San Diego, CA, USA. JMLR: W&CP volume 38.*
@@ -30,7 +32,7 @@ A new Bayesian generative model for social interaction data, for uncovering infl
 ### Usage
 
 1. Run `python run_bec_12angrymen.py` would produce samples and other auxiliary files under `results/12-angry-men/`. One could customize scripts based on `run_bec_12angrymen.py` for other datasets and configurations. 
-2. Run `make` under `results/ ` could produce an html report compiled from [R Markdown](http://rmarkdown.rstudio.com) file `12-angry-men-analytics.Rmd`. One could customize the `Rmd` file for analyzing other datasets. 
+2. Run `make` under `results/ ` could produce an html report compiled from [R Markdown](http://rmarkdown.rstudio.com) file `12-angry-men-analytics.Rmd`. One could customize the `Rmd` file for analyzing other datasets.
 
 ### Dependencies
 
@@ -72,4 +74,3 @@ Currently, we have prepared the following datasets under `data/` directory.
 ### Authors
 
 This repo is maintained by [Richard Guo](http://richardkwo.net). We also acknowledge the contribution of [Juston Moore](https://people.cs.umass.edu/~jmoore/) to `likelihoods.py` and `slice_sampler.py`.
-

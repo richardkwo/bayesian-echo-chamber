@@ -23,7 +23,7 @@ def main():
     word_pseudocount_prior = (10, 1)
 
     # constants
-    V = 400
+    V = 600
     T = 100.0
     remove_stop_words = True
 
@@ -35,8 +35,8 @@ def main():
 
     # samples and burn-in's
     burn_in_number = 500
-    sample_number = 1000
-    display = 1  # rounds for one display
+    sample_number = 2000
+    display = 1  # rounds for one display, display=1 for verbose display
 
     print "\n << BEC >>"
 
