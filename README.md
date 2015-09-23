@@ -13,20 +13,20 @@ A new Bayesian generative model for social interaction data, for uncovering infl
 ### Files
 
 ``` 
-├── data								a collection of datasets
-├── results								results are produced here
-│   ├── 12-angry-men-analytics.Rmd		generating report from result
-│   └── Makefile						compile a html report from R markdown
+├── data                              a collection of datasets
+├── results                           results are produced here
+│   ├── 12-angry-men-analytics.Rmd    generating report from result
+│   └── Makefile                      compile a html report from R markdown
 ├── src
-│   ├── bec.py							main "Bayesian echo chamber" class
-│   ├── bec_sampler.py					a wrapper of the sampler of bec
-│   ├── hawkes.py						an implementation of Hawkes process
-│   ├── likelihoods.py					several likelihoods
-│   ├── run_bec_12angrymen.py			a demo script producing result for data/12-angry-men
-│   ├── slice_sampler.py				slice sampler
-│   ├── talkbankXMLparse.py				parser for talkbank xml format
+│   ├── bec.py                        main "Bayesian echo chamber" class
+│   ├── bec_sampler.py                a wrapper of the sampler of bec
+│   ├── hawkes.py                     an implementation of Hawkes process
+│   ├── likelihoods.py                several likelihoods
+│   ├── run_bec_12angrymen.py         a demo script producing result for data/12-angry-men
+│   ├── slice_sampler.py              slice sampler
+│   ├── talkbankXMLparse.py           parser for talkbank xml format
 └── stopwords
-    └── english.stop					list of stop words in English
+    └── english.stop                  list of stop words in English
 ```
 
 ### Usage
