@@ -1,0 +1,180 @@
+---
+title: "12 Angry Men analytics"
+author: "by Richard Guo"
+output:
+  html_document:
+    fig_width: 8
+---
+
+
+```{r loadLibraries, echo=FALSE, eval=TRUE, message=FALSE}
+library(ggplot2)
+library(reshape2)
+library(coda)
+library(plyr)
+library(qgraph)
+library(pander)
+panderOptions('table.style', 'rmarkdown')
+panderOptions("table.split.table", Inf) 
+```
+
+
+```{r spec-and-load-dataset, echo=FALSE, eval=TRUE}
+dataset.dir = "./12-angry-men/"
+dataset.date <- "12 Angry Men"
+sender.time.df <- read.table(paste(dataset.dir,"sender_and_time.txt", sep=""), header=T)
+sender.time.df$sender <- as.factor(sender.time.df$sender)
+token.proportions.df <- read.table(paste(dataset.dir,"token_proportions.txt",sep=""), header=T)
+A = length(unique(sender.time.df$sender))
+V = ncol(token.proportions.df)
+
+
+# read the tokens used
+tokens.used.df <- read.table(paste(dataset.dir,"tokens-selected.txt", sep=""), header=T, quote="\"", stringsAsFactors=F)
+
+# read MCMC samples
+influences.SAMPLE.df <- read.table(paste(dataset.dir,"SAMPLE-influence.txt", sep=""), header=T)
+log.prob.df <- read.table(paste(dataset.dir,"SAMPLE-log_prior_and_log_likelihood.txt", sep=""), header=T)
+time.decay.SAMPLE.df <- read.table(paste(dataset.dir,"SAMPLE-time_decay.txt", sep=""), header=T)
+N <- nrow(influences.SAMPLE.df)
+
+# mcmc chain
+influences.SAMPLE.df.mcmc <- mcmc(influences.SAMPLE.df)
+time.decay.SAMPLE.df.mcmc <- mcmc(time.decay.SAMPLE.df)
+
+
+# read actors
+if (file.exists(paste(dataset.dir,"cast.txt", sep=""))) {
+  cast.df <- read.table(paste(dataset.dir,"cast.txt",sep=""), header=T)
+  agent.names <- factor(cast.df$agent.name, levels=cast.df$agent.name)
+}
+
+```
+
+# Dataset `r dataset.date` 
+
+* number of actors = `r A`
+* number of tokens = `r V`
+
+```{r read-meta-data, echo=FALSE}
+# read metadata
+conn=file(paste(dataset.dir, "meta-info.txt", sep=""),open="r")
+linn=readLines(conn)
+print(linn)
+close(conn)
+```
+
+
+# MCMC samples
+
+* N = `r N`
+
+```{r ll, echo=FALSE, fig.width=8, fig.height=8}
+log.prob.df$log.prob = log.prob.df$log.prior + log.prob.df$log.likelihood
+log.prob.df.mcmc <- mcmc(log.prob.df)
+plot(log.prob.df.mcmc)
+```
+
+
+# Influence Matrix (Linguistic)
+```{r mcmc-summary, echo=FALSE, comment=NA, results='asis'}
+influences.SAMPLE.MEAN <- apply(influences.SAMPLE.df,2,mean)
+influences.SAMPLE.SD <- apply(influences.SAMPLE.df,2,sd)
+influences.SAMPLE.MEAN.mat <- matrix(influences.SAMPLE.MEAN, nrow=A, byrow=T)
+row.names(influences.SAMPLE.MEAN.mat) <- colnames(influences.SAMPLE.MEAN.mat) <- agent.names
+influences.SAMPLE.SD.mat <- matrix(influences.SAMPLE.SD, nrow=A, byrow=T)
+row.names(influences.SAMPLE.SD.mat) <- colnames(influences.SAMPLE.SD.mat) <- agent.names
+cat("\nMEAN of influence matrix (row=from, col=to)\n")
+influences.SAMPLE.MEAN.mat[influences.SAMPLE.MEAN.mat<0.1] <- 0
+pander(influences.SAMPLE.MEAN.mat)
+cat("\nSD of influence matrix (row=from, col=to)\n")
+influences.SAMPLE.SD.mat[influences.SAMPLE.SD.mat<0.1] <- 0
+pander(influences.SAMPLE.SD.mat)
+
+```
+
+```{r plot-influence, echo=FALSE, fig.width=8, fig.height=5}
+
+influences.SAMPLE.MEAN.FLAT <- melt(influences.SAMPLE.MEAN.mat)
+colnames(influences.SAMPLE.MEAN.FLAT)[1] <- "From"
+colnames(influences.SAMPLE.MEAN.FLAT)[2] <- "To"
+influences.SAMPLE.MEAN.FLAT$From <- agent.names[influences.SAMPLE.MEAN.FLAT$From]
+influences.SAMPLE.MEAN.FLAT$To <- agent.names[influences.SAMPLE.MEAN.FLAT$To]
+fig.2 <- ggplot(influences.SAMPLE.MEAN.FLAT, aes(To,From)) + 
+  geom_tile(aes(fill=value), colour = "white") + 
+  scale_fill_gradient(low = "white", high = "steelblue") + 
+  xlab("Influence (to)") + ylab("Influence (from)") + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+print(fig.2)
+```
+
+```{r plot-network, echo=FALSE, fig.width=15, fig.height=11}
+
+get.network.FLAT.mat.from.quantile <- function(sample.df, q=0.25) {
+    quantiles.mat <- matrix(apply(sample.df, 2, quantile, q), nrow=A, byrow=TRUE)
+    row.names(quantiles.mat) <- colnames(quantiles.mat) <- agent.names
+    quantiles.FLAT <- melt(quantiles.mat)
+    colnames(quantiles.FLAT)[1] <- "From"
+    colnames(quantiles.FLAT)[2] <- "To"
+    return(quantiles.FLAT)}
+
+total.influence.output <- apply(influences.SAMPLE.MEAN.mat, 1, sum)
+node.size.vec <- sqrt(total.influence.output/max(total.influence.output))*(8*exp(-A/80)+1)
+graph.influence <- qgraph(influences.SAMPLE.MEAN.FLAT,
+       vsize = node.size.vec,
+       edge.labels=F,
+       gray=T,
+       title=paste("Linguistic Influence Network of", dataset.date))
+
+qgraph(get.network.FLAT.mat.from.quantile(influences.SAMPLE.df, 0.25), 
+       vsize=node.size.vec, 
+       edge.labels=F, 
+       gray=T, 
+       layout=graph.influence$layout, 
+       title=paste("Linguistic Influence Network of", dataset.date, "0.25 quantile"))
+
+qgraph(get.network.FLAT.mat.from.quantile(influences.SAMPLE.df, 0.5), 
+       vsize=node.size.vec, 
+       edge.labels=F, 
+       gray=T, 
+       layout=graph.influence$layout, 
+       title=paste("Linguistic Influence Network of", dataset.date, "0.50 quantile"))
+
+qgraph(get.network.FLAT.mat.from.quantile(influences.SAMPLE.df, 0.75), 
+       vsize=node.size.vec, 
+       edge.labels=F, 
+       gray=T, 
+       layout=graph.influence$layout, 
+       title=paste("Linguistic Influence Network of", dataset.date, "0.75 quantile"))
+
+```
+
+Total linguistic influence sent/received
+```{r plot-influence-total, echo=FALSE}
+total.influence.input <- apply(influences.SAMPLE.MEAN.mat, 2, sum)
+
+total.influence.input.df <- apply(influences.SAMPLE.df, 1, 
+                                  function(x) apply(matrix(as.numeric(x), nrow=A, byrow=T),2,sum))
+total.influence.input.std <- apply(total.influence.input.df,1,sd)
+total.influence.output.df <- apply(influences.SAMPLE.df, 1, 
+                                  function(x) apply(matrix(as.numeric(x), nrow=A, byrow=T),1,sum))
+total.influence.output.std <- apply(total.influence.output.df,1,sd)
+
+total.influence.df <- data.frame(sent=total.influence.output, 
+                                  received=total.influence.input,
+                                  speaker=agent.names)
+total.influence.std.df <- data.frame(sent=total.influence.output.std, 
+                                     received=total.influence.input.std, 
+                                     speaker=agent.names)
+total.influence.df.FLAT <- melt(total.influence.df, id.vars=c("speaker"))
+total.influence.std.df.FLAT <- melt(total.influence.std.df, id.vars=c("speaker"))
+total.influence.df.FLAT$std <- total.influence.std.df.FLAT$value
+
+ggplot(total.influence.df.FLAT, aes(x=speaker, y=value, fill=variable)) + 
+    geom_bar(stat="identity", position="dodge") + 
+    geom_errorbar(aes(ymax=value+std, ymin=value-std), stat="identity", position="dodge") +     
+    ggtitle(sprintf("Total influence sent/received for %s", dataset.date)) +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+

@@ -1,0 +1,8979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="07-455" Mediatypes="audio"
+      PID="11312/t-00008426-1"
+      Version="2.0.2"
+      Lang="eng"
+      Options="caps"
+      Corpus="SCOTUS"
+      Id="07-455"
+      Date="2008-03-24">
+  <Participants>
+    <participant
+      id="ALIT"
+    name="SAMUEL_A_ALITO_JR"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="BREY"
+    name="STEPHEN_G_BREYER"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="CONN"
+    name="SANDRA_DAY_O&apos;CONNOR"
+      role="Justice"
+      language="eng"
+      sex="female"
+
+    />
+    <participant
+      id="GINS"
+    name="RUTH_BADER_GINSBURG"
+      role="Justice"
+      language="eng"
+      sex="female"
+
+    />
+    <participant
+      id="KENN"
+    name="ANTHONY_M_KENNEDY"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="ROBE"
+    name="JOHN_G_ROBERTS"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="SCAL"
+    name="ANTONIN_SCALIA"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="SOUT"
+    name="DAVID_H_SOUTER"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="STEV"
+    name="JOHN_PAUL_STEVENS"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="THOM"
+    name="CLARENCE_THOMAS"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="UNKN"
+    name="Unidentified_Justice"
+      role="Unidentified"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="MUKAS"
+    name="GEN_MICHAEL_B_MUKASEY"
+      role="Attorney"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="HILLI"
+    name="THOMAS_W_HILLIER_II"
+      role="Attorney"
+      language="eng"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">24-MAR-2008</comment>
+  <comment type="Transcriber">JC</comment>
+  <comment type="Generic">$LastChangedDate: 2012-07-23 15:46:05 -0400 (Mon, 23 Jul 2012) $</comment>
+  <comment type="Generic">UNITED STATES, Petitioner v. AHMED RESSAM.</comment>
+  <comment type="Generic">No. 07-455</comment>
+  <comment type="Generic">March 25, 2008, Tuesday, Washington, D.C.</comment>
+  <comment type="Generic">The above-entitled matter came on for oral argument before the Supreme Court of the United States at 11:25 a.m.</comment>
+  <comment type="Generic">OPINION: PROCEEDINGS</comment>
+  <comment type="Generic">(11:25 a.m.)</comment>
+  <u who="ROBE" uID="u0">
+    <w>We'll</w>
+    <w>hear</w>
+    <w>argument</w>
+    <w>next</w>
+    <w>in</w>
+    <w>Case</w>
+    <g><w>oh</w>
+    <w>seven</w>
+    <w>four</w>
+    <w>fifty-five</w><ga type="explanation">07-455</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>United</w>
+    <w>States</w>
+    <w>versus</w>
+    <w>Ressam</w>
+    <t type="p"></t>
+    <media
+      start="0.000"
+      end="7.589"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u1">
+    <w>General</w>
+    <w>Mukasey</w>
+    <t type="p"></t>
+    <media
+      start="7.589"
+      end="9.086"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">ORAL ARGUMENT OF GEN. MICHAEL B. MUKASEY ON BEHALF OF THE PETITIONER</comment>
+  <u who="MUKAS" uID="u2">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>may</w>
+    <w>it</w>
+    <w>please</w>
+    <w>the</w>
+    <w>Court</w>
+    <s type="colon"/>
+    <w>The</w>
+    <w>question</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <w>is</w>
+    <w>whether</w>
+    <w>a</w>
+    <w>panel</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Ninth</w>
+    <w>Circuit</w>
+    <w>was</w>
+    <w>correct</w>
+    <w>when</w>
+    <w>it</w>
+    <w>added</w>
+    <w>the</w>
+    <w>words</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>thereby</w>
+    <w>added</w>
+    <w>an</w>
+    <w>element</w>
+    <w>to</w>
+    <w>section</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <w>of</w>
+    <w>Title</w>
+    <g><w>eighteen</w><ga type="explanation">18</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>we</w>
+    <w>think</w>
+    <w>for</w>
+    <w>at</w>
+    <w>least</w>
+    <w>four</w>
+    <w>reasons</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>answer</w>
+    <w>to</w>
+    <w>that</w>
+    <w>question</w>
+    <w>is</w>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="9.086"
+      end="39.967"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u3">
+    <w>First</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>principally</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>those</w>
+    <w>words</w>
+    <w>are</w>
+    <w>not</w>
+    <w>in</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>that</w>
+    <w>Congress</w>
+    <w>wrote</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>said</w>
+    <w>many</w>
+    <w>times</w>
+    <w>that</w>
+    <w>courts</w>
+    <w>should</w>
+    <w>not</w>
+    <w>add</w>
+    <w>words</w>
+    <w>or</w>
+    <w>elements</w>
+    <w>to</w>
+    <w>criminal</w>
+    <w>statutes</w>
+    <t type="p"></t>
+    <media
+      start="39.967"
+      end="51.650"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u4">
+    <w>Second</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Congress</w>
+    <w>knows</w>
+    <w>how</w>
+    <w>to</w>
+    <w>include</w>
+    <w>a</w>
+    <w>relational</w>
+    <w>element</w>
+    <w>when</w>
+    <w>it</w>
+    <w>wants</w>
+    <w>to</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>in</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>did</w>
+    <w>that</w>
+    <w>in</w>
+    <w>section</w>
+    <g><w>nine</w>
+    <w>twenty-four</w>
+    <w formType="letter">c</w><ga type="explanation">924(c)</ga></g>
+    <w>after</w>
+    <w>which</w>
+    <w>section</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <w>is</w>
+    <w>otherwise</w>
+    <w>patterned</w>
+    <t type="p"></t>
+    <media
+      start="51.650"
+      end="63.910"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u5">
+    <w>And</w>
+    <w>that</w>
+    <w>shows</w>
+    <w>that</w>
+    <w>when</w>
+    <w>Congress</w>
+    <w>chose</w>
+    <w>to</w>
+    <w>leave</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <w>out</w>
+    <w>of</w>
+    <w>section</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <w>it</w>
+    <w>did</w>
+    <w>that</w>
+    <w>intentionally</w>
+    <t type="p"></t>
+    <media
+      start="63.910"
+      end="71.702"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u6">
+    <w>Third</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>section</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <w>was</w>
+    <w>amended</w>
+    <w>in</w>
+    <g><w>nineteen</w>
+    <w>eighty-eight</w><ga type="explanation">1988</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>one</w>
+    <w>court</w>
+    <w>of</w>
+    <w>appeals</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>only</w>
+    <w>court</w>
+    <w>of</w>
+    <w>appeals</w>
+    <w>to</w>
+    <w>rule</w>
+    <w>directly</w>
+    <w>on</w>
+    <w>the</w>
+    <w>question</w>
+    <w>of</w>
+    <w>whether</w>
+    <w>there</w>
+    <w>was</w>
+    <w>a</w>
+    <w>relationship</w>
+    <w>between</w>
+    <w>the</w>
+    <w>carrying</w>
+    <w>of</w>
+    <w>explosives</w>
+    <w>in</w>
+    <w>the</w>
+    <w>commission</w>
+    <w>of</w>
+    <w>a</w>
+    <w>felony</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>had</w>
+    <w>held</w>
+    <w>that</w>
+    <w>there</w>
+    <w>was</w>
+    <w>no</w>
+    <w>relational</w>
+    <w>element</w>
+    <t type="p"></t>
+    <media
+      start="71.702"
+      end="88.212"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u7">
+    <w>Congress</w>
+    <w>was</w>
+    <w>on</w>
+    <w>notice</w>
+    <w>of</w>
+    <w>that</w>
+    <w>fact</w>
+    <t type="interruption"></t>
+    <media
+      start="88.212"
+      end="90.868"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u8">
+    <w>Your</w>
+    <w>argument</w>
+    <w>relies</w>
+    <w>on</w>
+    <w>the</w>
+    <w>notion</w>
+    <w>that</w>
+    <w>the</w>
+    <w>word</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <w>in</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>is</w>
+    <w>solely</w>
+    <w>temporal</w>
+    <t type="p"></t>
+    <media
+      start="90.868"
+      end="98.175"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u9">
+    <w>In</w>
+    <w>other</w>
+    <w>words</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>just</w>
+    <w>refers</w>
+    <w>to</w>
+    <w>the</w>
+    <w>time</w>
+    <t type="q"></t>
+    <media
+      start="98.175"
+      end="99.754"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u10">
+    <linker type="self completion"/>
+    <w>Correct</w>
+    <t type="p"></t>
+    <media
+      start="99.754"
+      end="100.737"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u11">
+    <w>So</w>
+    <pause symbolic-length="simple"/>
+    <w>that's</w>
+    <w>not</w>
+    <w>always</w>
+    <w>the</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="100.737"
+      end="103.970"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u12">
+    <w>If</w>
+    <w>I</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>hung</w>
+    <w>lights</w>
+    <w>during</w>
+    <w>the</w>
+    <w>holiday</w>
+    <w>season</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>wouldn't</w>
+    <w>think</w>
+    <w>that</w>
+    <w>I</w>
+    <w>hung</w>
+    <w>a</w>
+    <w>chandelier</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>right</w>
+    <t type="q"></t>
+    <media
+      start="103.970"
+      end="112.655"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u13">
+    <w>There'd</w>
+    <w>be</w>
+    <w>not</w>
+    <w>simply</w>
+    <w>a</w>
+    <w>temporal</w>
+    <w>connection</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>also</w>
+    <w>a</w>
+    <w>relation</w>
+    <t type="p"></t>
+    <media
+      start="112.655"
+      end="118.620"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u14">
+    <w>In</w>
+    <w>that</w>
+    <w>instance</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>correct</w>
+    <t type="p"></t>
+    <media
+      start="118.620"
+      end="120.761"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u15">
+    <w>On</w>
+    <w>the</w>
+    <w>other</w>
+    <w>hand</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>Congress</w>
+    <w>in</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <g><w>nine</w>
+    <w>twenty-four</w>
+    <w formType="letter">c</w><ga type="explanation">924(c)</ga></g>
+    <w>said</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <w>and</w>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>meant</w>
+    <w>something</w>
+    <w>more</w>
+    <w>than</w>
+    <w>a</w>
+    <w>temporal</w>
+    <w>relationship</w>
+    <t type="p"></t>
+    <media
+      start="120.761"
+      end="130.522"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u16">
+    <w>It</w>
+    <w>did</w>
+    <w>not</w>
+    <w>say</w>
+    <w>the</w>
+    <w>same</w>
+    <w>thing</w>
+    <w>in</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>it</w>
+    <w>failed</w>
+    <w>to</w>
+    <w>say</w>
+    <w>the</w>
+    <w>same</w>
+    <w>thing</w>
+    <w>in</w>
+    <g><w>eight</w>
+    <w>forty-four</w>
+    <w formType="letter">f</w><ga type="explanation">844(f)</ga></g>
+    <w>or</w>
+    <w>the</w>
+    <w>amended</w>
+    <g><w>nine</w>
+    <w>twenty-four</w>
+    <w formType="letter">c</w><ga type="explanation">924(c)</ga></g>
+    <t type="p"></t>
+    <media
+      start="130.522"
+      end="137.942"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u17">
+    <w>General</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>could</w>
+    <pause symbolic-length="simple"/>
+    <w>could</w>
+    <w>Congress</w>
+    <w>pass</w>
+    <w>a</w>
+    <w>law</w>
+    <w>that</w>
+    <w>said</w>
+    <w>if</w>
+    <w>you</w>
+    <w>wear</w>
+    <w>a</w>
+    <w>wristwatch</w>
+    <w>during</w>
+    <w>the</w>
+    <w>commission</w>
+    <w>of</w>
+    <w>any</w>
+    <w>crime</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>get</w>
+    <w>another</w>
+    <w>ten</w>
+    <w>years</w>
+    <t type="q"></t>
+    <media
+      start="137.942"
+      end="154.668"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u18">
+    <w>A</w>
+    <w>statute</w>
+    <w>like</w>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>entirely</w>
+    <w>unreasonable</w>
+    <t type="p"></t>
+    <media
+      start="154.667"
+      end="162.692"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u19">
+    <w>It</w>
+    <w>was</w>
+    <w>not</w>
+    <w>entirely</w>
+    <w>unreasonable</w>
+    <w>for</w>
+    <w>Congress</w>
+    <w>to</w>
+    <w>have</w>
+    <w>said</w>
+    <w>if</w>
+    <w>you</w>
+    <w>carry</w>
+    <w>an</w>
+    <w>explosive</w>
+    <w>during</w>
+    <w>the</w>
+    <w>commission</w>
+    <w>of</w>
+    <w>a</w>
+    <w>felony</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you've</w>
+    <w>added</w>
+    <w>something</w>
+    <w>enormously</w>
+    <w>volatile</w>
+    <t type="p"></t>
+    <media
+      start="162.692"
+      end="172.753"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u20">
+    <w>Surely</w>
+    <w>it</w>
+    <w>depends</w>
+    <w>on</w>
+    <w>what</w>
+    <w>the</w>
+    <w>felony</w>
+    <w>is</w>
+    <t type="p"></t>
+    <media
+      start="172.753"
+      end="174.984"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u21">
+    <w>If</w>
+    <w>the</w>
+    <w>felony</w>
+    <w>is</w>
+    <w>the</w>
+    <w>filing</w>
+    <w>of</w>
+    <w>a</w>
+    <w>dishonest</w>
+    <w>tax</w>
+    <w>return</w>
+    <w>and</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>you</w>
+    <w>have</w>
+    <w>a</w>
+    <w>can</w>
+    <w>of</w>
+    <w>gasoline</w>
+    <w>with</w>
+    <w>you</w>
+    <w>when</w>
+    <w>you</w>
+    <w>mail</w>
+    <w>the</w>
+    <w>letter</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>quite</w>
+    <w>as</w>
+    <w>absurd</w>
+    <w>as</w>
+    <w>saying</w>
+    <w>wearing</w>
+    <w>a</w>
+    <w>wristwatch</w>
+    <w>in</w>
+    <w>the</w>
+    <w>course</w>
+    <w>of</w>
+    <w>a</w>
+    <w>felony</w>
+    <t type="p"></t>
+    <media
+      start="174.984"
+      end="193.619"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u22">
+    <w>That's</w>
+    <w>what</w>
+    <w>troubles</w>
+    <w>me</w>
+    <w>about</w>
+    <w>this</w>
+    <t type="p"></t>
+    <media
+      start="193.619"
+      end="196.321"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u23">
+    <w>I'm</w>
+    <pause symbolic-length="simple"/>
+    <w>I'm</w>
+    <w>tempted</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>think</w>
+    <w>everybody</w>
+    <w>is</w>
+    <w>tempted</w>
+    <w>to</w>
+    <w>distort</w>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>mean</w>
+    <w>something</w>
+    <w>else</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>simply</w>
+    <w>because</w>
+    <w>the</w>
+    <w>consequences</w>
+    <w>of</w>
+    <w>performing</w>
+    <w>a</w>
+    <w>completely</w>
+    <w>lawful</w>
+    <w>act</w>
+    <w>wearing</w>
+    <w>a</w>
+    <w>wristwatch</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>carrying</w>
+    <w>explosives</w>
+    <pause symbolic-length="simple"/>
+    <w>given</w>
+    <w>the</w>
+    <w>broad</w>
+    <w>definition</w>
+    <w>of</w>
+    <w>explosives</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>guess</w>
+    <w>it</w>
+    <w>would</w>
+    <w>include</w>
+    <w>having</w>
+    <pause symbolic-length="simple"/>
+    <w>having</w>
+    <w>some</w>
+    <w>cartridges</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>explosive</w>
+    <w>cartridges</w>
+    <t type="q"></t>
+    <media
+      start="196.321"
+      end="225.072"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u24">
+    <w>It</w>
+    <w>would</w>
+    <t type="p"></t>
+    <media
+      start="225.072"
+      end="225.622"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u25">
+    <w>But</w>
+    <w>the</w>
+    <w>temptation</w>
+    <t type="interruption"></t>
+    <media
+      start="225.622"
+      end="227.853"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u26">
+    <w>That's</w>
+    <w>perfectly</w>
+    <w>lawful</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>you</w>
+    <w>get</w>
+    <w>another</w>
+    <g><w>ten</w><ga type="explanation">10</ga></g>
+    <w>years</w>
+    <w>for</w>
+    <w>it</w>
+    <w>just</w>
+    <w>because</w>
+    <w>you're</w>
+    <pause symbolic-length="simple"/>
+    <w>you're</w>
+    <w>mailing</w>
+    <w>a</w>
+    <w>letter</w>
+    <w>to</w>
+    <w>the</w>
+    <g><w>I_R_S</w><ga type="explanation">IRS</ga></g>
+    <w>at</w>
+    <w>the</w>
+    <w>same</w>
+    <w>time</w>
+    <t type="p"></t>
+    <media
+      start="227.853"
+      end="235.430"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u27">
+    <linker type="self completion"/>
+    <w>It</w>
+    <w>is</w>
+    <w>perfectly</w>
+    <w>lawful</w>
+    <t type="p"></t>
+    <media
+      start="235.430"
+      end="236.631"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u28">
+    <w>Congress</w>
+    <w>was</w>
+    <w>aware</w>
+    <w>that</w>
+    <w>Title</w>
+    <g><w>eighteen</w><ga type="explanation">18</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <w>to</w>
+    <w>mention</w>
+    <w>all</w>
+    <w>the</w>
+    <w>other</w>
+    <w>titles</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>are</w>
+    <w>chockablock</w>
+    <w>with</w>
+    <w>felonies</w>
+    <t type="p"></t>
+    <media
+      start="236.631"
+      end="242.847"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u29">
+    <w>There</w>
+    <w>are</w>
+    <w>thousands</w>
+    <w>of</w>
+    <w>them</w>
+    <w>out</w>
+    <w>there</w>
+    <t type="p"></t>
+    <media
+      start="242.847"
+      end="244.114"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u30">
+    <w>But</w>
+    <w>nonetheless</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>wanted</w>
+    <w>to</w>
+    <w>make</w>
+    <w>sure</w>
+    <w>that</w>
+    <w>the</w>
+    <w>mainstream</w>
+    <w>that</w>
+    <w>it</w>
+    <w>was</w>
+    <w>concerned</w>
+    <w>with</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>is</w>
+    <w>nicely</w>
+    <w>illustrated</w>
+    <w>by</w>
+    <w>the</w>
+    <w>facts</w>
+    <w>of</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>were</w>
+    <w>taken</w>
+    <w>care</w>
+    <w>of</w>
+    <s type="semicolon"/>
+    <w>and</w>
+    <w>so</w>
+    <w>it</w>
+    <w>passed</w>
+    <w>a</w>
+    <w>very</w>
+    <w>broad</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="244.114"
+      end="258.530"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u31">
+    <w>We</w>
+    <w>concede</w>
+    <w>that</w>
+    <w>it</w>
+    <w>was</w>
+    <w>a</w>
+    <w>very</w>
+    <w>broad</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="258.530"
+      end="261.108"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u32">
+    <quotation type="begin"></quotation>
+    <w>Any</w>
+    <w>felony</w>
+    <quotation type="end"></quotation>
+    <w>couldn't</w>
+    <w>be</w>
+    <w>broader</w>
+    <t type="p"></t>
+    <media
+      start="261.108"
+      end="263.888"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u33">
+    <w>But</w>
+    <w>that</w>
+    <w>was</w>
+    <w>Congress's</w>
+    <w>choice</w>
+    <t type="p"></t>
+    <media
+      start="263.888"
+      end="266.868"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u34">
+    <w>And</w>
+    <w>if</w>
+    <w>Congress</w>
+    <w>chooses</w>
+    <w>to</w>
+    <w>amend</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>respectfully</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>ought</w>
+    <w>to</w>
+    <w>be</w>
+    <w>Congress</w>
+    <w>that</w>
+    <w>amends</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="266.868"
+      end="272.897"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u35">
+    <w>General</w>
+    <w>Mukasey</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>there</w>
+    <w>any</w>
+    <w>indication</w>
+    <w>why</w>
+    <w>this</w>
+    <w>prosecutor</w>
+    <w>chose</w>
+    <w>to</w>
+    <w>hook</w>
+    <w>the</w>
+    <w>carrying</w>
+    <w>an</w>
+    <w>explosive</w>
+    <w>onto</w>
+    <w>a</w>
+    <w>false-statement</w>
+    <w>charge</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>instead</w>
+    <w>of</w>
+    <w>some</w>
+    <w>charges</w>
+    <w>with</w>
+    <w>which</w>
+    <w>it</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <w>more</w>
+    <w>logically</w>
+    <w>linked</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>like</w>
+    <w>the</w>
+    <w>one</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>first</w>
+    <w>one</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>conspiracy</w>
+    <w>to</w>
+    <w>commit</w>
+    <w>an</w>
+    <w>act</w>
+    <w>of</w>
+    <w>terror</w>
+    <pause symbolic-length="simple"/>
+    <w>terrorism</w>
+    <t type="q"></t>
+    <media
+      start="272.897"
+      end="299.857"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u36">
+    <w>There</w>
+    <w>is</w>
+    <t type="p"></t>
+    <media
+      start="299.857"
+      end="300.871"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u37">
+    <w>At</w>
+    <w>the</w>
+    <w>time</w>
+    <w>the</w>
+    <w>case</w>
+    <w>was</w>
+    <w>brought</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>was</w>
+    <w>evidence</w>
+    <w>to</w>
+    <w>charge</w>
+    <w>the</w>
+    <w>first</w>
+    <w>count</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>conspiracy</w>
+    <w>to</w>
+    <w>commit</w>
+    <w>a</w>
+    <w>terrorist</w>
+    <w>act</w>
+    <t type="p"></t>
+    <media
+      start="300.871"
+      end="311.431"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u38">
+    <w>There</w>
+    <w>were</w>
+    <w>some</w>
+    <w>evidentiary</w>
+    <w>problems</w>
+    <s type="semicolon"/>
+    <w>a</w>
+    <w>great</w>
+    <w>deal</w>
+    <w>of</w>
+    <w>the</w>
+    <w>evidence</w>
+    <w>to</w>
+    <w>support</w>
+    <w>that</w>
+    <w>count</w>
+    <w>did</w>
+    <w>not</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>come</w>
+    <w>until</w>
+    <w>almost</w>
+    <w>literally</w>
+    <w>the</w>
+    <w>eve</w>
+    <w>of</w>
+    <w>trial</w>
+    <t type="p"></t>
+    <media
+      start="311.431"
+      end="322.065"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u39">
+    <w>A</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>it</w>
+    <w>came</w>
+    <w>from</w>
+    <w>overseas</w>
+    <t type="p"></t>
+    <media
+      start="322.065"
+      end="324.175"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u40">
+    <w>The</w>
+    <w>count</w>
+    <w>to</w>
+    <w>which</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>crime</w>
+    <w>to</w>
+    <w>which</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <w>was</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>attached</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>making</w>
+    <w>of</w>
+    <w>a</w>
+    <w>false</w>
+    <w>statement</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>was</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>use</w>
+    <w>a</w>
+    <w>colloquialism</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>lead-pipe</w>
+    <w>cinch</w>
+    <t type="p"></t>
+    <media
+      start="324.175"
+      end="340.371"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u41">
+    <w>He</w>
+    <w>had</w>
+    <w>clearly</w>
+    <w>made</w>
+    <w>a</w>
+    <w>false</w>
+    <w>statement</w>
+    <t type="p"></t>
+    <media
+      start="340.371"
+      end="343.089"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u42">
+    <w>He</w>
+    <w>had</w>
+    <w>clearly</w>
+    <w>carried</w>
+    <w>an</w>
+    <w>explosive</w>
+    <w>while</w>
+    <w>doing</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="343.089"
+      end="346.741"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u43">
+    <w>That</w>
+    <w>prosecutor's</w>
+    <w>decision</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>was</w>
+    <w>a</w>
+    <w>very</w>
+    <w>responsible</w>
+    <w>one</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>what</w>
+    <w>was</w>
+    <w>shown</w>
+    <w>when</w>
+    <w>they</w>
+    <w>opened</w>
+    <w>his</w>
+    <w>trunk</w>
+    <w>was</w>
+    <w>that</w>
+    <w>this</w>
+    <w>was</w>
+    <w>a</w>
+    <w>very</w>
+    <w>dangerous</w>
+    <w>person</w>
+    <s type="semicolon"/>
+    <w>and</w>
+    <w>they</w>
+    <w>wanted</w>
+    <w>to</w>
+    <w>bring</w>
+    <w>a</w>
+    <w>charge</w>
+    <w>on</w>
+    <w>which</w>
+    <w>they</w>
+    <w>were</w>
+    <w>sure</w>
+    <w>to</w>
+    <w>convict</w>
+    <w>him</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <w>that</w>
+    <w>his</w>
+    <w>carrying</w>
+    <w>of</w>
+    <w>the</w>
+    <w>explosive</w>
+    <w>would</w>
+    <w>get</w>
+    <w>him</w>
+    <w>ten</w>
+    <w>years</w>
+    <w>in</w>
+    <w>addition</w>
+    <w>to</w>
+    <w>that</w>
+    <w>charge</w>
+    <t type="p"></t>
+    <media
+      start="346.741"
+      end="365.888"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u44">
+    <w>I</w>
+    <w>guess</w>
+    <w>what's</w>
+    <w>troubling</w>
+    <w>me</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Attorney</w>
+    <w>General</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>that</w>
+    <w>it</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>does</w>
+    <w>seem</w>
+    <w>to</w>
+    <w>me</w>
+    <w>fair</w>
+    <w>enough</w>
+    <w>to</w>
+    <w>make</w>
+    <w>that</w>
+    <w>charge</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <s type="semicolon"/>
+    <w>but</w>
+    <w>then</w>
+    <w>we</w>
+    <pause symbolic-length="simple"/>
+    <w>but</w>
+    <w>then</w>
+    <w>we</w>
+    <w>have</w>
+    <w>the</w>
+    <w>tremendous</w>
+    <w>number</w>
+    <w>of</w>
+    <w>cases</w>
+    <w>where</w>
+    <w>the</w>
+    <w>prosecutor</w>
+    <w>is</w>
+    <w>going</w>
+    <w>to</w>
+    <w>be</w>
+    <w>in</w>
+    <w>the</w>
+    <w>position</w>
+    <w>in</w>
+    <w>a</w>
+    <w>plea-bargain</w>
+    <w>context</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>threaten</w>
+    <w>to</w>
+    <w>charge</w>
+    <w>this</w>
+    <w>offense</w>
+    <w>with</w>
+    <w>a</w>
+    <w>heavy</w>
+    <w>mandatory</w>
+    <w>minimum</w>
+    <t type="p"></t>
+    <media
+      start="365.888"
+      end="393.032"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u45">
+    <w>My</w>
+    <w>understanding</w>
+    <w>is</w>
+    <w>that</w>
+    <w>district</w>
+    <w>judges</w>
+    <w>do</w>
+    <w>not</w>
+    <w>and</w>
+    <w>cannot</w>
+    <w>be</w>
+    <w>involved</w>
+    <w>in</w>
+    <w>plea</w>
+    <w>bargain</w>
+    <w>negotiations</w>
+    <s type="semicolon"/>
+    <w>they</w>
+    <w>can</w>
+    <w>look</w>
+    <w>at</w>
+    <w>a</w>
+    <w>plea</w>
+    <w>before</w>
+    <w>it</w>
+    <w>is</w>
+    <w>entered</w>
+    <t type="p"></t>
+    <media
+      start="393.032"
+      end="402.984"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u46">
+    <w>What</w>
+    <w>can</w>
+    <w>you</w>
+    <w>tell</w>
+    <w>us</w>
+    <w>about</w>
+    <w>the</w>
+    <w>safeguards</w>
+    <w>that</w>
+    <w>might</w>
+    <w>exist</w>
+    <w>in</w>
+    <w>the</w>
+    <w>system</w>
+    <w>generally</w>
+    <w>against</w>
+    <pause symbolic-length="simple"/>
+    <w>against</w>
+    <w>overcharging</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>against</w>
+    <w>charging</w>
+    <w>for</w>
+    <w>something</w>
+    <w>where</w>
+    <w>the</w>
+    <w>result</w>
+    <w>is</w>
+    <w>close</w>
+    <w>to</w>
+    <w>absurd</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>in</w>
+    <w>some</w>
+    <w>of</w>
+    <w>these</w>
+    <w>hypotheticals</w>
+    <w>about</w>
+    <w>the</w>
+    <w>income</w>
+    <w>tax</w>
+    <w>return</w>
+    <w>and</w>
+    <w>the</w>
+    <w>gasoline</w>
+    <w>and</w>
+    <w>so</w>
+    <w>forth</w>
+    <t type="q"></t>
+    <media
+      start="402.984"
+      end="420.707"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u47">
+    <w>The</w>
+    <w>safeguard</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>safeguard</w>
+    <w>that</w>
+    <w>is</w>
+    <w>in</w>
+    <w>the</w>
+    <w>system</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>part</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>involves</w>
+    <w>the</w>
+    <w>history</w>
+    <w>of</w>
+    <w>the</w>
+    <w>system</w>
+    <t type="p"></t>
+    <media
+      start="420.707"
+      end="427.909"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u48">
+    <w>Rosenberg</w>
+    <w>was</w>
+    <w>decided</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>believe</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <g><w>nineteen</w>
+    <w>eighty-six</w><ga type="explanation">1986</ga></g>
+    <t type="p"></t>
+    <media
+      start="427.909"
+      end="432.425"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u49">
+    <w>That's</w>
+    <g><w>twenty-two</w><ga type="explanation">22</ga></g>
+    <w>years</w>
+    <w>ago</w>
+    <t type="p"></t>
+    <media
+      start="432.425"
+      end="435.299"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u50">
+    <w>There's</w>
+    <w>been</w>
+    <w>no</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>far</w>
+    <w>as</w>
+    <w>I</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>recorded</w>
+    <w>outbreak</w>
+    <w>of</w>
+    <w>this</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>thing</w>
+    <w>any</w>
+    <w>place</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>the</w>
+    <w>Third</w>
+    <w>Circuit</w>
+    <w>or</w>
+    <w>any</w>
+    <w>place</w>
+    <w>else</w>
+    <t type="p"></t>
+    <media
+      start="435.299"
+      end="441.499"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u51">
+    <w>And</w>
+    <w>it</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>that</w>
+    <w>a</w>
+    <w>defendant</w>
+    <w>would</w>
+    <w>be</w>
+    <w>able</w>
+    <w>to</w>
+    <w>challenge</w>
+    <w>that</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>threat</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>application</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>at</w>
+    <w>least</w>
+    <w>make</w>
+    <w>it</w>
+    <w>known</w>
+    <t type="p"></t>
+    <media
+      start="441.499"
+      end="450.229"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u52">
+    <w>We</w>
+    <w>haven't</w>
+    <w>received</w>
+    <w>any</w>
+    <w>notification</w>
+    <w>that</w>
+    <w>that's</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>that's</w>
+    <w>going</w>
+    <w>on</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>although</w>
+    <w>there</w>
+    <w>have</w>
+    <w>been</w>
+    <w>charges</w>
+    <w>of</w>
+    <pause symbolic-length="simple"/>
+    <w>under</w>
+    <g><w>eight</w>
+    <w>forty-four</w>
+    <w formType="letter">h</w><ga type="explanation">844(h)</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>relating</w>
+    <w>to</w>
+    <w>ammunition</w>
+    <t type="p"></t>
+    <media
+      start="450.229"
+      end="460.988"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u53">
+    <w>But</w>
+    <w>that's</w>
+    <w>scarcely</w>
+    <pause symbolic-length="simple"/>
+    <w>that's</w>
+    <w>scarcely</w>
+    <w>a</w>
+    <w>marginal</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="460.988"
+      end="465.161"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u54">
+    <w>The</w>
+    <w>hypothetical</w>
+    <w>of</w>
+    <w>the</w>
+    <w>fellow</w>
+    <w>with</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>with</w>
+    <w>the</w>
+    <w>firecracker</w>
+    <w>in</w>
+    <w>his</w>
+    <w>back</w>
+    <w>pocket</w>
+    <w>who</w>
+    <w>is</w>
+    <w>simultaneously</w>
+    <w>in</w>
+    <w>possession</w>
+    <w>of</w>
+    <w>a</w>
+    <g><w>twenty</w>
+    <w>dollar</w><ga type="explanation">$20</ga></g>
+    <w>counterfeit</w>
+    <w>bill</w>
+    <w>has</w>
+    <w>no</w>
+    <t type="interruption"></t>
+    <media
+      start="465.161"
+      end="477.422"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u55">
+    <w>General</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>my</w>
+    <w>question</w>
+    <w>would</w>
+    <w>be</w>
+    <w>the</w>
+    <w>converse</w>
+    <t type="p"></t>
+    <media
+      start="477.422"
+      end="480.826"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u56">
+    <w>Suppose</w>
+    <w>I</w>
+    <w>agreed</w>
+    <w>with</w>
+    <w>you</w>
+    <w>to</w>
+    <w>this</w>
+    <w>point</w>
+    <w>hypothetically</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there's</w>
+    <w>a</w>
+    <w>relationship</w>
+    <w>here</w>
+    <t type="p"></t>
+    <media
+      start="480.826"
+      end="488.352"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u57">
+    <w>In</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there's</w>
+    <w>a</w>
+    <w>relationship</w>
+    <t type="p"></t>
+    <media
+      start="488.352"
+      end="490.962"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u58">
+    <w>He</w>
+    <w>wouldn't</w>
+    <w>have</w>
+    <w>lied</w>
+    <w>if</w>
+    <w>he</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <w>he</w>
+    <w>hadn't</w>
+    <w>had</w>
+    <w>the</w>
+    <w>explosives</w>
+    <t type="p"></t>
+    <media
+      start="490.961"
+      end="494.193"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u59">
+    <w>Suppose</w>
+    <w>I</w>
+    <w>accept</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="494.193"
+      end="495.960"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u60">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>I</w>
+    <w>interpret</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>that</w>
+    <w>way</w>
+    <pause symbolic-length="simple"/>
+    <w>there</w>
+    <w>has</w>
+    <w>to</w>
+    <w>be</w>
+    <w>a</w>
+    <w>relationship</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>including</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>then</w>
+    <w>what</w>
+    <w>are</w>
+    <w>the</w>
+    <w>other</w>
+    <w>cases</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>prosecute</w>
+    <t type="q"></t>
+    <media
+      start="495.960"
+      end="506.219"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u61">
+    <w>In</w>
+    <w>the</w>
+    <w>other</w>
+    <w>briefs</w>
+    <w>they</w>
+    <w>list</w>
+    <w>every</w>
+    <w>funny</w>
+    <w>or</w>
+    <w>comical</w>
+    <w>or</w>
+    <w>absurd</w>
+    <w>example</w>
+    <w>they</w>
+    <w>can</w>
+    <w>find</w>
+    <s type="semicolon"/>
+    <w>and</w>
+    <w>so</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>believe</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>prosecute</w>
+    <w>those</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>tell</w>
+    <w>me</w>
+    <w>if</w>
+    <w>you</w>
+    <w>do</w>
+    <t type="p"></t>
+    <media
+      start="506.219"
+      end="515.953"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u62">
+    <w>And</w>
+    <w>if</w>
+    <w>there</w>
+    <w>are</w>
+    <w>some</w>
+    <w>other</w>
+    <w>ones</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>are</w>
+    <w>they</w>
+    <t type="q"></t>
+    <media
+      start="515.953"
+      end="519.326"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u63">
+    <linker type="self completion"/>
+    <w>We</w>
+    <w>don't</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>respectfully</w>
+    <tagMarker type="comma"></tagMarker>
+    <quotation type="begin"></quotation>
+    <w>relationship</w>
+    <quotation type="end"></quotation>
+    <w>doesn't</w>
+    <w>mean</w>
+    <w>in</w>
+    <w>a</w>
+    <w>statute</w>
+    <w>what</w>
+    <quotation type="begin"></quotation>
+    <w>relationship</w>
+    <quotation type="end"></quotation>
+    <w>means</w>
+    <w>in</w>
+    <w>conversation</w>
+    <t type="p"></t>
+    <media
+      start="519.326"
+      end="527.511"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u64">
+    <w>It</w>
+    <w>means</w>
+    <w>facilitation</w>
+    <w>under</w>
+    <w>a</w>
+    <w>knife</w>
+    <t type="p"></t>
+    <media
+      start="527.511"
+      end="531.929"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u65">
+    <w>It</w>
+    <w>means</w>
+    <w>that</w>
+    <t type="interruption"></t>
+    <media
+      start="531.928"
+      end="532.678"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u66">
+    <w>Fine</w>
+    <t type="p"></t>
+    <media
+      start="532.678"
+      end="533.212"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u67">
+    <w>So</w>
+    <w>suppose</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>other</w>
+    <w>words</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>we</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>hypothetically</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>were</w>
+    <w>to</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>here</w>
+    <w>there's</w>
+    <w>a</w>
+    <w>relationship</w>
+    <s type="semicolon"/>
+    <w>after</w>
+    <w>all</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>is</w>
+    <w>a</w>
+    <w>necessary</w>
+    <w>condition</w>
+    <w>for</w>
+    <w>the</w>
+    <w>lying</w>
+    <w>that</w>
+    <w>he</w>
+    <w>was</w>
+    <w>carrying</w>
+    <w>explosives</w>
+    <s type="semicolon"/>
+    <w>and</w>
+    <w>it</w>
+    <w>is</w>
+    <w>foreseeable</w>
+    <w>that</w>
+    <w>he</w>
+    <w>would</w>
+    <w>lie</w>
+    <w>on</w>
+    <w>his</w>
+    <w>passport</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>he</w>
+    <w>was</w>
+    <w>carrying</w>
+    <w>explosives</w>
+    <w>illegally</w>
+    <t type="p"></t>
+    <media
+      start="533.212"
+      end="549.063"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u68">
+    <w>So</w>
+    <w>that's</w>
+    <w>all</w>
+    <w>you</w>
+    <w>need</w>
+    <t type="p"></t>
+    <media
+      start="549.063"
+      end="551.547"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u69">
+    <w>In</w>
+    <w>other</w>
+    <w>words</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>that</w>
+    <w>were</w>
+    <w>the</w>
+    <w>decision</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>would</w>
+    <w>say</w>
+    <w>fine</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>the</w>
+    <w>end</w>
+    <w>of</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="551.547"
+      end="556.640"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u70">
+    <linker type="self completion"/>
+    <w>It</w>
+    <w>was</w>
+    <pause symbolic-length="simple"/>
+    <w>his</w>
+    <w>carrying</w>
+    <w>of</w>
+    <w>explosives</w>
+    <w>did</w>
+    <w>not</w>
+    <w>facilitate</w>
+    <w>his</w>
+    <w>lying</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="556.640"
+      end="562.809"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u71">
+    <w>No</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>didn't</w>
+    <w>facilitate</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>it</w>
+    <w>caused</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="562.809"
+      end="565.262"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u72">
+    <w>Maybe</w>
+    <w>it</w>
+    <w>caused</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>maybe</w>
+    <w>it</w>
+    <w>didn't</w>
+    <t type="p"></t>
+    <media
+      start="565.262"
+      end="568.807"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u73">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>it</w>
+    <w>didn't</w>
+    <pause symbolic-length="simple"/>
+    <w>all</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="568.807"
+      end="570.664"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u74">
+    <w>Would</w>
+    <w>you</w>
+    <w>be</w>
+    <w>satisfied</w>
+    <w>with</w>
+    <w>a</w>
+    <w>result</w>
+    <w>that</w>
+    <w>says</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>look</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>this</w>
+    <w>carrying</w>
+    <w>of</w>
+    <w>explosives</w>
+    <w>is</w>
+    <w>related</w>
+    <w>to</w>
+    <w>the</w>
+    <w>felony</w>
+    <w>in</w>
+    <w>the</w>
+    <w>sense</w>
+    <w>that</w>
+    <w>it</w>
+    <w>is</w>
+    <w>a</w>
+    <w>necessary</w>
+    <w>condition</w>
+    <w>and</w>
+    <w>foreseeable</w>
+    <w>that</w>
+    <w>a</w>
+    <w>person</w>
+    <w>would</w>
+    <w>do</w>
+    <w>such</w>
+    <w>a</w>
+    <w>thing</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>sufficient</w>
+    <t type="q"></t>
+    <media
+      start="570.664"
+      end="586.564"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u75">
+    <w>No</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>would</w>
+    <w>not</w>
+    <t type="p"></t>
+    <media
+      start="586.564"
+      end="588.327"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u76">
+    <w>Because</w>
+    <w>there</w>
+    <w>are</w>
+    <w>cases</w>
+    <w>in</w>
+    <w>which</w>
+    <w>it</w>
+    <w>may</w>
+    <w>become</w>
+    <w>necessary</w>
+    <w>to</w>
+    <w>prosecute</w>
+    <w>somebody</w>
+    <pause symbolic-length="simple"/>
+    <w>for</w>
+    <w>example</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>where</w>
+    <w>we</w>
+    <w>have</w>
+    <w>a</w>
+    <w>situation</w>
+    <w>in</w>
+    <w>which</w>
+    <w>we</w>
+    <w>can</w>
+    <w>charge</w>
+    <w>another</w>
+    <w>crime</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>the</w>
+    <w>charge</w>
+    <w>of</w>
+    <w>that</w>
+    <w>crime</w>
+    <w>would</w>
+    <w>involve</w>
+    <w>disclosure</w>
+    <w>of</w>
+    <w>classified</w>
+    <w>information</w>
+    <s type="semicolon"/>
+    <w>it</w>
+    <w>would</w>
+    <w>disclose</w>
+    <w>methods</w>
+    <w>and</w>
+    <w>sources</w>
+    <pause symbolic-length="simple"/>
+    <w>we</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>it</w>
+    <w>was</w>
+    <w>Congress's</w>
+    <w>choice</w>
+    <w>to</w>
+    <w>leave</w>
+    <w>to</w>
+    <w>the</w>
+    <w>judgment</w>
+    <w>of</w>
+    <w>prosecutors</w>
+    <w>the</w>
+    <w>decision</w>
+    <w>of</w>
+    <w>what</w>
+    <w>crimes</w>
+    <w>the</w>
+    <w>charge</w>
+    <w>in</w>
+    <w>conjunction</w>
+    <w>with</w>
+    <w>possession</w>
+    <w>of</w>
+    <w>explosives</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>we</w>
+    <w>think</w>
+    <w>that's</w>
+    <w>where</w>
+    <w>the</w>
+    <w>authority</w>
+    <w>should</w>
+    <w>remain</w>
+    <t type="p"></t>
+    <media
+      start="588.327"
+      end="622.315"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u77">
+    <w>Why</w>
+    <w>is</w>
+    <w>there</w>
+    <w>in</w>
+    <w>the</w>
+    <w>statutes</w>
+    <w>a</w>
+    <w>difference</w>
+    <w>between</w>
+    <w>possession</w>
+    <w>of</w>
+    <w>explosives</w>
+    <w>in</w>
+    <w>this</w>
+    <w>circumstance</w>
+    <w>and</w>
+    <w>possession</w>
+    <w>of</w>
+    <w>firearms</w>
+    <t type="q"></t>
+    <media
+      start="622.315"
+      end="630.422"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u78">
+    <w>Possession</w>
+    <w>of</w>
+    <w>explosives</w>
+    <w>inherently</w>
+    <w>involves</w>
+    <w>volatility</w>
+    <t type="p"></t>
+    <media
+      start="630.422"
+      end="638.557"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u79">
+    <w>You</w>
+    <w>asked</w>
+    <w>for</w>
+    <w>a</w>
+    <w>policy</w>
+    <w>explanation</w>
+    <t type="p"></t>
+    <media
+      start="638.557"
+      end="642.012"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u80">
+    <w>Possession</w>
+    <w>of</w>
+    <w>explosives</w>
+    <w>inherently</w>
+    <w>involves</w>
+    <w>a</w>
+    <w>degree</w>
+    <w>of</w>
+    <w>volatility</w>
+    <t type="p"></t>
+    <media
+      start="642.012"
+      end="646.930"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u81">
+    <w>Explosives</w>
+    <w>cause</w>
+    <w>indiscriminate</w>
+    <w>and</w>
+    <w>potentially</w>
+    <w>vast</w>
+    <w>harm</w>
+    <t type="p"></t>
+    <media
+      start="646.930"
+      end="651.149"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u82">
+    <w>Firearms</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>all</w>
+    <w>the</w>
+    <w>harm</w>
+    <w>they</w>
+    <w>cause</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>cause</w>
+    <w>discriminate</w>
+    <w>harm</w>
+    <t type="p"></t>
+    <media
+      start="651.149"
+      end="656.159"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u83">
+    <w>And</w>
+    <w>there's</w>
+    <w>every</w>
+    <w>reason</w>
+    <w>for</w>
+    <w>Congress</w>
+    <w>to</w>
+    <w>have</w>
+    <w>treated</w>
+    <w>explosives</w>
+    <w>differently</w>
+    <w>from</w>
+    <w>the</w>
+    <w>way</w>
+    <w>it</w>
+    <w>treated</w>
+    <w>firearms</w>
+    <t type="p"></t>
+    <media
+      start="656.159"
+      end="662.675"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u84">
+    <w>Was</w>
+    <pause symbolic-length="simple"/>
+    <w>was</w>
+    <w>the</w>
+    <w>further</w>
+    <w>explanation</w>
+    <w>that</w>
+    <w>what</w>
+    <w>they</w>
+    <w>were</w>
+    <w>doing</w>
+    <w>in</w>
+    <w>amending</w>
+    <w>the</w>
+    <w>firearms</w>
+    <w>statute</w>
+    <w>was</w>
+    <w>tailoring</w>
+    <w>it</w>
+    <w>more</w>
+    <w>precisely</w>
+    <w>to</w>
+    <w>the</w>
+    <w>possible</w>
+    <w>felony</w>
+    <w>by</w>
+    <w>a</w>
+    <w>police</w>
+    <w>officer</w>
+    <w>situation</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>they</w>
+    <w>simply</w>
+    <w>did</w>
+    <w>not</w>
+    <w>face</w>
+    <w>that</w>
+    <w>possibility</w>
+    <w>in</w>
+    <w>the</w>
+    <w>explosives</w>
+    <w>statute</w>
+    <t type="q"></t>
+    <media
+      start="662.675"
+      end="678.278"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u85">
+    <w>I</w>
+    <w>think</w>
+    <w>the</w>
+    <w>history</w>
+    <w>of</w>
+    <w>the</w>
+    <w>amendments</w>
+    <w>to</w>
+    <g><w>nine</w>
+    <w>twenty-four</w>
+    <w formType="letter">c</w><ga type="explanation">924(c)</ga></g>
+    <w>reflects</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="678.278"
+      end="681.620"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u86">
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="681.620"
+      end="682.384"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u87">
+    <w>So</w>
+    <w>it's</w>
+    <w>a</w>
+    <w>difference</w>
+    <w>in</w>
+    <w>two</w>
+    <w>respects</w>
+    <t type="p"></t>
+    <media
+      start="682.384"
+      end="685.539"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u88">
+    <w>One</w>
+    <w>is</w>
+    <g><w>nine</w>
+    <w>twenty-four</w>
+    <w formType="letter">c</w><ga type="explanation">924(c)</ga></g>
+    <w>has</w>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relationship</w>
+    <quotation type="end"></quotation>
+    <w>requirement</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>it</w>
+    <w>also</w>
+    <w>has</w>
+    <w>a</w>
+    <w>shorter</w>
+    <w>term</w>
+    <t type="p"></t>
+    <media
+      start="685.539"
+      end="695.208"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u89">
+    <w>It's</w>
+    <w>only</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>one</w>
+    <w>it</w>
+    <w>is</w>
+    <w>five</w>
+    <w>years</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>other</w>
+    <w>is</w>
+    <w>ten</w>
+    <w>years</w>
+    <t type="p"></t>
+    <media
+      start="695.208"
+      end="698.250"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u90">
+    <w>Is</w>
+    <w>that</w>
+    <w>right</w>
+    <t type="q"></t>
+    <media
+      start="698.250"
+      end="699.627"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u91">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>correct</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>Ginsburg</w>
+    <s type="semicolon"/>
+    <w>and</w>
+    <w>that</w>
+    <w>underlines</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>dangerousness</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>Congress's</w>
+    <w>perception</w>
+    <w>of</w>
+    <w>the</w>
+    <w>dangerousness</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>volatility</w>
+    <w>of</w>
+    <w>explosives</w>
+    <t type="p"></t>
+    <media
+      start="699.627"
+      end="709.984"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u92">
+    <w>And</w>
+    <w>certainly</w>
+    <t type="interruption"></t>
+    <media
+      start="709.984"
+      end="712.106"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u93">
+    <w>Is</w>
+    <w>there</w>
+    <w>any</w>
+    <t type="interruption"></t>
+    <media
+      start="712.106"
+      end="713.529"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u94">
+    <linker type="self completion"/>
+    <w>this</w>
+    <w>case</w>
+    <w>bears</w>
+    <w>that</w>
+    <w>out</w>
+    <t type="p"></t>
+    <media
+      start="713.529"
+      end="714.761"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u95">
+    <linker type="self completion"/>
+    <w>Is</w>
+    <w>there</w>
+    <w>any</w>
+    <w>policy</w>
+    <w>limitation</w>
+    <w>within</w>
+    <w>the</w>
+    <w>department</w>
+    <w>not</w>
+    <w>to</w>
+    <w>charge</w>
+    <w>under</w>
+    <w>this</w>
+    <w>provision</w>
+    <w>unless</w>
+    <w>there</w>
+    <w>is</w>
+    <w>a</w>
+    <w>relationship</w>
+    <w>between</w>
+    <w>the</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <w>and</w>
+    <w>the</w>
+    <w>use</w>
+    <w>of</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>carrying</w>
+    <w>of</w>
+    <w>explosives</w>
+    <t type="q"></t>
+    <media
+      start="714.761"
+      end="726.772"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u96">
+    <w>There</w>
+    <w>is</w>
+    <w>no</w>
+    <w>policy</w>
+    <w>limitation</w>
+    <w>that</w>
+    <w>I'm</w>
+    <w>aware</w>
+    <w>of</w>
+    <t type="p"></t>
+    <media
+      start="726.772"
+      end="729.146"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u97">
+    <w>And</w>
+    <w>you</w>
+    <w>do</w>
+    <w>have</w>
+    <w>policy</w>
+    <w>guidelines</w>
+    <w>with</w>
+    <w>money</w>
+    <w>laundering</w>
+    <t type="p"></t>
+    <media
+      start="729.146"
+      end="733.850"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u98">
+    <w>We</w>
+    <w>do</w>
+    <t type="p"></t>
+    <media
+      start="733.849"
+      end="734.987"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u99">
+    <w>And</w>
+    <w>I</w>
+    <w>suppose</w>
+    <w>if</w>
+    <w>you</w>
+    <w>thought</w>
+    <w>there</w>
+    <w>was</w>
+    <w>a</w>
+    <w>problem</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>could</w>
+    <w>promulgate</w>
+    <w>them</w>
+    <w>out</w>
+    <w>of</w>
+    <w>your</w>
+    <w>department</w>
+    <t type="p"></t>
+    <media
+      start="734.987"
+      end="742.109"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u100">
+    <w>I</w>
+    <w>think</w>
+    <w>I'd</w>
+    <w>be</w>
+    <w>ideally</w>
+    <w>suited</w>
+    <w>to</w>
+    <w>do</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="742.109"
+      end="744.842"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u101">
+    <e><action/></e>
+    <e><happening>laughter</happening></e>
+    <t type="p"></t>
+    <media
+      start="744.842"
+      end="745.735"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u102">
+    <w>The</w>
+    <w>ten</w>
+    <w>years</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>though</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>mandatory</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>correct</w>
+    <t type="q"></t>
+    <media
+      start="745.735"
+      end="754.528"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u103">
+    <w>The</w>
+    <w>ten</w>
+    <w>years</w>
+    <w>is</w>
+    <w>mandatory</w>
+    <t type="p"></t>
+    <media
+      start="754.528"
+      end="756.135"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u104">
+    <w>So</w>
+    <w>if</w>
+    <w>a</w>
+    <w>prosecutor</w>
+    <w>asks</w>
+    <w>for</w>
+    <w>it</w>
+    <w>and</w>
+    <w>there</w>
+    <w>is</w>
+    <w>an</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <w>and</w>
+    <w>there</w>
+    <w>is</w>
+    <w>an</w>
+    <w>explosive</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>an</w>
+    <w>additional</w>
+    <w>ten</w>
+    <w>years</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>matter</w>
+    <w>what</w>
+    <t type="p"></t>
+    <media
+      start="756.135"
+      end="763.197"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u105">
+    <w>That's</w>
+    <w>an</w>
+    <w>additional</w>
+    <w>ten</w>
+    <w>years</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>matter</w>
+    <w>what</w>
+    <t type="p"></t>
+    <media
+      start="763.197"
+      end="765.162"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u106">
+    <w>So</w>
+    <w>if</w>
+    <w>you</w>
+    <w>get</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <w>is</w>
+    <w>of</w>
+    <w>the</w>
+    <w>sort</w>
+    <w>Justice</w>
+    <w>Scalia</w>
+    <w>was</w>
+    <w>talking</w>
+    <w>about</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>let's</w>
+    <w>say</w>
+    <w>the</w>
+    <w>person</w>
+    <w>gets</w>
+    <w>probation</w>
+    <w>on</w>
+    <w>that</w>
+    <w>because</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>is</w>
+    <w>the</w>
+    <w>first</w>
+    <w>offense</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>harm</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he</w>
+    <w>still</w>
+    <w>gets</w>
+    <w>ten</w>
+    <w>years</w>
+    <t type="p"></t>
+    <media
+      start="765.162"
+      end="777.406"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u107">
+    <w>He</w>
+    <w>still</w>
+    <w>gets</w>
+    <w>ten</w>
+    <w>years</w>
+    <t type="p"></t>
+    <media
+      start="777.406"
+      end="779.890"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u108">
+    <w>It</w>
+    <w>is</w>
+    <w>possible</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>again</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>imagine</w>
+    <w>many</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>many</w>
+    <w>marginal</w>
+    <w>situations</w>
+    <s type="semicolon"/>
+    <w>but</w>
+    <w>I</w>
+    <w>think</w>
+    <w>Congress</w>
+    <w>was</w>
+    <w>willing</w>
+    <w>to</w>
+    <w>contemplate</w>
+    <w>that</w>
+    <w>because</w>
+    <w>it</w>
+    <w>wanted</w>
+    <w>to</w>
+    <w>make</w>
+    <w>sure</w>
+    <w>that</w>
+    <w>it</w>
+    <w>swept</w>
+    <w>in</w>
+    <w>the</w>
+    <w>cases</w>
+    <w>that</w>
+    <w>had</w>
+    <w>to</w>
+    <w>be</w>
+    <w>swept</w>
+    <w>in</w>
+    <t type="p"></t>
+    <media
+      start="779.890"
+      end="793.855"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u109">
+    <w>And</w>
+    <w>to</w>
+    <w>add</w>
+    <w>a</w>
+    <w>relational</w>
+    <w>element</w>
+    <w>would</w>
+    <w>leave</w>
+    <w>us</w>
+    <w>unprotected</w>
+    <w>against</w>
+    <w>the</w>
+    <w>cases</w>
+    <w>that</w>
+    <w>Congress</w>
+    <w>wanted</w>
+    <w>to</w>
+    <w>include</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>protected</w>
+    <w>only</w>
+    <w>against</w>
+    <w>the</w>
+    <w>marginal</w>
+    <w>ones</w>
+    <t type="p"></t>
+    <media
+      start="793.855"
+      end="806.022"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u110">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>how</w>
+    <w>many</w>
+    <w>cases</w>
+    <w>are</w>
+    <w>there</w>
+    <w>likely</w>
+    <w>to</w>
+    <w>be</w>
+    <pause symbolic-length="simple"/>
+    <w>this</w>
+    <w>isn't</w>
+    <w>one</w>
+    <w>of</w>
+    <w>them</w>
+    <pause symbolic-length="simple"/>
+    <w>where</w>
+    <w>you</w>
+    <w>have</w>
+    <w>no</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <w>connection</w>
+    <w>whatsoever</w>
+    <t type="q"></t>
+    <media
+      start="806.022"
+      end="814.176"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u111">
+    <w>How</w>
+    <w>many</w>
+    <w>cases</w>
+    <w>as</w>
+    <w>a</w>
+    <w>matter</w>
+    <w>of</w>
+    <w>common</w>
+    <w>sense</w>
+    <t type="q"></t>
+    <media
+      start="814.176"
+      end="818.671"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u112">
+    <w>Or</w>
+    <w>any</w>
+    <w>historical</w>
+    <w>record</w>
+    <w>that</w>
+    <w>you're</w>
+    <w>familiar</w>
+    <w>with</w>
+    <t type="p"></t>
+    <media
+      start="818.671"
+      end="822.859"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u113">
+    <w>No</w>
+    <w>historical</w>
+    <w>record</w>
+    <w>that</w>
+    <w>I'm</w>
+    <w>familiar</w>
+    <w>with</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>complete</w>
+    <w>knowledge</w>
+    <w>of</w>
+    <w>the</w>
+    <w>historical</w>
+    <w>record</w>
+    <t type="p"></t>
+    <media
+      start="822.859"
+      end="828.186"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u114">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>you</w>
+    <w>point</w>
+    <w>out</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>was</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>connection</w>
+    <t type="p"></t>
+    <media
+      start="828.186"
+      end="833.088"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u115">
+    <w>And</w>
+    <w>I</w>
+    <w>would</w>
+    <w>have</w>
+    <w>thought</w>
+    <w>in</w>
+    <w>most</w>
+    <w>cases</w>
+    <w>where</w>
+    <w>the</w>
+    <w>prosecutor</w>
+    <w>is</w>
+    <w>interested</w>
+    <w>in</w>
+    <w>charging</w>
+    <pause symbolic-length="simple"/>
+    <w>because</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>you</w>
+    <w>have</w>
+    <w>indicated</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>case</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>there</w>
+    <w>would</w>
+    <w>be</w>
+    <w>an</w>
+    <w>actual</w>
+    <w>connection</w>
+    <t type="p"></t>
+    <media
+      start="833.088"
+      end="844.927"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u116">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>may</w>
+    <w>have</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>you</w>
+    <w>suggest</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>problems</w>
+    <w>with</w>
+    <w>proof</w>
+    <w>or</w>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>evidence</w>
+    <s type="semicolon"/>
+    <w>but</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>a</w>
+    <w>practical</w>
+    <w>matter</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>just</w>
+    <w>wondering</w>
+    <w>how</w>
+    <w>often</w>
+    <w>the</w>
+    <w>question</w>
+    <w>we're</w>
+    <w>concerned</w>
+    <w>about</w>
+    <w>arises</w>
+    <t type="p"></t>
+    <media
+      start="844.927"
+      end="854.017"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u117">
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <pause symbolic-length="simple"/>
+    <w>I'm</w>
+    <w>not</w>
+    <w>aware</w>
+    <w>of</w>
+    <w>any</w>
+    <w>other</w>
+    <w>situation</w>
+    <w>in</w>
+    <w>which</w>
+    <w>it</w>
+    <w>has</w>
+    <w>arisen</w>
+    <t type="p"></t>
+    <media
+      start="854.017"
+      end="858.002"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u118">
+    <w>But</w>
+    <w>I</w>
+    <w>don't</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>think</w>
+    <w>Congress</w>
+    <w>didn't</w>
+    <w>wanted</w>
+    <w>to</w>
+    <w>rule</w>
+    <w>out</w>
+    <w>anything</w>
+    <w>when</w>
+    <w>it</w>
+    <w>wrote</w>
+    <quotation type="begin"></quotation>
+    <w>any</w>
+    <w>felony</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+    <media
+      start="858.002"
+      end="863.921"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u119">
+    <w>This</w>
+    <w>isn't</w>
+    <w>a</w>
+    <w>very</w>
+    <w>good</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="863.921"
+      end="866.120"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u120">
+    <w>If</w>
+    <w>you</w>
+    <w>wanted</w>
+    <w>to</w>
+    <w>bring</w>
+    <w>a</w>
+    <w>really</w>
+    <w>absurd</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>could</w>
+    <w>have</w>
+    <w>picked</w>
+    <w>a</w>
+    <w>better</w>
+    <w>one</w>
+    <w>than</w>
+    <w>this</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>there</w>
+    <w>really</w>
+    <w>is</w>
+    <w>something</w>
+    <w>of</w>
+    <w>a</w>
+    <w>connection</w>
+    <t type="p"></t>
+    <media
+      start="866.120"
+      end="873.510"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u121">
+    <w>I</w>
+    <w>think</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>think</w>
+    <w>the</w>
+    <w>lessons</w>
+    <w>we</w>
+    <w>learned</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>particularly</w>
+    <w>about</w>
+    <w>the</w>
+    <w>history</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>that</w>
+    <w>we</w>
+    <w>don't</w>
+    <w>want</w>
+    <w>to</w>
+    <w>bring</w>
+    <w>absurd</w>
+    <w>cases</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>we</w>
+    <w>don't</w>
+    <t type="p"></t>
+    <media
+      start="873.510"
+      end="879.851"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u122">
+    <w>But</w>
+    <w>I</w>
+    <w>mean</w>
+    <w>the</w>
+    <w>interesting</w>
+    <w>thing</w>
+    <w>is</w>
+    <w>that</w>
+    <w>you're</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>cases</w>
+    <w>where</w>
+    <w>this</w>
+    <w>is</w>
+    <w>going</w>
+    <w>to</w>
+    <w>arise</w>
+    <w>is</w>
+    <w>not</w>
+    <w>where</w>
+    <w>you're</w>
+    <w>really</w>
+    <w>worried</w>
+    <w>about</w>
+    <w>the</w>
+    <w>explosives</w>
+    <s type="semicolon"/>
+    <w>it's</w>
+    <w>going</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>because</w>
+    <w>in</w>
+    <w>that</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>presumably</w>
+    <w>there</w>
+    <w>is</w>
+    <w>going</w>
+    <w>to</w>
+    <w>be</w>
+    <w>a</w>
+    <w>relation</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>you</w>
+    <w>can</w>
+    <w>use</w>
+    <w>it</w>
+    <w>as</w>
+    <w>you</w>
+    <w>used</w>
+    <w>it</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="879.851"
+      end="892.895"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u123">
+    <w>The</w>
+    <w>cases</w>
+    <w>where</w>
+    <w>this</w>
+    <w>is</w>
+    <w>going</w>
+    <w>to</w>
+    <w>be</w>
+    <w>problematic</w>
+    <w>is</w>
+    <w>when</w>
+    <w>you</w>
+    <w>are</w>
+    <w>really</w>
+    <w>interested</w>
+    <w>in</w>
+    <w>the</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <t type="p"></t>
+    <media
+      start="892.895"
+      end="898.280"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u124">
+    <w>That</w>
+    <t type="interruption"></t>
+    <media
+      start="898.280"
+      end="898.841"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u125">
+    <w>You</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>guy</w>
+    <w>who's</w>
+    <w>driving</w>
+    <w>in</w>
+    <w>his</w>
+    <w>car</w>
+    <w>and</w>
+    <w>calls</w>
+    <w>his</w>
+    <w>broker</w>
+    <w>and</w>
+    <w>is</w>
+    <w>guilty</w>
+    <w>of</w>
+    <w>insider</w>
+    <w>trading</w>
+    <w>and</w>
+    <w>has</w>
+    <w>some</w>
+    <w>firecrackers</w>
+    <w>in</w>
+    <w>the</w>
+    <w>trunk</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you're</w>
+    <w>not</w>
+    <w>worried</w>
+    <w>about</w>
+    <w>the</w>
+    <w>firecrackers</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>you</w>
+    <w>want</w>
+    <w>to</w>
+    <w>crack</w>
+    <w>down</w>
+    <w>on</w>
+    <w>the</w>
+    <w>insider</w>
+    <w>trading</w>
+    <t type="p"></t>
+    <media
+      start="898.841"
+      end="909.775"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u126">
+    <linker type="self completion"/>
+    <w>That</w>
+    <w>has</w>
+    <w>to</w>
+    <w>do</w>
+    <w>more</w>
+    <w>with</w>
+    <w>the</w>
+    <w>breadth</w>
+    <w>of</w>
+    <w>the</w>
+    <w>definition</w>
+    <w>of</w>
+    <quotation type="begin"></quotation>
+    <w>explosives</w>
+    <quotation type="end"></quotation>
+    <w>than</w>
+    <w>it</w>
+    <w>has</w>
+    <w>to</w>
+    <w>do</w>
+    <w>with</w>
+    <w>the</w>
+    <w>question</w>
+    <w>of</w>
+    <w>a</w>
+    <w>relationship</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>we</w>
+    <w>may</w>
+    <w>very</w>
+    <w>well</w>
+    <w>be</w>
+    <w>concerned</w>
+    <w>with</w>
+    <w>the</w>
+    <w>person</w>
+    <w>who</w>
+    <w>is</w>
+    <w>committing</w>
+    <w>what</w>
+    <w>sounds</w>
+    <w>like</w>
+    <w>an</w>
+    <w>innocuous</w>
+    <w>felony</w>
+    <w>but</w>
+    <w>carrying</w>
+    <w>a</w>
+    <w>load</w>
+    <w>of</w>
+    <w>explosives</w>
+    <w>in</w>
+    <w>his</w>
+    <w>trunk</w>
+    <t type="p"></t>
+    <media
+      start="909.775"
+      end="927.675"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u127">
+    <w>So</w>
+    <w>weaving</w>
+    <w>in</w>
+    <w>a</w>
+    <w>relational</w>
+    <w>requirement</w>
+    <w>isn't</w>
+    <w>going</w>
+    <w>to</w>
+    <w>solve</w>
+    <w>the</w>
+    <w>problem</w>
+    <w>that's</w>
+    <w>posed</w>
+    <w>in</w>
+    <w>what</w>
+    <w>I</w>
+    <w>think</w>
+    <w>is</w>
+    <w>Your</w>
+    <w>Honor's</w>
+    <w>hypothetical</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>is</w>
+    <w>the</w>
+    <w>fact</w>
+    <w>that</w>
+    <w>firecrackers</w>
+    <w>are</w>
+    <w>as</w>
+    <w>much</w>
+    <w>explosives</w>
+    <w>as</w>
+    <w>bombs</w>
+    <w>under</w>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>explosives</w>
+    <quotation type="end"></quotation>
+    <w>definition</w>
+    <w>contained</w>
+    <w>in</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="927.675"
+      end="945.651"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u128">
+    <w>If</w>
+    <w>there</w>
+    <w>are</w>
+    <w>no</w>
+    <w>further</w>
+    <w>questions</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'd</w>
+    <w>like</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>reserve</w>
+    <w>the</w>
+    <w>remainder</w>
+    <w>of</w>
+    <w>my</w>
+    <w>time</w>
+    <w>for</w>
+    <w>rebuttal</w>
+    <t type="p"></t>
+    <media
+      start="945.651"
+      end="956.647"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u129">
+    <w>Thank</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Attorney</w>
+    <w>General</w>
+    <t type="p"></t>
+    <media
+      start="956.647"
+      end="958.663"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u130">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Hillier</w>
+    <t type="p"></t>
+    <media
+      start="958.663"
+      end="965.036"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">ORAL ARGUMENT OF THOMAS W. HILLIER, II ON BEHALF OF THE RESPONDENT</comment>
+  <u who="HILLI" uID="u131">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>may</w>
+    <w>it</w>
+    <w>please</w>
+    <w>the</w>
+    <w>Court</w>
+    <s type="colon"/>
+    <w>General</w>
+    <w>Mukasey</w>
+    <w>put</w>
+    <w>his</w>
+    <w>finger</w>
+    <w>on</w>
+    <w>the</w>
+    <w>point</w>
+    <w>here</w>
+    <w>when</w>
+    <w>he</w>
+    <w>said</w>
+    <w>we</w>
+    <w>wanted</w>
+    <w>to</w>
+    <w>charge</w>
+    <w>a</w>
+    <w>lead-pipe</w>
+    <w>cinch</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="965.036"
+      end="976.189"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u132">
+    <w>But</w>
+    <w>in</w>
+    <w>doing</w>
+    <w>so</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>we</w>
+    <w>now</w>
+    <w>have</w>
+    <w>is</w>
+    <w>what</w>
+    <w>was</w>
+    <w>a</w>
+    <w>terrorism</w>
+    <w>prosecution</w>
+    <w>and</w>
+    <w>a</w>
+    <w>choice</w>
+    <w>to</w>
+    <w>link</w>
+    <w>the</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>to</w>
+    <w>link</w>
+    <w>the</w>
+    <w>carrying</w>
+    <w>explosives</w>
+    <w>charges</w>
+    <w>exclusively</w>
+    <w>to</w>
+    <w>count</w>
+    <g><w>five</w><ga type="explanation">5</ga></g>
+    <w>of</w>
+    <w>the</w>
+    <w>indictment</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>charged</w>
+    <w>a</w>
+    <w>false</w>
+    <w>statement</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>an</w>
+    <w>argument</w>
+    <w>which</w>
+    <w>requests</w>
+    <w>that</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>apply</w>
+    <w>this</w>
+    <w>statute</w>
+    <w>to</w>
+    <w>all</w>
+    <w>sorts</w>
+    <w>of</w>
+    <w>situations</w>
+    <w>theoretically</w>
+    <w>that</w>
+    <w>might</w>
+    <w>even</w>
+    <w>involve</w>
+    <w>explosives</w>
+    <w>that</w>
+    <w>were</w>
+    <w>lawfully</w>
+    <w>carried</w>
+    <w>during</w>
+    <w>a</w>
+    <w>completely</w>
+    <w>unrelated</w>
+    <w>felony</w>
+    <t type="p"></t>
+    <media
+      start="976.189"
+      end="1006.644"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u133">
+    <w>And</w>
+    <w>I</w>
+    <w>would</w>
+    <w>disagree</w>
+    <w>that</w>
+    <w>that's</w>
+    <w>what</w>
+    <w>Congress</w>
+    <w>thought</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>what</w>
+    <w>Congress</w>
+    <w>thought</w>
+    <w>when</w>
+    <w>it</w>
+    <w>was</w>
+    <w>creating</w>
+    <w>this</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="1006.644"
+      end="1013.515"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u134">
+    <w>The</w>
+    <w>words</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>applying</w>
+    <w>this</w>
+    <w>Court's</w>
+    <w>statutory</w>
+    <w>construction</w>
+    <w>regime</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>we</w>
+    <w>do</w>
+    <w>first</w>
+    <w>of</w>
+    <w>all</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>look</w>
+    <w>to</w>
+    <w>the</w>
+    <w>words</w>
+    <w>of</w>
+    <w>the</w>
+    <w>text</w>
+    <w>to</w>
+    <w>see</w>
+    <w>if</w>
+    <w>it</w>
+    <w>means</w>
+    <w>what</w>
+    <w>the</w>
+    <w>government</w>
+    <w>suggests</w>
+    <w>it</w>
+    <w>does</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="1013.515"
+      end="1030.681"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u135">
+    <w>And</w>
+    <w>as</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Chief</w>
+    <w>Justice</w>
+    <w>Roberts</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>have</w>
+    <w>already</w>
+    <w>indicated</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>word</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <w>has</w>
+    <w>meanings</w>
+    <w>beyond</w>
+    <w>just</w>
+    <w>the</w>
+    <w>temporal</w>
+    <w>one</w>
+    <w>used</w>
+    <w>here</w>
+    <t type="p"></t>
+    <media
+      start="1030.681"
+      end="1040.550"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u136">
+    <w>But</w>
+    <w>also</w>
+    <w>other</w>
+    <w>words</w>
+    <w>in</w>
+    <w>the</w>
+    <w>text</w>
+    <w>have</w>
+    <w>significance</w>
+    <w>to</w>
+    <w>describing</w>
+    <w>what</w>
+    <w>the</w>
+    <w>meaning</w>
+    <w>of</w>
+    <w>this</w>
+    <w>particular</w>
+    <w>statute</w>
+    <w>is</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>important</w>
+    <w>among</w>
+    <w>those</w>
+    <w>are</w>
+    <w>the</w>
+    <w>terms</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>is</w>
+    <w>found</w>
+    <w>in</w>
+    <w>the</w>
+    <w>concluding</w>
+    <w>sentence</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="1040.550"
+      end="1053.949"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u137">
+    <w>And</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>companion</w>
+    <w>word</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>largest</w>
+    <w>word</w>
+    <w>in</w>
+    <w>this</w>
+    <w>particular</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <quotation type="begin"></quotation>
+    <w>explosives</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>its</w>
+    <w>very</w>
+    <w>broad</w>
+    <w>definition</w>
+    <w>under</w>
+    <g><w>eight</w>
+    <w>forty-four</w>
+    <w formType="letter">j</w><ga type="explanation">844(j)</ga></g>
+    <t type="p"></t>
+    <media
+      start="1053.949"
+      end="1066.615"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u138">
+    <w>Taking</w>
+    <w>first</w>
+    <w>the</w>
+    <w>term</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>is</w>
+    <w>at</w>
+    <w>the</w>
+    <w>conclusion</w>
+    <w>of</w>
+    <g><w>eight</w>
+    <w>forty-four</w>
+    <w formType="letter">h</w><ga type="explanation">844(h)</ga></g>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>I'll</w>
+    <w>quote</w>
+    <t type="p"></t>
+    <media
+      start="1066.615"
+      end="1074.784"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u139">
+    <w>And</w>
+    <w>what</w>
+    <w>it</w>
+    <w>says</w>
+    <w>is</w>
+    <w>that</w>
+    <w>the</w>
+    <w>penalty</w>
+    <w>that's</w>
+    <w>going</w>
+    <w>to</w>
+    <w>attach</w>
+    <w>to</w>
+    <w>this</w>
+    <w>prosecution</w>
+    <w>shall</w>
+    <w>run</w>
+    <w>consecutively</w>
+    <w>to</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>quote</w>
+    <tagMarker type="comma"></tagMarker>
+    <t type="quotation next line"></t>
+    <media
+      start="1074.784"
+      end="1085.012"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u140">
+    <linker type="quoted utterance next"/>
+    <w>the</w>
+    <w>felony</w>
+    <w>in</w>
+    <w>which</w>
+    <w>the</w>
+    <w>explosive</w>
+    <w>was</w>
+    <w>used</w>
+    <w>or</w>
+    <w>carried</w>
+    <t type="p"></t>
+    <media
+      start="1085.012"
+      end="1088.670"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u141">
+    <w>You're</w>
+    <w>saying</w>
+    <w>it</w>
+    <w>should</w>
+    <w>have</w>
+    <w>said</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <t type="q"></t>
+    <media
+      start="1088.670"
+      end="1090.698"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u142">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <t type="interruption"></t>
+    <media
+      start="1090.698"
+      end="1092.527"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u143">
+    <linker type="quoted utterance next"/>
+    <w>During</w>
+    <w>the</w>
+    <w>commission</w>
+    <w>of</w>
+    <w>which</w>
+    <w>the</w>
+    <w>explosive</w>
+    <w>was</w>
+    <w>used</w>
+    <w>or</w>
+    <w>carried</w>
+    <t type="q"></t>
+    <media
+      start="1092.527"
+      end="1095.214"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u144">
+    <linker type="self completion"/>
+    <w>I</w>
+    <w>just</w>
+    <w>think</w>
+    <w>that</w>
+    <w>the</w>
+    <w>words</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>words</w>
+    <w>that</w>
+    <w>were</w>
+    <w>used</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>establish</w>
+    <w>the</w>
+    <w>notion</w>
+    <w>of</w>
+    <w>a</w>
+    <w>relationship</w>
+    <w>between</w>
+    <w>the</w>
+    <w>felony</w>
+    <w>and</w>
+    <w>the</w>
+    <w>explosive</w>
+    <t type="p"></t>
+    <media
+      start="1095.214"
+      end="1105.426"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u145">
+    <w>The</w>
+    <w>word</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <quotation type="end"></quotation>
+    <w>is</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>indicated</w>
+    <w>in</w>
+    <w>Dunn</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Commodity</w>
+    <w>Futures</w>
+    <w>Trading</w>
+    <w>Commission</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>five</w>
+    <w>nineteen</w><ga type="explanation">519</ga></g>
+    <g><w>U_S</w><ga type="explanation">U.S.</ga></g>
+    <g><w>four</w>
+    <w>sixty-five</w><ga type="explanation">465</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>synonymous</w>
+    <w>with</w>
+    <w>the</w>
+    <w>words</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>regard</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <w>or</w>
+    <quotation type="begin"></quotation>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+    <media
+      start="1105.426"
+      end="1118.829"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u146">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>just</w>
+    <pause symbolic-length="simple"/>
+    <w>just</w>
+    <w>as</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <w>has</w>
+    <w>more</w>
+    <w>than</w>
+    <w>temporal</w>
+    <pause symbolic-length="simple"/>
+    <w>can</w>
+    <w>have</w>
+    <w>more</w>
+    <w>than</w>
+    <w>temporal</w>
+    <w>significance</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <quotation type="end"></quotation>
+    <w>can</w>
+    <w>have</w>
+    <w>temporal</w>
+    <w>significance</w>
+    <t type="p"></t>
+    <media
+      start="1118.829"
+      end="1128.652"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u147">
+    <w>It</w>
+    <w>does</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="1128.652"
+      end="1130.029"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u148">
+    <w>We</w>
+    <w>write</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>the</w>
+    <w>holiday</w>
+    <w>season</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+    <media
+      start="1130.029"
+      end="1131.682"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u149">
+    <w>That's</w>
+    <w>very</w>
+    <w>true</w>
+    <t type="p"></t>
+    <media
+      start="1131.682"
+      end="1132.574"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u150">
+    <w>And</w>
+    <w>it</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>has</w>
+    <w>a</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>quote</w>
+    <tagMarker type="comma"></tagMarker>
+    <quotation type="begin"></quotation>
+    <w>locational</w>
+    <quotation type="end"></quotation>
+    <w>sort</w>
+    <w>of</w>
+    <w>significance</w>
+    <w>also</w>
+    <t type="p"></t>
+    <media
+      start="1132.574"
+      end="1136.478"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u151">
+    <w>But</w>
+    <w>as</w>
+    <w>noted</w>
+    <w>in</w>
+    <w>Dunn</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>its</w>
+    <w>primary</w>
+    <w>definition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>its</w>
+    <w>first</w>
+    <w>definition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>this</w>
+    <w>relational</w>
+    <w>one</w>
+    <t type="p"></t>
+    <media
+      start="1136.478"
+      end="1142.819"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u152">
+    <w>And</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>while</w>
+    <w>it</w>
+    <w>might</w>
+    <w>have</w>
+    <t type="interruption"></t>
+    <media
+      start="1142.819"
+      end="1144.303"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u153">
+    <w>I</w>
+    <w>assume</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>haven't</w>
+    <w>looked</w>
+    <w>at</w>
+    <w>the</w>
+    <w>dictionary</w>
+    <pause symbolic-length="simple"/>
+    <w>but</w>
+    <quotation type="begin"></quotation>
+    <w>during's</w>
+    <quotation type="end"></quotation>
+    <w>first</w>
+    <w>relationship</w>
+    <pause symbolic-length="simple"/>
+    <w>first</w>
+    <w>definition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>suspect</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>temporal</w>
+    <t type="p"></t>
+    <media
+      start="1144.303"
+      end="1151.206"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u154">
+    <linker type="self completion"/>
+    <w>It's</w>
+    <w>temporal</w>
+    <t type="p"></t>
+    <media
+      start="1151.206"
+      end="1151.845"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u155">
+    <w>That's</w>
+    <w>correct</w>
+    <t type="p"></t>
+    <media
+      start="1151.845"
+      end="1152.766"
+      unit="s"
+    />
+  </u>
+  <u who="ALIT" uID="u156">
+    <w>Could</w>
+    <w>you</w>
+    <w>give</w>
+    <w>an</w>
+    <w>example</w>
+    <w>of</w>
+    <w>where</w>
+    <w>it's</w>
+    <w>not</w>
+    <w>temporal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>an</w>
+    <w>example</w>
+    <w>of</w>
+    <w>use</w>
+    <w>of</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <w>that</w>
+    <w>is</w>
+    <w>not</w>
+    <w>temporal</w>
+    <t type="q"></t>
+    <media
+      start="1152.766"
+      end="1160.249"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u157">
+    <w>I</w>
+    <w>think</w>
+    <w>the</w>
+    <w>example</w>
+    <w>posed</w>
+    <w>by</w>
+    <w>the</w>
+    <w>Chief</w>
+    <w>Justice</w>
+    <w>to</w>
+    <w>General</w>
+    <w>Mukasey</w>
+    <w>is</w>
+    <w>an</w>
+    <w>example</w>
+    <w>of</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="1160.249"
+      end="1166.341"
+      unit="s"
+    />
+  </u>
+  <u who="ALIT" uID="u158">
+    <w>But</w>
+    <w>hanging</w>
+    <w>up</w>
+    <w>lights</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>holiday</w>
+    <w>season</w>
+    <w>doesn't</w>
+    <pause symbolic-length="simple"/>
+    <w>that's</w>
+    <w>not</w>
+    <w>a</w>
+    <w>temporal</w>
+    <w>relationship</w>
+    <t type="q"></t>
+    <media
+      start="1166.341"
+      end="1173.336"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u159">
+    <w>It's</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>is</w>
+    <w>a</w>
+    <w>temporal</w>
+    <w>relationship</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>it's</w>
+    <w>a</w>
+    <w>relationship</w>
+    <w>between</w>
+    <w>the</w>
+    <w>act</w>
+    <w>that's</w>
+    <w>occurring</w>
+    <w>also</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>the</w>
+    <w>underlying</w>
+    <w>act</w>
+    <t type="p"></t>
+    <media
+      start="1173.336"
+      end="1183.147"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u160">
+    <w>But</w>
+    <w>to</w>
+    <w>get</w>
+    <w>to</w>
+    <w>the</w>
+    <w>point</w>
+    <w>of</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>Chief</w>
+    <w>Justice</w>
+    <w>Robert's</w>
+    <w>question</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>fact</w>
+    <w>that</w>
+    <w>the</w>
+    <w>word</w>
+    <w>may</w>
+    <w>have</w>
+    <w>more</w>
+    <w>than</w>
+    <w>one</w>
+    <w>meaning</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>particularly</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>does</w>
+    <w>not</w>
+    <w>exclude</w>
+    <w>the</w>
+    <w>fact</w>
+    <w>that</w>
+    <w>the</w>
+    <w>meaning</w>
+    <w>of</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>includes</w>
+    <w>a</w>
+    <w>relationship</w>
+    <t type="p"></t>
+    <media
+      start="1183.147"
+      end="1198.889"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u161">
+    <w>And</w>
+    <w>the</w>
+    <w>most</w>
+    <w>naturally</w>
+    <w>suggested</w>
+    <w>reading</w>
+    <w>of</w>
+    <w>these</w>
+    <w>words</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>and</w>
+    <quotation type="begin"></quotation>
+    <w>explosives</w>
+    <quotation type="end"></quotation>
+    <w>together</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>that</w>
+    <w>there</w>
+    <w>is</w>
+    <w>a</w>
+    <w>relationship</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>there</w>
+    <w>is</w>
+    <t type="interruption"></t>
+    <media
+      start="1198.889"
+      end="1207.933"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u162">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Hillier</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>will</w>
+    <w>accept</w>
+    <w>maybe</w>
+    <w>more</w>
+    <w>than</w>
+    <w>just</w>
+    <w>for</w>
+    <w>the</w>
+    <w>sake</w>
+    <w>of</w>
+    <w>argument</w>
+    <w>that</w>
+    <w>if</w>
+    <w>you</w>
+    <w>stick</w>
+    <w>to</w>
+    <w>the</w>
+    <w>text</w>
+    <w>alone</w>
+    <w>you've</w>
+    <w>got</w>
+    <w>an</w>
+    <w>argument</w>
+    <w>here</w>
+    <w>for</w>
+    <w>some</w>
+    <w>uncertainty</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>some</w>
+    <w>ambiguity</w>
+    <t type="p"></t>
+    <media
+      start="1207.933"
+      end="1220.817"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u163">
+    <w>The</w>
+    <w>trouble</w>
+    <w>that</w>
+    <w>I</w>
+    <w>have</w>
+    <w>with</w>
+    <w>your</w>
+    <w>argument</w>
+    <w>is</w>
+    <w>that</w>
+    <w>we're</w>
+    <w>here</w>
+    <w>to</w>
+    <w>consider</w>
+    <w>not</w>
+    <w>only</w>
+    <w>text</w>
+    <w>but</w>
+    <w>statutory</w>
+    <w>history</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>And</w>
+    <w>the</w>
+    <w>statutory</w>
+    <w>history</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>pretty</w>
+    <w>tough</w>
+    <w>for</w>
+    <w>you</w>
+    <w>to</w>
+    <w>get</w>
+    <w>over</w>
+    <t type="p"></t>
+    <media
+      start="1220.817"
+      end="1231.766"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u164">
+    <w>The</w>
+    <w>statute</w>
+    <w>was</w>
+    <w>amended</w>
+    <t type="p"></t>
+    <media
+      start="1231.766"
+      end="1233.657"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u165">
+    <w>The</w>
+    <w>word</w>
+    <quotation type="begin"></quotation>
+    <w>unlawfully</w>
+    <quotation type="end"></quotation>
+    <w>was</w>
+    <w>dropped</w>
+    <w>from</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>there</w>
+    <w>was</w>
+    <w>no</w>
+    <w>amendment</w>
+    <w>made</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>its</w>
+    <w>cognates</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>conform</w>
+    <w>it</w>
+    <w>to</w>
+    <w>the</w>
+    <w>cognate</w>
+    <w>section</w>
+    <w>on</w>
+    <w>carrying</w>
+    <w>a</w>
+    <w>gun</w>
+    <w>that</w>
+    <w>specified</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+    <media
+      start="1233.657"
+      end="1248.948"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u166">
+    <w>And</w>
+    <w>it</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>that</w>
+    <w>the</w>
+    <w>most</w>
+    <w>reasonable</w>
+    <w>inference</w>
+    <w>to</w>
+    <w>draw</w>
+    <w>from</w>
+    <w>that</w>
+    <w>statutory</w>
+    <w>history</w>
+    <w>is</w>
+    <w>that</w>
+    <w>when</w>
+    <w>Congress</w>
+    <w>amended</w>
+    <w>and</w>
+    <w>technically</w>
+    <w>re-enacted</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>it</w>
+    <w>dropped</w>
+    <quotation type="begin"></quotation>
+    <w>unlawfully</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>it</w>
+    <w>did</w>
+    <w>not</w>
+    <w>want</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <w>to</w>
+    <w>be</w>
+    <w>read</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>it</w>
+    <w>was</w>
+    <w>in</w>
+    <w>the</w>
+    <w>handgun</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+    <media
+      start="1248.948"
+      end="1268.284"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u167">
+    <w>And</w>
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>that's</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>the</w>
+    <w>tough</w>
+    <w>point</w>
+    <w>of</w>
+    <w>the</w>
+    <w>argument</w>
+    <t type="p"></t>
+    <media
+      start="1268.284"
+      end="1271.470"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u168">
+    <w>What</w>
+    <w>is</w>
+    <w>your</w>
+    <w>response</w>
+    <w>to</w>
+    <w>that</w>
+    <t type="q"></t>
+    <media
+      start="1271.470"
+      end="1272.718"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u169">
+    <linker type="self completion"/>
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="1272.718"
+      end="1273.670"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u170">
+    <w>Two</w>
+    <w>points</w>
+    <s type="colon"/>
+    <w>First</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>idea</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>idea</w>
+    <w>of</w>
+    <w>in</w>
+    <w>pari</w>
+    <w>materia</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>would</w>
+    <w>suggest</w>
+    <w>that</w>
+    <w>what's</w>
+    <w>happening</w>
+    <w>in</w>
+    <g><w>nine</w>
+    <w>twenty-four</w>
+    <w formType="letter">c</w><ga type="explanation">924(c)</ga></g>
+    <w>ought</w>
+    <w>to</w>
+    <w>be</w>
+    <w>occurring</w>
+    <w>in</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>has</w>
+    <w>not</w>
+    <w>the</w>
+    <w>force</w>
+    <w>that</w>
+    <w>it</w>
+    <w>would</w>
+    <w>if</w>
+    <w>we</w>
+    <w>were</w>
+    <w>talking</w>
+    <w>about</w>
+    <w>amendments</w>
+    <w>to</w>
+    <w>and</w>
+    <w>constructions</w>
+    <w>of</w>
+    <w>the</w>
+    <w>same</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>rather</w>
+    <w>what</w>
+    <w>we</w>
+    <w>have</w>
+    <w>here</w>
+    <w>are</w>
+    <w>two</w>
+    <w>statutes</w>
+    <w>that</w>
+    <w>are</w>
+    <w>being</w>
+    <w>interpreted</w>
+    <w>by</w>
+    <w>two</w>
+    <w>legislators</w>
+    <w>at</w>
+    <w>different</w>
+    <w>times</w>
+    <w>to</w>
+    <w>achieve</w>
+    <w>different</w>
+    <w>objects</w>
+    <t type="p"></t>
+    <media
+      start="1273.670"
+      end="1303.097"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u171">
+    <w>And</w>
+    <w>there's</w>
+    <w>no</w>
+    <w>reason</w>
+    <w>to</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>force</w>
+    <w>of</w>
+    <w>that</w>
+    <t type="interruption"></t>
+    <media
+      start="1303.097"
+      end="1308.843"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u172">
+    <w>The</w>
+    <w>different</w>
+    <w>object</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>trouble</w>
+    <w>with</w>
+    <w>the</w>
+    <w>different</w>
+    <w>object</w>
+    <w>argument</w>
+    <w>is</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>the</w>
+    <w>Attorney</w>
+    <w>General</w>
+    <w>said</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>was</w>
+    <w>an</w>
+    <w>evident</w>
+    <w>concern</w>
+    <w>in</w>
+    <w>amending</w>
+    <w>the</w>
+    <w>handgun</w>
+    <w>statute</w>
+    <w>not</w>
+    <w>to</w>
+    <w>sweep</w>
+    <w>in</w>
+    <w>the</w>
+    <w>rogue</w>
+    <w>police</w>
+    <w>officer</w>
+    <w>who</w>
+    <w>happens</w>
+    <w>to</w>
+    <w>have</w>
+    <w>a</w>
+    <w>gun</w>
+    <w>on</w>
+    <w>him</w>
+    <w>when</w>
+    <w>he</w>
+    <w>does</w>
+    <w>something</w>
+    <w>that</w>
+    <w>in</w>
+    <w>fact</w>
+    <w>is</w>
+    <w>unlawful</w>
+    <t type="p"></t>
+    <media
+      start="1308.843"
+      end="1329.914"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u173">
+    <linker type="self completion"/>
+    <w>Right</w>
+    <t type="p"></t>
+    <media
+      start="1329.914"
+      end="1330.604"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u174">
+    <w>The</w>
+    <w>negative</w>
+    <w>inference</w>
+    <w>from</w>
+    <w>that</w>
+    <w>is</w>
+    <w>that</w>
+    <w>there</w>
+    <w>was</w>
+    <w>an</w>
+    <w>intent</w>
+    <w>in</w>
+    <w>the</w>
+    <w>cognate</w>
+    <w>explosives</w>
+    <w>statute</w>
+    <w>to</w>
+    <w>sweep</w>
+    <w>in</w>
+    <w>people</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>whether</w>
+    <w>in</w>
+    <w>fact</w>
+    <w>it</w>
+    <w>was</w>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <w>or</w>
+    <w>not</w>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <t type="p"></t>
+    <media
+      start="1330.604"
+      end="1346.720"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u175">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <w>that</w>
+    <t type="interruption"></t>
+    <media
+      start="1346.720"
+      end="1348.502"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u176">
+    <w>Including</w>
+    <w>the</w>
+    <w>policeman</w>
+    <w>who</w>
+    <w>had</w>
+    <w>cartridges</w>
+    <w>in</w>
+    <w>his</w>
+    <w>gun</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>presumably</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>right</w>
+    <t type="q"></t>
+    <media
+      start="1348.502"
+      end="1352.983"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u177">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>when</w>
+    <w>you're</w>
+    <w>looking</w>
+    <w>at</w>
+    <w>what</w>
+    <w>happened</w>
+    <w>to</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <quotation type="begin"></quotation>
+    <w>unlawfully</w>
+    <quotation type="end"></quotation>
+    <w>was</w>
+    <w>taken</w>
+    <w>out</w>
+    <w>the</w>
+    <w>words</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>were</w>
+    <w>added</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>I</w>
+    <w>think</w>
+    <w>indicates</w>
+    <w>that</w>
+    <w>Congress</w>
+    <w>had</w>
+    <w>an</w>
+    <w>appreciation</w>
+    <w>of</w>
+    <w>the</w>
+    <w>relationship</w>
+    <w>that's</w>
+    <w>involved</w>
+    <w>in</w>
+    <w>that</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="1352.983"
+      end="1370.320"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u178">
+    <w>While</w>
+    <w>the</w>
+    <w>legislative</w>
+    <w>history</w>
+    <w>doesn't</w>
+    <w>say</w>
+    <w>why</w>
+    <quotation type="begin"></quotation>
+    <w>unlawfully</w>
+    <quotation type="end"></quotation>
+    <w>was</w>
+    <w>taken</w>
+    <w>out</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>seems</w>
+    <w>reasonable</w>
+    <w>to</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>what</w>
+    <w>they</w>
+    <w>were</w>
+    <w>trying</w>
+    <w>to</w>
+    <w>do</w>
+    <w>was</w>
+    <w>conform</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>to</w>
+    <w>the</w>
+    <w>purpose</w>
+    <w>of</w>
+    <pause symbolic-length="simple"/>
+    <w>its</w>
+    <w>purpose</w>
+    <t type="p"></t>
+    <media
+      start="1370.320"
+      end="1384.924"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u179">
+    <w>And</w>
+    <w>its</w>
+    <w>purpose</w>
+    <w>did</w>
+    <w>include</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>you</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>explosives</w>
+    <quotation type="end"></quotation>
+    <w>definition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>use</w>
+    <w>of</w>
+    <w>lawful</w>
+    <w>explosives</w>
+    <w>to</w>
+    <w>further</w>
+    <w>crimes</w>
+    <t type="p"></t>
+    <media
+      start="1384.924"
+      end="1392.671"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u180">
+    <w>So</w>
+    <w>if</w>
+    <w>somebody</w>
+    <w>has</w>
+    <w>a</w>
+    <w>can</w>
+    <w>of</w>
+    <w>gasoline</w>
+    <w>and</w>
+    <w>they</w>
+    <w>want</w>
+    <w>to</w>
+    <w>use</w>
+    <w>that</w>
+    <w>to</w>
+    <w>threaten</w>
+    <w>somebody</w>
+    <w>and</w>
+    <w>create</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>crime</w>
+    <w>or</w>
+    <w>to</w>
+    <w>accomplish</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>crime</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>before</w>
+    <w>that</w>
+    <w>amendment</w>
+    <w>occurred</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <w>a</w>
+    <w>lawful</w>
+    <w>possession</w>
+    <w>of</w>
+    <w>the</w>
+    <w>explosives</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <g><w>eight</w>
+    <w>forty-four</w>
+    <w formType="letter">h</w>
+    <w>two</w><ga type="explanation">844(h)(2)</ga></g>
+    <w>would</w>
+    <w>not</w>
+    <w>apply</w>
+    <t type="p"></t>
+    <media
+      start="1392.671"
+      end="1412.022"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u181">
+    <w>Okay</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>fair</w>
+    <w>enough</w>
+    <w>so</w>
+    <w>far</w>
+    <w>as</w>
+    <w>the</w>
+    <w>argument</w>
+    <w>goes</w>
+    <t type="p"></t>
+    <media
+      start="1412.022"
+      end="1413.975"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u182">
+    <w>But</w>
+    <w>that</w>
+    <w>still</w>
+    <w>leaves</w>
+    <w>Congress</w>
+    <w>taking</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>sort</w>
+    <w>of</w>
+    <w>making</w>
+    <w>it</w>
+    <w>as</w>
+    <w>difficult</w>
+    <w>as</w>
+    <w>possible</w>
+    <w>for</w>
+    <w>you</w>
+    <w>to</w>
+    <w>take</w>
+    <w>the</w>
+    <w>position</w>
+    <w>that</w>
+    <w>you're</w>
+    <w>taking</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>rather</w>
+    <w>than</w>
+    <w>as</w>
+    <w>easy</w>
+    <w>as</w>
+    <w>possible</w>
+    <t type="p"></t>
+    <media
+      start="1413.975"
+      end="1424.220"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u183">
+    <w>Why</w>
+    <w>didn't</w>
+    <w>it</w>
+    <w>put</w>
+    <w>in</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <t type="q"></t>
+    <media
+      start="1424.220"
+      end="1426.688"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u184">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>think</w>
+    <w>we</w>
+    <w>go</w>
+    <w>to</w>
+    <w>yet</w>
+    <w>another</w>
+    <w>statutory</w>
+    <w>construction</w>
+    <w>tool</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>at</w>
+    <w>least</w>
+    <w>observation</w>
+    <w>by</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>that</w>
+    <w>said</w>
+    <w>the</w>
+    <w>Congress</w>
+    <w>can</w>
+    <w>use</w>
+    <w>different</w>
+    <w>words</w>
+    <w>in</w>
+    <w>different</w>
+    <w>statutes</w>
+    <w>to</w>
+    <w>accomplish</w>
+    <w>the</w>
+    <w>same</w>
+    <w>thing</w>
+    <t type="p"></t>
+    <media
+      start="1426.688"
+      end="1439.560"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u185">
+    <w>It</w>
+    <w>can</w>
+    <w>do</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>why</w>
+    <w>would</w>
+    <w>it</w>
+    <w>have</w>
+    <w>done</w>
+    <w>so</w>
+    <t type="q"></t>
+    <media
+      start="1439.560"
+      end="1441.478"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u186">
+    <w>You've</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>you've</w>
+    <w>got</w>
+    <w>the</w>
+    <w>gun</w>
+    <w>example</w>
+    <w>sitting</w>
+    <w>there</w>
+    <t type="p"></t>
+    <media
+      start="1441.478"
+      end="1444.930"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u187">
+    <w>And</w>
+    <w>why</w>
+    <w>would</w>
+    <w>it</w>
+    <w>not</w>
+    <w>have</w>
+    <w>done</w>
+    <w>so</w>
+    <w>if</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>fact</w>
+    <pause symbolic-length="simple"/>
+    <w>so</w>
+    <w>obvious</w>
+    <w>a</w>
+    <w>thing</w>
+    <w>to</w>
+    <w>do</w>
+    <w>if</w>
+    <w>that's</w>
+    <w>what</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <w>it</w>
+    <w>intended</w>
+    <w>to</w>
+    <w>come</w>
+    <w>out</w>
+    <w>your</w>
+    <w>way</w>
+    <t type="q"></t>
+    <media
+      start="1444.930"
+      end="1454.788"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u188">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>it</w>
+    <w>didn't</w>
+    <w>do</w>
+    <w>that</w>
+    <w>because</w>
+    <w>the</w>
+    <w>legislative</w>
+    <w>history</w>
+    <w>doesn't</w>
+    <w>inform</w>
+    <w>us</w>
+    <t type="p"></t>
+    <media
+      start="1454.788"
+      end="1460.598"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u189">
+    <w>But</w>
+    <w>to</w>
+    <w>draw</w>
+    <w>an</w>
+    <w>analogy</w>
+    <w>from</w>
+    <w>your</w>
+    <w>question</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>changes</w>
+    <w>done</w>
+    <w>in</w>
+    <w>these</w>
+    <w>two</w>
+    <w>exact</w>
+    <w>statutes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>you</w>
+    <w>read</w>
+    <w>from</w>
+    <w>the</w>
+    <w>government's</w>
+    <w>reply</w>
+    <w>brief</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>is</w>
+    <w>trying</w>
+    <w>to</w>
+    <w>establish</w>
+    <w>through</w>
+    <w>the</w>
+    <w>words</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <w>the</w>
+    <w>commission</w>
+    <w>of</w>
+    <quotation type="end"></quotation>
+    <w>the</w>
+    <w>fact</w>
+    <w>that</w>
+    <w>it</w>
+    <w>is</w>
+    <w>the</w>
+    <w>defendant</w>
+    <w>that</w>
+    <w>committed</w>
+    <w>that</w>
+    <w>crime</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>other</w>
+    <w>words</w>
+    <w>it</w>
+    <w>was</w>
+    <w>he</w>
+    <w>that</w>
+    <w>did</w>
+    <w>so</w>
+    <t type="p"></t>
+    <media
+      start="1460.598"
+      end="1479.495"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u190">
+    <w>And</w>
+    <w>we</w>
+    <w>don't</w>
+    <w>take</w>
+    <w>any</w>
+    <w>issue</w>
+    <w>with</w>
+    <w>that</w>
+    <s type="semicolon"/>
+    <w>in</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>makes</w>
+    <w>complete</w>
+    <w>sense</w>
+    <t type="p"></t>
+    <media
+      start="1479.495"
+      end="1484.041"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u191">
+    <w>But</w>
+    <w>it's</w>
+    <w>interesting</w>
+    <w>to</w>
+    <w>note</w>
+    <w>that</w>
+    <g><w>nine</w>
+    <w>twenty-four</w>
+    <w formType="letter">c</w><ga type="explanation">924(c)</ga></g>
+    <w>in</w>
+    <g><w>nineteen</w>
+    <w>seventy-one</w><ga type="explanation">1971</ga></g>
+    <w>was</w>
+    <w>amended</w>
+    <w>to</w>
+    <w>put</w>
+    <w>these</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>substitute</w>
+    <w>the</w>
+    <w>words</w>
+    <t type="quotation next line"></t>
+    <media
+      start="1484.041"
+      end="1494.316"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u192">
+    <linker type="quoted utterance next"/>
+    <w>for</w>
+    <w>which</w>
+    <w>he</w>
+    <w>may</w>
+    <w>be</w>
+    <w>prosecuted</w>
+    <t type="p"></t>
+    <media
+      start="1494.316"
+      end="1497.003"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u193">
+    <w>instead</w>
+    <w>of</w>
+    <quotation type="begin"></quotation>
+    <w>which</w>
+    <w>may</w>
+    <w>be</w>
+    <w>prosecuted</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+    <media
+      start="1497.003"
+      end="1499.098"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u194">
+    <w>So</w>
+    <w>one</w>
+    <w>might</w>
+    <w>ask</w>
+    <w>why</w>
+    <w>didn't</w>
+    <w>they</w>
+    <w>put</w>
+    <w>the</w>
+    <w>word</w>
+    <quotation type="begin"></quotation>
+    <w>he</w>
+    <quotation type="end"></quotation>
+    <w>into</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <w>at</w>
+    <w>the</w>
+    <w>same</w>
+    <w>time</w>
+    <w>if</w>
+    <w>there</w>
+    <w>was</w>
+    <w>any</w>
+    <w>question</w>
+    <w>about</w>
+    <w>who</w>
+    <w>the</w>
+    <w>perpetrator</w>
+    <w>of</w>
+    <w>the</w>
+    <w>crime</w>
+    <w>was</w>
+    <t type="p"></t>
+    <media
+      start="1499.098"
+      end="1509.201"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u195">
+    <w>And</w>
+    <w>maybe</w>
+    <w>they</w>
+    <w>said</w>
+    <pause symbolic-length="simple"/>
+    <w>maybe</w>
+    <w>because</w>
+    <w>they're</w>
+    <w>trying</w>
+    <w>to</w>
+    <w>draft</w>
+    <w>legislation</w>
+    <w>without</w>
+    <w>using</w>
+    <w>pronouns</w>
+    <t type="p"></t>
+    <media
+      start="1509.200"
+      end="1516.012"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u196">
+    <e><action/></e>
+    <e><happening>laughter</happening></e>
+    <t type="p"></t>
+    <media
+      start="1516.012"
+      end="1517.385"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u197">
+    <w>Touche</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="1517.385"
+      end="1521.071"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u198">
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="1521.071"
+      end="1522.244"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u199">
+    <w>I</w>
+    <w>take</w>
+    <w>it</w>
+    <w>that</w>
+    <w>one</w>
+    <w>of</w>
+    <w>the</w>
+    <w>reasons</w>
+    <w>you</w>
+    <w>make</w>
+    <w>your</w>
+    <w>argument</w>
+    <w>is</w>
+    <w>so</w>
+    <w>that</w>
+    <w>if</w>
+    <w>you</w>
+    <w>prevail</w>
+    <w>and</w>
+    <w>you</w>
+    <w>go</w>
+    <w>back</w>
+    <w>to</w>
+    <w>trial</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>would</w>
+    <w>argue</w>
+    <w>that</w>
+    <w>this</w>
+    <w>is</w>
+    <w>not</w>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <t type="q"></t>
+    <media
+      start="1522.244"
+      end="1535.347"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u200">
+    <w>Is</w>
+    <w>that</w>
+    <w>correct</w>
+    <t type="q"></t>
+    <media
+      start="1535.347"
+      end="1537.691"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u201">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>perhaps</w>
+    <w>I</w>
+    <w>didn't</w>
+    <w>understand</w>
+    <w>your</w>
+    <w>question</w>
+    <t type="p"></t>
+    <media
+      start="1537.691"
+      end="1540.580"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u202">
+    <w>If</w>
+    <w>you</w>
+    <w>could</w>
+    <w>rephrase</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1540.580"
+      end="1541.391"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u203">
+    <w>If</w>
+    <w>you</w>
+    <w>prevail</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <w>and</w>
+    <w>we</w>
+    <w>say</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <w>is</w>
+    <w>part</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="interruption"></t>
+    <media
+      start="1541.391"
+      end="1547.218"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u204">
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="1547.218"
+      end="1547.936"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u205">
+    <linker type="self completion"/>
+    <w>and</w>
+    <w>then</w>
+    <w>you</w>
+    <w>go</w>
+    <w>back</w>
+    <w>to</w>
+    <w>the</w>
+    <w>trial</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>assume</w>
+    <w>you</w>
+    <w>will</w>
+    <w>argue</w>
+    <w>to</w>
+    <w>the</w>
+    <w>jury</w>
+    <w>that</w>
+    <w>the</w>
+    <w>government</w>
+    <w>can't</w>
+    <w>show</w>
+    <w>that</w>
+    <w>it's</w>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <t type="p"></t>
+    <media
+      start="1547.936"
+      end="1554.384"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u206">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>you</w>
+    <w>agree</w>
+    <w>that</w>
+    <w>there's</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <w>you</w>
+    <w>agree</w>
+    <w>with</w>
+    <w>the</w>
+    <w>Ninth</w>
+    <w>Circuit</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>the</w>
+    <w>case</w>
+    <w>is</w>
+    <w>over</w>
+    <t type="p"></t>
+    <media
+      start="1554.384"
+      end="1560.525"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u207">
+    <w>That's</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="1560.525"
+      end="1561.508"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u208">
+    <w>The</w>
+    <w>government</w>
+    <t type="interruption"></t>
+    <media
+      start="1561.508"
+      end="1562.694"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u209">
+    <w>Why</w>
+    <w>should</w>
+    <w>we</w>
+    <w>agree</w>
+    <w>with</w>
+    <w>that</w>
+    <t type="q"></t>
+    <media
+      start="1562.694"
+      end="1564.383"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u210">
+    <w>But</w>
+    <w>it</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>that</w>
+    <w>in</w>
+    <w>a</w>
+    <w>prosecution</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>this</w>
+    <w>prosecution</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>might</w>
+    <w>be</w>
+    <w>somewhat</w>
+    <w>difficult</w>
+    <w>to</w>
+    <w>establish</w>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <t type="p"></t>
+    <media
+      start="1564.383"
+      end="1575.033"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u211">
+    <linker type="self completion"/>
+    <w>It</w>
+    <w>would</w>
+    <w>be</w>
+    <w>difficult</w>
+    <t type="interruption"></t>
+    <media
+      start="1575.033"
+      end="1578.222"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u212">
+    <w>And</w>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <pause symbolic-length="simple"/>
+    <w>even</w>
+    <w>assuming</w>
+    <w>the</w>
+    <w>jury</w>
+    <w>was</w>
+    <w>properly</w>
+    <w>instructed</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>et</w>
+    <w>cetera</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>et</w>
+    <w>cetera</w>
+    <t type="p"></t>
+    <media
+      start="1578.222"
+      end="1581.315"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u213">
+    <linker type="self completion"/>
+    <w>Right</w>
+    <t type="p"></t>
+    <media
+      start="1581.315"
+      end="1581.674"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u214">
+    <w>Right</w>
+    <t type="p"></t>
+    <media
+      start="1581.674"
+      end="1581.955"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u215">
+    <w>It's</w>
+    <w>as</w>
+    <w>poison</w>
+    <w>here</w>
+    <t type="p"></t>
+    <media
+      start="1581.955"
+      end="1582.891"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u216">
+    <w>They</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>a</w>
+    <w>relationship</w>
+    <t type="p"></t>
+    <media
+      start="1582.891"
+      end="1584.454"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u217">
+    <w>The</w>
+    <w>explosives</w>
+    <w>were</w>
+    <w>not</w>
+    <w>used</w>
+    <w>to</w>
+    <t type="interruption"></t>
+    <media
+      start="1584.454"
+      end="1586.591"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u218">
+    <w>All</w>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>doesn't</w>
+    <w>that</w>
+    <w>show</w>
+    <w>the</w>
+    <w>necessity</w>
+    <w>for</w>
+    <w>the</w>
+    <w>very</w>
+    <w>interpretation</w>
+    <w>the</w>
+    <w>attorney</w>
+    <w>general</w>
+    <w>has</w>
+    <w>argued</w>
+    <w>for</w>
+    <w>here</w>
+    <t type="q"></t>
+    <media
+      start="1586.591"
+      end="1593.356"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u219">
+    <w>It</w>
+    <w>is</w>
+    <w>just</w>
+    <w>too</w>
+    <w>difficult</w>
+    <w>to</w>
+    <w>establish</w>
+    <w>and</w>
+    <w>very</w>
+    <w>dangerous</w>
+    <t type="q"></t>
+    <media
+      start="1593.356"
+      end="1597.165"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u220">
+    <linker type="self completion"/>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>we</w>
+    <w>can</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <w>facts</w>
+    <w>of</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>would</w>
+    <w>respectfully</w>
+    <w>disagree</w>
+    <t type="p"></t>
+    <media
+      start="1597.165"
+      end="1601.006"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u221">
+    <w>What</w>
+    <w>was</w>
+    <w>done</w>
+    <w>here</w>
+    <w>was</w>
+    <w>a</w>
+    <w>charging</w>
+    <w>decision</w>
+    <w>which</w>
+    <w>made</w>
+    <w>that</w>
+    <w>task</w>
+    <w>impossible</w>
+    <t type="p"></t>
+    <media
+      start="1601.006"
+      end="1606.084"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u222">
+    <w>The</w>
+    <w>government</w>
+    <w>could</w>
+    <w>have</w>
+    <w>simply</w>
+    <w>charged</w>
+    <w>this</w>
+    <w>count</w>
+    <w>with</w>
+    <w>count</w>
+    <g><w>one</w><ga type="explanation">1</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>we</w>
+    <w>wouldn't</w>
+    <w>be</w>
+    <w>here</w>
+    <w>today</w>
+    <w>because</w>
+    <w>surely</w>
+    <w>the</w>
+    <w>explosives</w>
+    <w>were</w>
+    <w>carried</w>
+    <w>for</w>
+    <w>the</w>
+    <w>purpose</w>
+    <w>of</w>
+    <w>accomplishing</w>
+    <w>the</w>
+    <w>act</w>
+    <w>of</w>
+    <w>terrorism</w>
+    <w>that</w>
+    <w>was</w>
+    <w>charged</w>
+    <w>count</w>
+    <g><w>one</w><ga type="explanation">1</ga></g>
+    <t type="p"></t>
+    <media
+      start="1606.084"
+      end="1620.002"
+      unit="s"
+    />
+  </u>
+  <u who="ALIT" uID="u223">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>there's</w>
+    <w>an</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relationship</w>
+    <quotation type="end"></quotation>
+    <w>requirement</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>why</w>
+    <w>would</w>
+    <w>it</w>
+    <w>be</w>
+    <w>necessary</w>
+    <w>for</w>
+    <w>the</w>
+    <w>explosives</w>
+    <w>to</w>
+    <w>facilitate</w>
+    <w>the</w>
+    <w>false</w>
+    <w>statement</w>
+    <t type="q"></t>
+    <media
+      start="1620.002"
+      end="1628.936"
+      unit="s"
+    />
+  </u>
+  <u who="ALIT" uID="u224">
+    <w>Why</w>
+    <w>wouldn't</w>
+    <w>it</w>
+    <w>be</w>
+    <w>sufficient</w>
+    <w>if</w>
+    <w>the</w>
+    <w>false</w>
+    <w>statement</w>
+    <w>facilitated</w>
+    <w>the</w>
+    <w>unlawful</w>
+    <w>use</w>
+    <w>of</w>
+    <w>the</w>
+    <w>explosives</w>
+    <t type="q"></t>
+    <media
+      start="1628.936"
+      end="1636.429"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u225">
+    <w>We</w>
+    <w>have</w>
+    <w>a</w>
+    <w>reverse</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>relationship</w>
+    <t type="p"></t>
+    <media
+      start="1636.429"
+      end="1638.508"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u226">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>two</w>
+    <w>answers</w>
+    <w>to</w>
+    <w>that</w>
+    <s type="colon"/>
+    <w>First</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>would</w>
+    <w>be</w>
+    <w>at</w>
+    <w>odds</w>
+    <w>with</w>
+    <w>the</w>
+    <w>structure</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="1638.508"
+      end="1646.100"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u227">
+    <w>If</w>
+    <w>you</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <w>whole</w>
+    <w>of</w>
+    <g><w>eight</w>
+    <w>forty-four</w>
+    <w formType="letter">h</w><ga type="explanation">844(h)</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>see</w>
+    <w>in</w>
+    <g><w formType="letter">h</w>
+    <w>one</w><ga type="explanation">(h)(1)</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>crime</w>
+    <w>of</w>
+    <w>using</w>
+    <w>an</w>
+    <w>explosive</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>an</w>
+    <w>explosive</w>
+    <w>to</w>
+    <w>commit</w>
+    <w>an</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <t type="p"></t>
+    <media
+      start="1646.100"
+      end="1658.159"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u228">
+    <w>And</w>
+    <w>that</w>
+    <w>is</w>
+    <w>that</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>direct</w>
+    <w>relationship</w>
+    <w>that</w>
+    <w>is</w>
+    <w>carried</w>
+    <w>forward</w>
+    <w>in</w>
+    <w>the</w>
+    <w>language</w>
+    <w>of</w>
+    <g><w formType="letter">h</w>
+    <w>two</w><ga type="explanation">(h)(2)</ga></g>
+    <t type="p"></t>
+    <media
+      start="1658.159"
+      end="1664.983"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u229">
+    <w>But</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>secondly</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>language</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>relationship</w>
+    <w>has</w>
+    <w>been</w>
+    <w>interpreted</w>
+    <w>by</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>in</w>
+    <w>Smith</w>
+    <w>as</w>
+    <w>acknowledged</w>
+    <w>by</w>
+    <w>the</w>
+    <w>government</w>
+    <w>in</w>
+    <w>its</w>
+    <w>briefing</w>
+    <w>to</w>
+    <w>mean</w>
+    <w>the</w>
+    <w>relationship</w>
+    <w>that</w>
+    <w>we're</w>
+    <w>talking</w>
+    <w>about</w>
+    <t type="p"></t>
+    <media
+      start="1664.983"
+      end="1677.569"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u230">
+    <w>That's</w>
+    <w>exactly</w>
+    <w>what's</w>
+    <w>bothering</w>
+    <w>me</w>
+    <t type="p"></t>
+    <media
+      start="1677.569"
+      end="1679.788"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u231">
+    <w>The</w>
+    <w>issue</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <w>doesn't</w>
+    <w>seem</w>
+    <w>to</w>
+    <w>me</w>
+    <w>to</w>
+    <w>be</w>
+    <w>these</w>
+    <w>weird</w>
+    <w>hypotheticals</w>
+    <t type="p"></t>
+    <media
+      start="1679.788"
+      end="1684.191"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u232">
+    <w>Of</w>
+    <w>course</w>
+    <w>it</w>
+    <w>requires</w>
+    <w>a</w>
+    <w>relationship</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>my</w>
+    <w>mind</w>
+    <t type="p"></t>
+    <media
+      start="1684.191"
+      end="1687.958"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u233">
+    <w>But</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>see</w>
+    <w>why</w>
+    <w>the</w>
+    <w>relationship</w>
+    <w>couldn't</w>
+    <w>be</w>
+    <w>exactly</w>
+    <w>the</w>
+    <w>one</w>
+    <w>Justice</w>
+    <w>Alito</w>
+    <w>was</w>
+    <w>talking</w>
+    <w>about</w>
+    <t type="p"></t>
+    <media
+      start="1687.958"
+      end="1694.798"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u234">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>imagine</w>
+    <w>a</w>
+    <w>person</w>
+    <w>has</w>
+    <w>a</w>
+    <w>packed</w>
+    <w>car</w>
+    <w>filled</w>
+    <w>with</w>
+    <w>explosives</w>
+    <t type="p"></t>
+    <media
+      start="1694.798"
+      end="1700.608"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u235">
+    <w>He's</w>
+    <w>going</w>
+    <w>to</w>
+    <w>blow</w>
+    <w>something</w>
+    <w>up</w>
+    <t type="p"></t>
+    <media
+      start="1700.608"
+      end="1702.265"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u236">
+    <w>A</w>
+    <w>policemen</w>
+    <w>comes</w>
+    <w>up</w>
+    <s type="semicolon"/>
+    <w>he</w>
+    <w>shoots</w>
+    <w>the</w>
+    <w>policeman</w>
+    <t type="p"></t>
+    <media
+      start="1702.265"
+      end="1705.202"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u237">
+    <w>The</w>
+    <w>reason</w>
+    <w>he</w>
+    <w>shot</w>
+    <w>the</w>
+    <w>policeman</w>
+    <w>was</w>
+    <w>because</w>
+    <w>he</w>
+    <w>had</w>
+    <w>his</w>
+    <w>car</w>
+    <w>packed</w>
+    <w>with</w>
+    <w>explosives</w>
+    <t type="p"></t>
+    <media
+      start="1705.202"
+      end="1710.712"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u238">
+    <w>And</w>
+    <w>if</w>
+    <w>this</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <w>this</w>
+    <w>provision</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>can't</w>
+    <w>understand</w>
+    <w>why</w>
+    <w>this</w>
+    <w>provision</w>
+    <w>wouldn't</w>
+    <w>be</w>
+    <w>aimed</w>
+    <w>directly</w>
+    <w>at</w>
+    <w>that</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>thing</w>
+    <t type="p"></t>
+    <media
+      start="1710.712"
+      end="1719.836"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u239">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>can't</w>
+    <w>say</w>
+    <w>too</w>
+    <w>much</w>
+    <w>more</w>
+    <w>than</w>
+    <w>what</w>
+    <w>I</w>
+    <w>have</w>
+    <t type="p"></t>
+    <media
+      start="1719.836"
+      end="1724.270"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u240">
+    <w>When</w>
+    <w>you</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="interruption"></t>
+    <media
+      start="1724.270"
+      end="1725.881"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u241">
+    <w>All</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="1725.881"
+      end="1726.271"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u242">
+    <w>Suppose</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>agree</w>
+    <w>with</w>
+    <w>you</w>
+    <w>about</w>
+    <w>that</w>
+    <t type="interruption"></t>
+    <media
+      start="1726.271"
+      end="1727.878"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u243">
+    <w>You</w>
+    <w>could</w>
+    <w>say</w>
+    <w>it</w>
+    <w>is</w>
+    <w>not</w>
+    <w>a</w>
+    <w>question</w>
+    <w>on</w>
+    <w>which</w>
+    <w>we</w>
+    <w>grant</w>
+    <w>certiorari</w>
+    <t type="p"></t>
+    <media
+      start="1727.878"
+      end="1729.628"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u244">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <pause symbolic-length="simple"/>
+    <t type="interruption"></t>
+    <media
+      start="1729.628"
+      end="1730.237"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u245">
+    <e><action/></e>
+    <e><happening>laughter</happening></e>
+    <t type="p"></t>
+    <media
+      start="1730.237"
+      end="1731.329"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u246">
+    <linker type="self completion"/>
+    <w>That</w>
+    <w>may</w>
+    <w>be</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <pause symbolic-length="simple"/>
+    <w>but</w>
+    <w>you</w>
+    <w>could</w>
+    <w>say</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="1731.329"
+      end="1734.456"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u247">
+    <w>You</w>
+    <w>could</w>
+    <w>say</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="1734.456"
+      end="1735.750"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u248">
+    <w>But</w>
+    <w>the</w>
+    <w>problem</w>
+    <w>is</w>
+    <w>I</w>
+    <w>have</w>
+    <w>to</w>
+    <w>answer</w>
+    <w>the</w>
+    <w>question</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>have</w>
+    <w>to</w>
+    <w>reach</w>
+    <w>an</w>
+    <w>answer</w>
+    <w>that</w>
+    <w>I</w>
+    <w>believe</w>
+    <w>should</w>
+    <w>be</w>
+    <w>sensible</w>
+    <t type="p"></t>
+    <media
+      start="1735.750"
+      end="1740.688"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u249">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <t type="p"></t>
+    <media
+      start="1740.688"
+      end="1741.249"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u250">
+    <w>So</w>
+    <w>what</w>
+    <w>should</w>
+    <w>I</w>
+    <w>do</w>
+    <t type="interruption"></t>
+    <media
+      start="1741.249"
+      end="1742.606"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u251">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="interruption"></t>
+    <media
+      start="1742.606"
+      end="1743.265"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u252">
+    <linker type="self completion"/>
+    <w>if</w>
+    <w>I</w>
+    <w>think</w>
+    <w>that</w>
+    <w>shooting</w>
+    <w>the</w>
+    <w>policeman</w>
+    <w>because</w>
+    <w>he's</w>
+    <w>going</w>
+    <w>to</w>
+    <w>catch</w>
+    <w>the</w>
+    <w>criminal</w>
+    <w>filled</w>
+    <w>with</w>
+    <w>explosives</w>
+    <w>is</w>
+    <w>within</w>
+    <w>this</w>
+    <w>statute</w>
+    <t type="q"></t>
+    <media
+      start="1743.265"
+      end="1751.291"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u253">
+    <w>And</w>
+    <w>similarly</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>lying</w>
+    <w>to</w>
+    <w>a</w>
+    <w>customs</w>
+    <w>officer</w>
+    <w>so</w>
+    <w>he</w>
+    <w>won't</w>
+    <w>catch</w>
+    <w>me</w>
+    <w>when</w>
+    <w>my</w>
+    <w>car</w>
+    <w>is</w>
+    <w>filled</w>
+    <w>with</w>
+    <w>explosives</w>
+    <w>is</w>
+    <w>within</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="q"></t>
+    <media
+      start="1751.291"
+      end="1759.896"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u254">
+    <w>Suppose</w>
+    <w>I</w>
+    <w>believe</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>also</w>
+    <w>think</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>is</w>
+    <w>not</w>
+    <w>meant</w>
+    <w>to</w>
+    <w>govern</w>
+    <w>those</w>
+    <w>odd</w>
+    <w>hypotheticals</w>
+    <w>that</w>
+    <w>you</w>
+    <w>come</w>
+    <w>up</w>
+    <w>with</w>
+    <t type="q"></t>
+    <media
+      start="1759.896"
+      end="1769.532"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u255">
+    <w>There</w>
+    <w>has</w>
+    <w>to</w>
+    <w>be</w>
+    <w>a</w>
+    <w>relationship</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>the</w>
+    <w>one</w>
+    <w>I</w>
+    <w>described</w>
+    <w>falls</w>
+    <w>within</w>
+    <w>the</w>
+    <w>word</w>
+    <quotation type="begin"></quotation>
+    <w>relationship</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+    <media
+      start="1769.532"
+      end="1775.763"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u256">
+    <w>Now</w>
+    <w>what</w>
+    <w>do</w>
+    <w>I</w>
+    <w>do</w>
+    <t type="q"></t>
+    <media
+      start="1775.763"
+      end="1777.046"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u257">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>relationship</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <w>you</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <w>structure</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>surely</w>
+    <g><w formType="letter">h</w>
+    <w>one</w><ga type="explanation">(h)(1)</ga></g>
+    <w>does</w>
+    <w>not</w>
+    <w>describe</w>
+    <w>that</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>relationship</w>
+    <s type="semicolon"/>
+    <g><w formType="letter">h</w>
+    <w>two</w><ga type="explanation">(h)(2)</ga></g>
+    <w>is</w>
+    <w>the</w>
+    <w>next</w>
+    <w>statute</w>
+    <w>or</w>
+    <w>the</w>
+    <w>next</w>
+    <w>subsection</w>
+    <w>of</w>
+    <w>that</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>its</w>
+    <w>purpose</w>
+    <w>is</w>
+    <w>simply</w>
+    <w>to</w>
+    <w>capture</w>
+    <w>the</w>
+    <w>same</w>
+    <w>criminal</w>
+    <w>objective</w>
+    <w>here</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>is</w>
+    <w>to</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>marriage</w>
+    <w>of</w>
+    <w>explosives</w>
+    <w>and</w>
+    <w>a</w>
+    <w>felony</w>
+    <t type="p"></t>
+    <media
+      start="1777.046"
+      end="1802.599"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u258">
+    <w>I</w>
+    <w>understand</w>
+    <w>that</w>
+    <w>argument</w>
+    <t type="p"></t>
+    <media
+      start="1802.599"
+      end="1803.957"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u259">
+    <w>But</w>
+    <w>suppose</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>accept</w>
+    <w>the</w>
+    <w>argument</w>
+    <t type="q"></t>
+    <media
+      start="1803.957"
+      end="1805.505"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u260">
+    <w>Then</w>
+    <w>what</w>
+    <w>do</w>
+    <w>I</w>
+    <w>do</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <t type="q"></t>
+    <media
+      start="1805.505"
+      end="1808.079"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u261">
+    <w>That's</w>
+    <w>what</w>
+    <w>I'm</w>
+    <w>asking</w>
+    <t type="p"></t>
+    <media
+      start="1808.079"
+      end="1809.424"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u262">
+    <w>I</w>
+    <w>would</w>
+    <w>ask</w>
+    <w>the</w>
+    <w>Court</w>
+    <pause symbolic-length="simple"/>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>would</w>
+    <w>think</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>would</w>
+    <w>draw</w>
+    <w>some</w>
+    <pause symbolic-length="simple"/>
+    <w>an</w>
+    <w>answer</w>
+    <w>from</w>
+    <w>Smith</w>
+    <w>which</w>
+    <w>did</w>
+    <w>describe</w>
+    <w>a</w>
+    <w>relationship</w>
+    <w>contrary</w>
+    <w>to</w>
+    <w>the</w>
+    <w>way</w>
+    <w>Your</w>
+    <w>Honor</w>
+    <w>is</w>
+    <w>doing</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>this</w>
+    <w>case</w>
+    <w>that</w>
+    <w>goes</w>
+    <w>back</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>goes</w>
+    <pause symbolic-length="simple"/>
+    <w>wasn't</w>
+    <w>instructed</w>
+    <w>that</w>
+    <w>way</w>
+    <s type="semicolon"/>
+    <w>and</w>
+    <w>so</w>
+    <w>it</w>
+    <w>can't</w>
+    <w>be</w>
+    <pause symbolic-length="simple"/>
+    <w>this</w>
+    <w>case</w>
+    <w>still</w>
+    <w>has</w>
+    <w>to</w>
+    <w>go</w>
+    <w>back</w>
+    <t type="p"></t>
+    <media
+      start="1809.424"
+      end="1828.773"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u263">
+    <w>You</w>
+    <w>think</w>
+    <w>on</w>
+    <w>this</w>
+    <w>evidence</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>on</w>
+    <w>this</w>
+    <w>record</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>a</w>
+    <w>jury</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>it</w>
+    <w>were</w>
+    <w>instructed</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>it</w>
+    <w>had</w>
+    <w>to</w>
+    <w>find</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <w>could</w>
+    <w>return</w>
+    <w>a</w>
+    <w>conviction</w>
+    <w>of</w>
+    <w>guilty</w>
+    <w>including</w>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>relation</w>
+    <w>to</w>
+    <quotation type="end"></quotation>
+    <t type="q"></t>
+    <media
+      start="1828.773"
+      end="1843.705"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u264">
+    <w>If</w>
+    <w>this</w>
+    <w>case</w>
+    <w>had</w>
+    <w>been</w>
+    <w>instructed</w>
+    <w>correctly</w>
+    <t type="q"></t>
+    <media
+      start="1843.705"
+      end="1847.783"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u265">
+    <w>If</w>
+    <w>this</w>
+    <w>case</w>
+    <w>had</w>
+    <w>been</w>
+    <w>instructed</w>
+    <w>according</w>
+    <w>to</w>
+    <w>your</w>
+    <w>theory</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>and</w>
+    <w>on</w>
+    <w>this</w>
+    <w>record</w>
+    <w>and</w>
+    <w>on</w>
+    <w>this</w>
+    <w>evidence</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>could</w>
+    <w>a</w>
+    <w>jury</w>
+    <w>find</w>
+    <w>your</w>
+    <w>client</w>
+    <w>guilty</w>
+    <t type="q"></t>
+    <media
+      start="1847.783"
+      end="1855.154"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u266">
+    <w>No</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="1855.154"
+      end="1856.843"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u267">
+    <w>That's</w>
+    <w>exactly</w>
+    <w>why</w>
+    <w>the</w>
+    <w>attorney</w>
+    <w>general</w>
+    <w>says</w>
+    <w>he</w>
+    <w>needs</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1856.843"
+      end="1859.279"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u268">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>got</w>
+    <w>it</w>
+    <w>anyway</w>
+    <t type="p"></t>
+    <media
+      start="1859.279"
+      end="1862.730"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u269">
+    <w>Beg</w>
+    <w>your</w>
+    <w>pardon</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="q"></t>
+    <media
+      start="1862.730"
+      end="1863.744"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u270">
+    <w>Could</w>
+    <w>I</w>
+    <w>ask</w>
+    <w>you</w>
+    <w>about</w>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>thing</w>
+    <t type="q"></t>
+    <media
+      start="1863.744"
+      end="1866.900"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u271">
+    <w>It</w>
+    <w>has</w>
+    <w>just</w>
+    <w>occurred</w>
+    <w>to</w>
+    <w>me</w>
+    <w>that</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>is</w>
+    <w>in</w>
+    <w>a</w>
+    <w>very</w>
+    <w>sloppy</w>
+    <w>clause</w>
+    <w>anyway</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>it</w>
+    <w>says</w>
+    <t type="quotation next line"></t>
+    <media
+      start="1866.900"
+      end="1873.773"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u272">
+    <linker type="quoted utterance next"/>
+    <w>shall</w>
+    <w>run</w>
+    <w>concurrently</w>
+    <w>with</w>
+    <w>any</w>
+    <w>other</w>
+    <w>term</w>
+    <w>of</w>
+    <w>imprisonment</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>including</w>
+    <w>that</w>
+    <w>imposed</w>
+    <w>for</w>
+    <w>the</w>
+    <w>felony</w>
+    <w>in</w>
+    <w>which</w>
+    <w>the</w>
+    <w>explosive</w>
+    <w>was</w>
+    <w>used</w>
+    <w>or</w>
+    <w>carried</w>
+    <t type="p"></t>
+    <media
+      start="1873.773"
+      end="1884.751"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u273">
+    <w>What</w>
+    <w>about</w>
+    <w>the</w>
+    <w>fire</w>
+    <t type="q"></t>
+    <media
+      start="1884.751"
+      end="1886.080"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u274">
+    <w>It</w>
+    <w>omits</w>
+    <w>fire</w>
+    <w>entirely</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>which</w>
+    <w>fire</w>
+    <w>or</w>
+    <w>the</w>
+    <w>explosive</w>
+    <t type="p"></t>
+    <media
+      start="1886.080"
+      end="1892.468"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u275">
+    <w>Fire</w>
+    <w>or</w>
+    <w>the</w>
+    <w>explosive</w>
+    <w>was</w>
+    <w>used</w>
+    <w>or</w>
+    <w>the</w>
+    <w>explosive</w>
+    <w>was</w>
+    <w>carried</w>
+    <t type="p"></t>
+    <media
+      start="1892.468"
+      end="1896.683"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u276">
+    <w>It's</w>
+    <w>a</w>
+    <w>pretty</w>
+    <w>sloppy</w>
+    <w>job</w>
+    <w>down</w>
+    <w>at</w>
+    <w>the</w>
+    <w>end</w>
+    <w>of</w>
+    <g><w formType="letter">h</w><ga type="explanation">(h)</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>isn't</w>
+    <w>it</w>
+    <t type="q"></t>
+    <media
+      start="1896.683"
+      end="1901.340"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u277">
+    <w>So</w>
+    <w>I</w>
+    <w>wouldn't</w>
+    <w>put</w>
+    <w>a</w>
+    <w>whole</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>weight</w>
+    <w>on</w>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>given</w>
+    <w>that</w>
+    <w>the</w>
+    <w>rest</w>
+    <w>of</w>
+    <w>it</w>
+    <w>is</w>
+    <w>so</w>
+    <w>sloppy</w>
+    <t type="p"></t>
+    <media
+      start="1901.340"
+      end="1907.243"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u278">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>point</w>
+    <w>obviously</w>
+    <w>was</w>
+    <w>that</w>
+    <w>it</w>
+    <w>strengthens</w>
+    <w>and</w>
+    <w>informs</w>
+    <w>the</w>
+    <w>relationship</w>
+    <w>here</w>
+    <w>to</w>
+    <w>be</w>
+    <w>more</w>
+    <w>than</w>
+    <w>the</w>
+    <w>coincidental</w>
+    <w>or</w>
+    <w>temporal</w>
+    <w>one</w>
+    <w>the</w>
+    <w>government</w>
+    <t type="interruption"></t>
+    <media
+      start="1907.242"
+      end="1917.741"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u279">
+    <w>If</w>
+    <w>you</w>
+    <w>are</w>
+    <w>being</w>
+    <w>very</w>
+    <w>precise</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>whoever</w>
+    <w>wrote</w>
+    <w>that</w>
+    <w>was</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>obviously</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <w>being</w>
+    <w>very</w>
+    <w>precise</w>
+    <w>because</w>
+    <w>he</w>
+    <w>left</w>
+    <w>out</w>
+    <quotation type="begin"></quotation>
+    <w>fire</w>
+    <quotation type="end"></quotation>
+    <w>entirely</w>
+    <t type="p"></t>
+    <media
+      start="1917.741"
+      end="1924.019"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u280">
+    <linker type="self completion"/>
+    <w>I</w>
+    <w>suppose</w>
+    <w>that</w>
+    <w>goes</w>
+    <w>to</w>
+    <w>the</w>
+    <w>idea</w>
+    <w>that</w>
+    <w>we</w>
+    <w>shouldn't</w>
+    <w>draw</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>information</w>
+    <w>from</w>
+    <w>the</w>
+    <w>amendments</w>
+    <w>that</w>
+    <w>were</w>
+    <w>occurring</w>
+    <w>on</w>
+    <g><w>nine</w>
+    <w>twenty-four</w><ga type="explanation">924</ga></g>
+    <w>when</w>
+    <w>they</w>
+    <w>weren't</w>
+    <w>even</w>
+    <w>looking</w>
+    <w>at</w>
+    <w>this</w>
+    <w>statute</w>
+    <w>and</w>
+    <w>considering</w>
+    <w>it</w>
+    <w>and</w>
+    <w>its</w>
+    <w>consequences</w>
+    <w>to</w>
+    <w>the</w>
+    <w>changes</w>
+    <w>in</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>having</w>
+    <w>effect</w>
+    <w>in</w>
+    <g><w>eight</w>
+    <w>forty-four</w><ga type="explanation">844</ga></g>
+    <t type="p"></t>
+    <media
+      start="1924.019"
+      end="1941.275"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u281">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>would</w>
+    <w>just</w>
+    <w>simply</w>
+    <w>conclude</w>
+    <w>by</w>
+    <w>indicating</w>
+    <w>that</w>
+    <w>the</w>
+    <w>terms</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>I</w>
+    <w>think</w>
+    <w>we</w>
+    <w>agree</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>naturally</w>
+    <w>suggest</w>
+    <w>that</w>
+    <w>there</w>
+    <w>must</w>
+    <w>be</w>
+    <w>a</w>
+    <w>relationship</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>breadth</w>
+    <w>of</w>
+    <w>the</w>
+    <w>term</w>
+    <quotation type="begin"></quotation>
+    <w>explosives</w>
+    <quotation type="end"></quotation>
+    <w>includes</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>lawful</w>
+    <w>items</w>
+    <w>that</w>
+    <w>can</w>
+    <w>be</w>
+    <w>carried</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>they</w>
+    <w>were</w>
+    <w>carried</w>
+    <w>in</w>
+    <w>a</w>
+    <w>felony</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>must</w>
+    <w>be</w>
+    <w>related</w>
+    <w>to</w>
+    <w>that</w>
+    <w>felony</w>
+    <w>if</w>
+    <w>you're</w>
+    <w>going</w>
+    <w>to</w>
+    <w>have</w>
+    <g><w>eight</w>
+    <w>forty-four's</w><ga type="explanation">844's</ga></g>
+    <w>effect</w>
+    <w>and</w>
+    <w>its</w>
+    <w>purpose</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>when</w>
+    <w>you</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <w>purpose</w>
+    <w>of</w>
+    <w>the</w>
+    <w>act</w>
+    <w>and</w>
+    <w>the</w>
+    <w>way</w>
+    <w>that</w>
+    <w>they</w>
+    <w>constructed</w>
+    <w>it</w>
+    <w>so</w>
+    <w>carefully</w>
+    <w>and</w>
+    <w>thoughtfully</w>
+    <w>in</w>
+    <w>terms</w>
+    <w>of</w>
+    <w>the</w>
+    <w>crimes</w>
+    <w>that</w>
+    <w>were</w>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>use</w>
+    <w>of</w>
+    <w>explosives</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>applies</w>
+    <w>only</w>
+    <w>to</w>
+    <w>that</w>
+    <w>portion</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>that</w>
+    <w>involves</w>
+    <w>illegal</w>
+    <w>use</w>
+    <w>of</w>
+    <w>criminal</w>
+    <pause symbolic-length="simple"/>
+    <w>of</w>
+    <w>explosives</w>
+    <t type="p"></t>
+    <media
+      start="1941.275"
+      end="1988.069"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u282">
+    <w>And</w>
+    <w>the</w>
+    <w>combination</w>
+    <w>of</w>
+    <w>all</w>
+    <w>of</w>
+    <w>these</w>
+    <w>elements</w>
+    <w>certainly</w>
+    <w>gives</w>
+    <w>force</w>
+    <w>to</w>
+    <w>our</w>
+    <w>argument</w>
+    <w>and</w>
+    <w>tends</w>
+    <w>to</w>
+    <w>rub</w>
+    <pause symbolic-length="simple"/>
+    <w>tends</w>
+    <w>to</w>
+    <w>do</w>
+    <w>the</w>
+    <w>opposite</w>
+    <w>to</w>
+    <w>the</w>
+    <w>government</w>
+    <t type="p"></t>
+    <media
+      start="1988.069"
+      end="1997.754"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u283">
+    <w>At</w>
+    <w>the</w>
+    <w>end</w>
+    <w>of</w>
+    <w>the</w>
+    <w>day</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>there's</w>
+    <w>anything</w>
+    <w>to</w>
+    <w>be</w>
+    <w>said</w>
+    <w>for</w>
+    <w>the</w>
+    <w>government's</w>
+    <w>argument</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>there</w>
+    <w>is</w>
+    <w>an</w>
+    <w>ambiguity</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>it</w>
+    <w>should</w>
+    <w>be</w>
+    <w>construed</w>
+    <w>in</w>
+    <w>favor</w>
+    <w>of</w>
+    <w>the</w>
+    <w>defendant</w>
+    <t type="p"></t>
+    <media
+      start="1997.754"
+      end="2006.563"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u284">
+    <w>And</w>
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>just</w>
+    <w>a</w>
+    <w>concluding</w>
+    <w>point</w>
+    <w>to</w>
+    <w>answer</w>
+    <w>Justice</w>
+    <w>Kennedy's</w>
+    <w>questions</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>government</w>
+    <w>could</w>
+    <w>have</w>
+    <w>avoided</w>
+    <w>all</w>
+    <w>of</w>
+    <w>this</w>
+    <w>by</w>
+    <w>simply</w>
+    <w>charging</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>it</w>
+    <w>should</w>
+    <w>have</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>by</w>
+    <w>linking</w>
+    <w>count</w>
+    <g><w>nine</w><ga type="explanation">9</ga></g>
+    <w>with</w>
+    <w>count</w>
+    <g><w>one</w><ga type="explanation">1</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>where</w>
+    <w>the</w>
+    <w>proof</w>
+    <w>problem</w>
+    <w>wouldn't</w>
+    <w>have</w>
+    <w>been</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>only</w>
+    <w>difference</w>
+    <w>in</w>
+    <w>the</w>
+    <w>proof</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <pause symbolic-length="simple"/>
+    <w>there</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <w>no</w>
+    <w>difference</w>
+    <w>in</w>
+    <w>the</w>
+    <w>proof</w>
+    <t type="p"></t>
+    <media
+      start="2006.563"
+      end="2029.631"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u285">
+    <w>The</w>
+    <w>only</w>
+    <w>difference</w>
+    <w>in</w>
+    <w>the</w>
+    <w>case</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <w>they</w>
+    <w>would</w>
+    <w>have</w>
+    <w>submitted</w>
+    <w>a</w>
+    <w>different</w>
+    <w>instruction</w>
+    <t type="p"></t>
+    <media
+      start="2029.631"
+      end="2033.489"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u286">
+    <w>Your</w>
+    <w>friend</w>
+    <w>indicated</w>
+    <w>that</w>
+    <w>this</w>
+    <w>issue</w>
+    <w>doesn't</w>
+    <w>come</w>
+    <w>up</w>
+    <w>very</w>
+    <w>often</w>
+    <w>as</w>
+    <w>a</w>
+    <w>practical</w>
+    <w>matter</w>
+    <t type="p"></t>
+    <media
+      start="2033.489"
+      end="2039.186"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u287">
+    <w>Do</w>
+    <w>you</w>
+    <w>disagree</w>
+    <w>with</w>
+    <w>that</w>
+    <t type="q"></t>
+    <media
+      start="2039.186"
+      end="2040.735"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u288">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>don't</w>
+    <w>disagree</w>
+    <w>with</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>I'm</w>
+    <w>not</w>
+    <w>sure</w>
+    <w>why</w>
+    <w>that</w>
+    <w>is</w>
+    <t type="p"></t>
+    <media
+      start="2040.735"
+      end="2046.124"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u289">
+    <w>But</w>
+    <w>I</w>
+    <w>think</w>
+    <w>it's</w>
+    <w>been</w>
+    <w>alluded</w>
+    <w>to</w>
+    <w>by</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>already</w>
+    <w>in</w>
+    <w>its</w>
+    <w>questioning</w>
+    <t type="p"></t>
+    <media
+      start="2046.124"
+      end="2049.653"
+      unit="s"
+    />
+  </u>
+  <u who="HILLI" uID="u290">
+    <w>It</w>
+    <w>could</w>
+    <w>be</w>
+    <w>that</w>
+    <w>prosecutors</w>
+    <w>simply</w>
+    <w>recognized</w>
+    <w>this</w>
+    <w>to</w>
+    <w>be</w>
+    <w>a</w>
+    <w>good</w>
+    <w>plea</w>
+    <w>bargaining</w>
+    <w>chip</w>
+    <w>and</w>
+    <w>maybe</w>
+    <w>the</w>
+    <w>other</w>
+    <w>prosecutors</w>
+    <w>understand</w>
+    <w>that</w>
+    <w>there's</w>
+    <w>a</w>
+    <w>relationship</w>
+    <w>required</w>
+    <t type="p"></t>
+    <media
+      start="2049.653"
+      end="2058.601"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u291">
+    <w>Thank</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>counsel</w>
+    <t type="p"></t>
+    <media
+      start="2058.601"
+      end="2060.649"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u292">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Attorney</w>
+    <w>General</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>have</w>
+    <g><w>fourteen</w><ga type="explanation">14</ga></g>
+    <w>minutes</w>
+    <w>remaining</w>
+    <t type="p"></t>
+    <media
+      start="2060.649"
+      end="2063.726"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">REBUTTAL ARGUMENT OF GEN. MICHAEL B. MUKASEY ON BEHALF OF THE PETITIONER</comment>
+  <u who="MUKAS" uID="u293">
+    <w>I</w>
+    <w>just</w>
+    <w>wanted</w>
+    <w>to</w>
+    <w>make</w>
+    <w>two</w>
+    <w>brief</w>
+    <w>points</w>
+    <w>on</w>
+    <w>rebuttal</w>
+    <t type="p"></t>
+    <media
+      start="2063.726"
+      end="2067.427"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u294">
+    <w>First</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>Breyer's</w>
+    <w>question</w>
+    <w>and</w>
+    <w>position</w>
+    <w>appears</w>
+    <w>to</w>
+    <w>read</w>
+    <w>in</w>
+    <w>a</w>
+    <w>relational</w>
+    <w>element</w>
+    <w>that's</w>
+    <w>also</w>
+    <w>not</w>
+    <w>in</w>
+    <w>this</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="2067.427"
+      end="2074.863"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u295">
+    <w>And</w>
+    <w>our</w>
+    <w>view</w>
+    <w>is</w>
+    <w>that</w>
+    <w>that</w>
+    <w>is</w>
+    <w>something</w>
+    <w>that</w>
+    <w>should</w>
+    <w>be</w>
+    <w>done</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>anybody</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>by</w>
+    <w>Congress</w>
+    <t type="p"></t>
+    <media
+      start="2074.863"
+      end="2079.937"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u296">
+    <w>And</w>
+    <w>secondly</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>the</w>
+    <w>Respondent's</w>
+    <w>reference</w>
+    <w>to</w>
+    <w>gasoline</w>
+    <w>as</w>
+    <w>an</w>
+    <w>explosive</w>
+    <w>I</w>
+    <w>think</w>
+    <w>is</w>
+    <w>a</w>
+    <w>bit</w>
+    <w>of</w>
+    <pause symbolic-length="simple"/>
+    <w>is</w>
+    <w>a</w>
+    <w>bit</w>
+    <w>of</w>
+    <w>a</w>
+    <w>reach</w>
+    <t type="p"></t>
+    <media
+      start="2079.937"
+      end="2088.056"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u297">
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>gasoline</w>
+    <w>is</w>
+    <w>generally</w>
+    <w>regarded</w>
+    <w>as</w>
+    <w>an</w>
+    <w>explosive</w>
+    <w>unless</w>
+    <w>it</w>
+    <w>is</w>
+    <w>prepared</w>
+    <w>and</w>
+    <w>processed</w>
+    <w>and</w>
+    <w>presented</w>
+    <w>in</w>
+    <w>a</w>
+    <w>certain</w>
+    <w>way</w>
+    <w>with</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>ways</w>
+    <w>that</w>
+    <w>are</w>
+    <w>not</w>
+    <w>present</w>
+    <w>simply</w>
+    <w>by</w>
+    <w>carrying</w>
+    <w>a</w>
+    <w>can</w>
+    <w>of</w>
+    <w>gasoline</w>
+    <w>to</w>
+    <w>help</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>help</w>
+    <w>out</w>
+    <w>a</w>
+    <w>friend</w>
+    <w>who's</w>
+    <w>run</w>
+    <w>out</w>
+    <w>of</w>
+    <w>gas</w>
+    <t type="p"></t>
+    <media
+      start="2088.056"
+      end="2110.018"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u298">
+    <w>And</w>
+    <w>maybe</w>
+    <w>gunpowder</w>
+    <w>doesn't</w>
+    <w>include</w>
+    <w>the</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>that's</w>
+    <w>in</w>
+    <w>a</w>
+    <w>cartridge</w>
+    <w>either</w>
+    <t type="p"></t>
+    <media
+      start="2110.018"
+      end="2116.717"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u299">
+    <w>You</w>
+    <w>think</w>
+    <w>it</w>
+    <w>does</w>
+    <t type="q"></t>
+    <media
+      start="2116.717"
+      end="2122.138"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u300">
+    <w>I</w>
+    <w>think</w>
+    <w>it</w>
+    <w>does</w>
+    <t type="p"></t>
+    <media
+      start="2122.138"
+      end="2123.635"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u301">
+    <w>Counsel</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>could</w>
+    <w>I</w>
+    <w>ask</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>do</w>
+    <w>you</w>
+    <w>have</w>
+    <w>an</w>
+    <w>answer</w>
+    <w>to</w>
+    <w>your</w>
+    <w>friend's</w>
+    <w>point</w>
+    <w>about</w>
+    <w>the</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>language</w>
+    <t type="q"></t>
+    <media
+      start="2123.635"
+      end="2131.165"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u302">
+    <w>The</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>simply</w>
+    <w>includes</w>
+    <w>both</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>number</w>
+    <w>one</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>use</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>actual</w>
+    <w>use</w>
+    <w>and</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>number</w>
+    <w>two</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>carrying</w>
+    <t type="p"></t>
+    <media
+      start="2131.165"
+      end="2140.786"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u303">
+    <w>I</w>
+    <w>agree</w>
+    <w>that</w>
+    <w>it's</w>
+    <w>not</w>
+    <w>a</w>
+    <w>model</w>
+    <w>of</w>
+    <w>elegant</w>
+    <w>construction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>does</w>
+    <w>include</w>
+    <w>the</w>
+    <w>two</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>both</w>
+    <w>the</w>
+    <w>actual</w>
+    <w>use</w>
+    <w>and</w>
+    <w>the</w>
+    <w>mere</w>
+    <w>carrying</w>
+    <t type="p"></t>
+    <media
+      start="2140.786"
+      end="2152.780"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u304">
+    <w>I</w>
+    <w>understood</w>
+    <w>his</w>
+    <w>point</w>
+    <w>to</w>
+    <w>be</w>
+    <w>that</w>
+    <w>it's</w>
+    <w>surprising</w>
+    <w>that</w>
+    <w>they</w>
+    <w>refer</w>
+    <w>to</w>
+    <w>use</w>
+    <w>of</w>
+    <w>the</w>
+    <w>explosives</w>
+    <w>or</w>
+    <w>carrying</w>
+    <w>of</w>
+    <w>the</w>
+    <w>explosives</w>
+    <w>with</w>
+    <w>reference</w>
+    <w>to</w>
+    <w>the</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <tagMarker type="comma"></tagMarker>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>suggests</w>
+    <w>that</w>
+    <w>the</w>
+    <w>explosive</w>
+    <w>was</w>
+    <w>used</w>
+    <w>or</w>
+    <w>carried</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>the</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <t type="p"></t>
+    <media
+      start="2152.780"
+      end="2168.538"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u305">
+    <w>And</w>
+    <w>I</w>
+    <w>understood</w>
+    <w>your</w>
+    <w>position</w>
+    <w>to</w>
+    <w>be</w>
+    <w>that</w>
+    <w>it</w>
+    <w>doesn't</w>
+    <w>have</w>
+    <w>to</w>
+    <w>be</w>
+    <t type="p"></t>
+    <media
+      start="2168.538"
+      end="2171.462"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u306">
+    <w>No</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <w>it</w>
+    <w>suggests</w>
+    <w>simply</w>
+    <w>that</w>
+    <w>the</w>
+    <w>underlying</w>
+    <w>felony</w>
+    <w>was</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>committed</w>
+    <t type="p"></t>
+    <media
+      start="2171.462"
+      end="2175.070"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u307">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>was</w>
+    <w>going</w>
+    <w>to</w>
+    <w>be</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>was</w>
+    <w>going</w>
+    <w>to</w>
+    <w>be</w>
+    <w>inaccurate</w>
+    <w>as</w>
+    <w>to</w>
+    <w>one</w>
+    <w>or</w>
+    <w>the</w>
+    <w>other</w>
+    <w>of</w>
+    <w>one</w>
+    <w>or</w>
+    <w>two</w>
+    <t type="p"></t>
+    <media
+      start="2175.070"
+      end="2183.847"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u308">
+    <w>If</w>
+    <w>you</w>
+    <w>said</w>
+    <quotation type="begin"></quotation>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>inaccurate</w>
+    <w>as</w>
+    <w>to</w>
+    <w>one</w>
+    <t type="p"></t>
+    <media
+      start="2183.847"
+      end="2188.015"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u309">
+    <w>And</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <quotation type="end"></quotation>
+    <w>is</w>
+    <w>accurate</w>
+    <w>as</w>
+    <w>to</w>
+    <w>one</w>
+    <w>but</w>
+    <w>inaccurate</w>
+    <w>as</w>
+    <w>to</w>
+    <w>two</w>
+    <t type="p"></t>
+    <media
+      start="2188.015"
+      end="2193.218"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u310">
+    <w>I</w>
+    <w>guess</w>
+    <w>they</w>
+    <w>should</w>
+    <w>have</w>
+    <w>said</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>or</w>
+    <w>during</w>
+    <quotation type="end"></quotation>
+    <w>or</w>
+    <quotation type="begin"></quotation>
+    <w>in</w>
+    <w>which</w>
+    <quotation type="end"></quotation>
+    <t type="p"></t>
+    <media
+      start="2193.218"
+      end="2197.527"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u311">
+    <w>They</w>
+    <w>should</w>
+    <w>have</w>
+    <w>added</w>
+    <quotation type="begin"></quotation>
+    <w>fire</w>
+    <quotation type="end"></quotation>
+    <tagMarker type="comma"></tagMarker>
+    <w>too</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>right</w>
+    <t type="q"></t>
+    <media
+      start="2197.527"
+      end="2201.056"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u312">
+    <e><action/></e>
+    <e><happening>laughter</happening></e>
+    <t type="p"></t>
+    <media
+      start="2201.056"
+      end="2202.058"
+      unit="s"
+    />
+  </u>
+  <u who="MUKAS" uID="u313">
+    <w>If</w>
+    <w>there</w>
+    <w>are</w>
+    <w>no</w>
+    <w>further</w>
+    <w>questions</w>
+    <t type="interruption"></t>
+    <media
+      start="2202.058"
+      end="2205.509"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u314">
+    <w>Thank</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Attorney</w>
+    <w>General</w>
+    <t type="p"></t>
+    <media
+      start="2205.509"
+      end="2206.851"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u315">
+    <w>Thank</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>counsel</w>
+    <t type="p"></t>
+    <media
+      start="2206.851"
+      end="2207.428"
+      unit="s"
+    />
+  </u>
+  <u who="ROBE" uID="u316">
+    <w>The</w>
+    <w>case</w>
+    <w>is</w>
+    <w>submitted</w>
+    <t type="p"></t>
+    <media
+      start="2207.428"
+      end="2208.239"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">(Whereupon, at 12:01 p.m., the case in the above-entitled matter was submitted.)</comment>
+</CHAT>

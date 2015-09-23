@@ -1,0 +1,9736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="01-757" Mediatypes="audio"
+      PID="11312/t-00008027-1"
+      Version="2.0.2"
+      Lang="eng"
+      Options="caps"
+      Corpus="SCOTUS"
+      Id="01-757"
+      Date="2002-10-15">
+  <Participants>
+    <participant
+      id="BREY"
+    name="STEPHEN_G_BREYER"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="CONN"
+    name="SANDRA_DAY_O&apos;CONNOR"
+      role="Justice"
+      language="eng"
+      sex="female"
+
+    />
+    <participant
+      id="GINS"
+    name="RUTH_BADER_GINSBURG"
+      role="Justice"
+      language="eng"
+      sex="female"
+
+    />
+    <participant
+      id="KENN"
+    name="ANTHONY_M_KENNEDY"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="REHN"
+    name="WILLIAM_H_REHNQUIST"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="SCAL"
+    name="ANTONIN_SCALIA"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="SOUT"
+    name="DAVID_H_SOUTER"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="STEV"
+    name="JOHN_PAUL_STEVENS"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="THOM"
+    name="CLARENCE_THOMAS"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="UNKN"
+    name="Unidentified_Justice"
+      role="Unidentified"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="ALSOB"
+    name="HENRY_B_ALSOBROOK_JR"
+      role="Attorney"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="BEDER"
+    name="DAVID_J_BEDERMAN"
+      role="Attorney"
+      language="eng"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">15-OCT-2002</comment>
+  <comment type="Transcriber">AEG</comment>
+  <comment type="Generic">$LastChangedDate: 2012-07-23 15:46:05 -0400 (Mon, 23 Jul 2012) $</comment>
+  <comment type="Generic">SYNGENTA CROP PROTECTION, INC., ROBERT BABB, EDEE TEMPLET, AND KENNETH A. DEVUN, Petitioners v. HURLEY HENSON.</comment>
+  <comment type="Generic">No. 01-757</comment>
+  <comment type="Generic">October 15, 2002, Tuesday, Washington, D.C.</comment>
+  <comment type="Generic">The above-entitled matter came on for oral argument before the Supreme Court of the United States at 10:05 a.m.</comment>
+  <comment type="Generic">OPINION: PROCEEDINGS</comment>
+  <comment type="Generic">(10:05 a.m.)</comment>
+  <u who="REHN" uID="u0">
+    <w>We'll</w>
+    <w>hear</w>
+    <w>argument</w>
+    <w>now</w>
+    <w>in</w>
+    <g><w>number</w><ga type="explanation">No.</ga></g>
+    <g><w>oh</w>
+    <w>one</w>
+    <w>seven</w>
+    <w>fifty-seven</w><ga type="explanation">01-757</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>Syngenta</w>
+    <w>Crop</w>
+    <w>Protection</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Inc</w><ga type="explanation">Inc.</ga></g>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Hurley</w>
+    <w>Henson</w>
+    <t type="p"></t>
+    <media
+      start="0.000"
+      end="9.471"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="REHN" uID="u1">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook</w>
+    <t type="p"></t>
+    <media
+      start="9.471"
+      end="11.261"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">ORAL ARGUMENT OF HENRY B. ALSOBROOK, JR. ON BEHALF OF THE PETITIONERS</comment>
+  <u who="ALSOB" uID="u2">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>may</w>
+    <w>it</w>
+    <w>please</w>
+    <w>the</w>
+    <w>Court</w>
+    <s type="colon"/>
+    <t type="interruption"></t>
+    <media
+      start="11.261"
+      end="14.899"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u3">
+    <w>In</w>
+    <w>Kikkonen</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Guardian</w>
+    <w>Life</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>Court</w>
+    <w>hypothesized</w>
+    <w>the</w>
+    <w>very</w>
+    <w>situation</w>
+    <w>that</w>
+    <w>we</w>
+    <w>have</w>
+    <w>before</w>
+    <w>you</w>
+    <w>this</w>
+    <w>morning</w>
+    <w>because</w>
+    <w>here</w>
+    <w>we</w>
+    <w>have</w>
+    <w>a</w>
+    <w>nationwide</w>
+    <w>class</w>
+    <w>action</w>
+    <w>settlement</w>
+    <w>where</w>
+    <w>the</w>
+    <w>court</w>
+    <w>specifically</w>
+    <w>by</w>
+    <w>judgment</w>
+    <w>retained</w>
+    <w>jurisdiction</w>
+    <w>to</w>
+    <w>manage</w>
+    <w>the</w>
+    <w>settlement</w>
+    <w>as</w>
+    <w>well</w>
+    <w>as</w>
+    <w>enforce</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="14.899"
+      end="37.531"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u4">
+    <w>A</w>
+    <w>critical</w>
+    <w>part</w>
+    <w>of</w>
+    <w>that</w>
+    <w>settlement</w>
+    <w>was</w>
+    <w>the</w>
+    <w>dismissal</w>
+    <w>of</w>
+    <w>this</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="37.531"
+      end="42.644"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u5">
+    <w>However</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>class</w>
+    <w>counsel</w>
+    <w>went</w>
+    <w>to</w>
+    <w>dismiss</w>
+    <w>the</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <w>pointed</w>
+    <w>out</w>
+    <w>and</w>
+    <w>as</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>pointed</w>
+    <w>out</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>his</w>
+    <w>efforts</w>
+    <w>were</w>
+    <w>thwarted</w>
+    <w>and</w>
+    <w>the</w>
+    <w>case</w>
+    <w>was</w>
+    <w>not</w>
+    <w>dismissed</w>
+    <t type="p"></t>
+    <media
+      start="42.644"
+      end="55.110"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u6">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>see</w>
+    <w>you've</w>
+    <w>changed</w>
+    <w>the</w>
+    <w>question</w>
+    <w>presented</w>
+    <w>from</w>
+    <w>the</w>
+    <w>time</w>
+    <w>in</w>
+    <w>your</w>
+    <w>certiorari</w>
+    <w>petition</w>
+    <w>to</w>
+    <w>your</w>
+    <w>opening</w>
+    <w>brief</w>
+    <t type="p"></t>
+    <media
+      start="55.110"
+      end="65.525"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u7">
+    <w>And</w>
+    <w>the</w>
+    <w>question</w>
+    <w>presented</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>we</w>
+    <w>granted</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>referred</w>
+    <w>to</w>
+    <g><w>twenty-eight</w><ga type="explanation">28</ga></g>
+    <g><w>U_S_C</w><ga type="explanation">U.S.C.</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>section</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>now</w>
+    <w>you</w>
+    <w>have</w>
+    <w>dropped</w>
+    <w>your</w>
+    <w>reference</w>
+    <w>to</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="65.525"
+      end="74.412"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u8">
+    <w>Does</w>
+    <w>that</w>
+    <w>mean</w>
+    <w>you're</w>
+    <w>abandoning</w>
+    <w>reliance</w>
+    <w>on</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>or</w>
+    <w>simply</w>
+    <w>broadening</w>
+    <w>the</w>
+    <w>question</w>
+    <t type="q"></t>
+    <media
+      start="74.412"
+      end="78.442"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u9">
+    <w>No</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <t type="p"></t>
+    <media
+      start="78.442"
+      end="79.077"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u10">
+    <w>We</w>
+    <pause symbolic-length="simple"/>
+    <w>we're</w>
+    <w>saying</w>
+    <w>that</w>
+    <w>under</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>that</w>
+    <w>because</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>retained</w>
+    <w>jurisdiction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>that</w>
+    <w>was</w>
+    <w>original</w>
+    <w>jurisdiction</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>the</w>
+    <w>matter</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <w>actually</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>we</w>
+    <w>removed</w>
+    <w>this</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>majority</w>
+    <w>of</w>
+    <w>circuit</w>
+    <w>courts</w>
+    <w>of</w>
+    <w>appeals</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>namely</w>
+    <w>the</w>
+    <w>second</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sixth</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>seventh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>eighth</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>had</w>
+    <w>said</w>
+    <w>that</w>
+    <w>the</w>
+    <w>proper</w>
+    <w>vehicle</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>this</w>
+    <w>was</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <t type="p"></t>
+    <media
+      start="79.077"
+      end="107.443"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u11">
+    <w>And</w>
+    <w>that</w>
+    <w>is</w>
+    <w>what</w>
+    <w>we</w>
+    <w>are</w>
+    <w>claiming</w>
+    <w>today</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>well</w>
+    <w>as</w>
+    <g><w>twenty-eight</w><ga type="explanation">28</ga></g>
+    <g><w>U_S_C</w><ga type="explanation">U.S.C.</ga></g>
+    <g><w>thirteen</w>
+    <w>sixty-seven</w><ga type="explanation">1367</ga></g>
+    <w>ancillary</w>
+    <w>jurisdiction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>we</w>
+    <w>have</w>
+    <w>set</w>
+    <w>that</w>
+    <w>out</w>
+    <w>in</w>
+    <w>our</w>
+    <w>brief</w>
+    <t type="p"></t>
+    <media
+      start="107.443"
+      end="118.161"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u12">
+    <w>But</w>
+    <w>you</w>
+    <w>have</w>
+    <w>no</w>
+    <w>right</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>under</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>because</w>
+    <w>there</w>
+    <w>wasn't</w>
+    <w>complete</w>
+    <w>diversity</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Louisiana</w>
+    <w>suit</w>
+    <t type="p"></t>
+    <media
+      start="118.161"
+      end="125.197"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u13">
+    <w>Isn't</w>
+    <w>that</w>
+    <w>right</w>
+    <t type="q"></t>
+    <media
+      start="125.197"
+      end="125.895"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u14">
+    <w>That</w>
+    <w>is</w>
+    <w>correct</w>
+    <t type="p"></t>
+    <media
+      start="125.895"
+      end="126.671"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u15">
+    <w>So</w>
+    <w>you</w>
+    <w>can't</w>
+    <w>rely</w>
+    <w>on</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>and</w>
+    <w>that's</w>
+    <w>conceded</w>
+    <t type="p"></t>
+    <media
+      start="126.671"
+      end="130.856"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u16">
+    <w>We</w>
+    <pause symbolic-length="simple"/>
+    <w>we</w>
+    <w>can</w>
+    <pause symbolic-length="simple"/>
+    <w>our</w>
+    <w>reliance</w>
+    <w>on</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>was</w>
+    <w>based</w>
+    <w>on</w>
+    <w>the</w>
+    <w>fact</w>
+    <w>that</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>court</w>
+    <w>retained</w>
+    <w>original</w>
+    <w>jurisdiction</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>and<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="130.856"
+      end="141.195"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u17">
+    <w>But</w>
+    <w>that's</w>
+    <w>not</w>
+    <pause symbolic-length="simple"/>
+    <w>nothing</w>
+    <w>in</w>
+    <g><w>forty-one</w><ga type="explanation">41</ga></g>
+    <w>rests</w>
+    <w>on</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="141.195"
+      end="143.495"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u18">
+    <w>It</w>
+    <w>has</w>
+    <w>to</w>
+    <w>be</w>
+    <w>a</w>
+    <w>case</w>
+    <w>that</w>
+    <w>would</w>
+    <w>qualify</w>
+    <w>for</w>
+    <w>original</w>
+    <w>jurisdiction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>you</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="143.495"
+      end="148.406"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u19">
+    <linker type="self completion"/>
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>we</w>
+    <pause symbolic-length="simple"/>
+    <w>we</w>
+    <w>construed</w>
+    <w>that</w>
+    <w>as</w>
+    <w>being</w>
+    <w>a</w>
+    <w>venue</w>
+    <w>rather</w>
+    <w>than</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>because</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>court</w>
+    <w>had</w>
+    <w>original</w>
+    <w>jurisdiction</w>
+    <t type="p"></t>
+    <media
+      start="148.406"
+      end="156.039"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u20">
+    <w>And</w>
+    <w>certainly</w>
+    <w>under</w>
+    <g><w>sixteen</w>
+    <w>fifty-one</w><ga type="explanation">1651</ga></g>
+    <t type="interruption"></t>
+    <media
+      start="156.039"
+      end="160.056"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u21">
+    <w>What</w>
+    <w>did</w>
+    <w>you</w>
+    <w>construe</w>
+    <w>as</w>
+    <w>being</w>
+    <w>venue</w>
+    <t type="q"></t>
+    <media
+      start="160.056"
+      end="161.851"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u22">
+    <linker type="self completion"/>
+    <w>The</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>fact</w>
+    <w>that</w>
+    <w>we</w>
+    <w>had</w>
+    <w>to</w>
+    <w>take</w>
+    <w>it</w>
+    <w>to</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>in</w>
+    <w>the</w>
+    <w>district</w>
+    <w>where</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>suit</w>
+    <w>lay</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>then</w>
+    <w>it</w>
+    <w>was</w>
+    <w>immediately</w>
+    <w>transferred</w>
+    <w>to</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="161.851"
+      end="176.664"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u23">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>can't</w>
+    <w>remove</w>
+    <w>a</w>
+    <w>case</w>
+    <w>to</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>outside</w>
+    <w>of</w>
+    <w>the</w>
+    <w>district</w>
+    <w>in</w>
+    <w>which</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>sat</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>my</w>
+    <w>understanding</w>
+    <t type="p"></t>
+    <media
+      start="176.664"
+      end="184.283"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u24">
+    <w>That's</w>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="184.283"
+      end="185.311"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u25">
+    <w>We</w>
+    <w>took</w>
+    <pause symbolic-length="simple"/>
+    <w>we</w>
+    <w>took</w>
+    <w>our</w>
+    <w>road</w>
+    <w>map</w>
+    <w>from</w>
+    <w>Agent</w>
+    <w>Orange</w>
+    <w>Product</w>
+    <w>Liability</w>
+    <t type="p"></t>
+    <media
+      start="185.311"
+      end="190.764"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u26">
+    <w>There</w>
+    <w>they</w>
+    <w>had</w>
+    <w>a</w>
+    <w>Texas</w>
+    <t type="interruption"></t>
+    <media
+      start="190.764"
+      end="192.991"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u27">
+    <w>Who</w>
+    <w>is</w>
+    <w>they</w>
+    <t type="q"></t>
+    <media
+      start="192.991"
+      end="193.628"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u28">
+    <linker type="self completion"/>
+    <w>There</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>was</w>
+    <w>a</w>
+    <t type="interruption"></t>
+    <media
+      start="193.628"
+      end="196.699"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u29">
+    <w>What</w>
+    <w>court</w>
+    <w>are</w>
+    <w>you</w>
+    <w>talking</w>
+    <w>about</w>
+    <t type="q"></t>
+    <media
+      start="196.699"
+      end="198.280"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u30">
+    <linker type="self completion"/>
+    <w>We're</w>
+    <w>talking</w>
+    <w>about</w>
+    <w>the</w>
+    <w>Second</w>
+    <w>Circuit</w>
+    <t type="p"></t>
+    <media
+      start="198.280"
+      end="199.985"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u31">
+    <w>And</w>
+    <t type="interruption"></t>
+    <media
+      start="199.985"
+      end="201.213"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u32">
+    <w>Initially</w>
+    <w>the</w>
+    <w>Eastern</w>
+    <w>District</w>
+    <w>of</w>
+    <w>New</w>
+    <w>York</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Judge</w>
+    <w>Weinstein's</w>
+    <t type="interruption"></t>
+    <media
+      start="201.213"
+      end="205.052"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u33">
+    <linker type="self completion"/>
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="205.052"
+      end="205.567"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u34">
+    <linker type="self completion"/>
+    <w>order</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>was</w>
+    <w>in</w>
+    <w>no</w>
+    <w>way</w>
+    <w>based</w>
+    <w>on</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <t type="p"></t>
+    <media
+      start="205.567"
+      end="208.522"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u35">
+    <w>It</w>
+    <w>was</w>
+    <w>based</w>
+    <w>on</w>
+    <g><w>sixteen</w>
+    <w>fifty-one</w><ga type="explanation">1651</ga></g>
+    <t type="p"></t>
+    <media
+      start="208.522"
+      end="210.381"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u36">
+    <w>But</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>also</w>
+    <w>in</w>
+    <w>that</w>
+    <w>case</w>
+    <w>was</w>
+    <w>the</w>
+    <w>case</w>
+    <w>of</w>
+    <w>Ryan</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>in</w>
+    <w>Ryan</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>was</w>
+    <w>brought</w>
+    <w>by</w>
+    <w>to</w>
+    <w>class</w>
+    <w>members</w>
+    <w>in</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>in</w>
+    <w>Texas</w>
+    <t type="p"></t>
+    <media
+      start="210.381"
+      end="221.090"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u37">
+    <w>And</w>
+    <w>it</w>
+    <w>was</w>
+    <w>removed</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>in</w>
+    <w>Texas</w>
+    <w>and</w>
+    <w>then</w>
+    <w>transferred</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Eastern</w>
+    <w>District</w>
+    <w>of</w>
+    <w>New</w>
+    <w>York</w>
+    <t type="p"></t>
+    <media
+      start="221.090"
+      end="229.767"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u38">
+    <w>And</w>
+    <w>that</w>
+    <w>was</w>
+    <w>our</w>
+    <w>road</w>
+    <w>map</w>
+    <w>for</w>
+    <w>getting</w>
+    <w>this</w>
+    <w>case</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>back</w>
+    <w>to</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>Alabama<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="229.767"
+      end="236.225"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u39">
+    <w>But</w>
+    <w>that</w>
+    <w>was</w>
+    <w>all</w>
+    <w>done</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>or</w>
+    <w>what</w>
+    <w>they</w>
+    <w>thought</w>
+    <w>was</w>
+    <w>the</w>
+    <w>authority</w>
+    <w>granted</w>
+    <w>by</w>
+    <g><w>sixteen</w>
+    <w>fifty-one</w><ga type="explanation">1651</ga></g>
+    <t type="p"></t>
+    <media
+      start="236.225"
+      end="241.168"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u40">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>we</w>
+    <w>also</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>our</w>
+    <w>removal</w>
+    <w>petition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>pled</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>well</w>
+    <w>as</w>
+    <w>ancillary</w>
+    <w>jurisdiction</w>
+    <w>under</w>
+    <g><w>thirteen</w>
+    <w>sixty-seven</w><ga type="explanation">1367</ga></g>
+    <t type="p"></t>
+    <media
+      start="241.168"
+      end="252.249"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u41">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>is</w>
+    <w>your</w>
+    <w>theory</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <t type="q"></t>
+    <media
+      start="252.249"
+      end="255.496"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u42">
+    <w>Is</w>
+    <w>your</w>
+    <w>theory</w>
+    <w>that</w>
+    <w>removal</w>
+    <w>is</w>
+    <w>itself</w>
+    <pause symbolic-length="simple"/>
+    <w>comes</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <t type="q"></t>
+    <media
+      start="255.496"
+      end="261.044"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u43">
+    <w>We</w>
+    <w>contend</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>in</w>
+    <w>order</w>
+    <w>for</w>
+    <w>the</w>
+    <w>Court</w>
+    <t type="interruption"></t>
+    <media
+      start="261.044"
+      end="265.975"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u44">
+    <w>Can't</w>
+    <w>you</w>
+    <w>answer</w>
+    <w>the</w>
+    <w>question</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>yes</w>
+    <w>or</w>
+    <w>no<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="q"></t>
+    <media
+      start="265.975"
+      end="267.799"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u45">
+    <linker type="self completion"/>
+    <w>Oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>sorry</w>
+    <t type="p"></t>
+    <media
+      start="267.799"
+      end="268.138"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u46">
+    <w>I'm</w>
+    <w>sorry</w>
+    <t type="p"></t>
+    <media
+      start="268.138"
+      end="268.973"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u47">
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="268.973"
+      end="272.018"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u48">
+    <w>I</w>
+    <w>thought</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>required</w>
+    <w>the</w>
+    <w>existence</w>
+    <w>of</w>
+    <w>some</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>a</w>
+    <w>common</w>
+    <w>law</w>
+    <w>writ</w>
+    <w>like</w>
+    <w>certiorari</w>
+    <w>or</w>
+    <w>prohibition</w>
+    <w>or</w>
+    <w>injunction</w>
+    <w>or</w>
+    <w>something</w>
+    <w>like</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="272.018"
+      end="282.995"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u49">
+    <w>There</w>
+    <pause symbolic-length="simple"/>
+    <w>there</w>
+    <w>never</w>
+    <w>was</w>
+    <w>a</w>
+    <w>common</w>
+    <w>law</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>removal</w>
+    <t type="p"></t>
+    <media
+      start="282.995"
+      end="286.981"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u50">
+    <w>That</w>
+    <w>is</w>
+    <w>correct</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="286.981"
+      end="288.931"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u51">
+    <w>But</w>
+    <w>the</w>
+    <w>jurisprudence</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>particularly</w>
+    <w>the</w>
+    <w>Agent</w>
+    <w>Orange</w>
+    <w>case</w>
+    <t type="interruption"></t>
+    <media
+      start="288.931"
+      end="293.115"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u52">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>can</w>
+    <w>you</w>
+    <w>cite</w>
+    <w>any</w>
+    <w>of</w>
+    <w>our</w>
+    <w>cases</w>
+    <w>that</w>
+    <w>support</w>
+    <w>you</w>
+    <w>in</w>
+    <w>this</w>
+    <w>respect</w>
+    <t type="q"></t>
+    <media
+      start="293.115"
+      end="298.478"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u53">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>can</w>
+    <w>cite</w>
+    <w>the</w>
+    <w>New</w>
+    <w>York</w>
+    <w>Telephone</w>
+    <w>case</w>
+    <w>where</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>said</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>removal</w>
+    <w>was</w>
+    <pause symbolic-length="simple"/>
+    <w>not</w>
+    <w>removal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>a</w>
+    <w>writ</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>was</w>
+    <pause symbolic-length="simple"/>
+    <w>was</w>
+    <w>proper</w>
+    <w>to</w>
+    <w>avoid</w>
+    <w>the</w>
+    <w>frustration</w>
+    <w>of</w>
+    <w>judgment</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <w>was</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>was</w>
+    <w>certainly</w>
+    <w>the</w>
+    <w>situation</w>
+    <w>here</w>
+    <t type="p"></t>
+    <media
+      start="298.478"
+      end="314.365"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u54">
+    <w>But</w>
+    <pause symbolic-length="simple"/>
+    <w>but</w>
+    <w>that</w>
+    <w>was</w>
+    <w>a</w>
+    <w>different</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>was</w>
+    <w>an</w>
+    <w>existing</w>
+    <w>writ</w>
+    <t type="p"></t>
+    <media
+      start="314.365"
+      end="317.630"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u55">
+    <w>Here</w>
+    <pause symbolic-length="simple"/>
+    <w>here</w>
+    <w>you're</w>
+    <w>saying</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>effect</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>removal</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>is</w>
+    <w>itself</w>
+    <w>a</w>
+    <w>writ</w>
+    <t type="p"></t>
+    <media
+      start="317.630"
+      end="322.566"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u56">
+    <w>And</w>
+    <w>I</w>
+    <w>simply</w>
+    <w>don't</w>
+    <w>see</w>
+    <w>how</w>
+    <w>the</w>
+    <w>cases</w>
+    <w>support</w>
+    <w>you</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>there<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="322.566"
+      end="326.150"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u57">
+    <w>I</w>
+    <w>agree</w>
+    <w>with</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="326.150"
+      end="327.128"
+      unit="s"
+    />
+  </u>
+  <u who="CONN" uID="u58">
+    <w>Do</w>
+    <w>you</w>
+    <w>agree</w>
+    <w>that</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>is</w>
+    <w>not</w>
+    <w>a</w>
+    <w>source</w>
+    <w>of</w>
+    <w>original</w>
+    <w>jurisdiction</w>
+    <t type="q"></t>
+    <media
+      start="327.128"
+      end="332.261"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u59">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>ma'am</w>
+    <t type="p"></t>
+    <media
+      start="332.261"
+      end="333.716"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u60">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>by</w>
+    <w>the</w>
+    <t type="interruption"></t>
+    <media
+      start="333.716"
+      end="335.898"
+      unit="s"
+    />
+  </u>
+  <u who="CONN" uID="u61">
+    <w>Why</w>
+    <pause symbolic-length="simple"/>
+    <w>why</w>
+    <w>then</w>
+    <w>didn't</w>
+    <w>you</w>
+    <w>try</w>
+    <w>to</w>
+    <w>get</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>in</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>in</w>
+    <w>Alabama</w>
+    <t type="q"></t>
+    <media
+      start="335.898"
+      end="340.835"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u62">
+    <linker type="self completion"/>
+    <w>There</w>
+    <w>were</w>
+    <w>two</w>
+    <w>reasons</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>O'Connor</w>
+    <t type="p"></t>
+    <media
+      start="340.835"
+      end="345.015"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u63">
+    <w>First</w>
+    <w>is</w>
+    <w>that</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>would</w>
+    <w>not</w>
+    <w>dismiss</w>
+    <w>the</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="345.015"
+      end="349.783"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u64">
+    <w>An</w>
+    <w>injunction</w>
+    <w>would</w>
+    <w>enjoin</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>suit</w>
+    <w>from</w>
+    <w>going</w>
+    <w>forward</w>
+    <t type="p"></t>
+    <media
+      start="349.783"
+      end="354.670"
+      unit="s"
+    />
+  </u>
+  <u who="CONN" uID="u65">
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="354.670"
+      end="355.263"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u66">
+    <w>And</w>
+    <w>we</w>
+    <w>would</w>
+    <w>have</w>
+    <w>had</w>
+    <pause symbolic-length="simple"/>
+    <w>our</w>
+    <w>client</w>
+    <w>would</w>
+    <w>have</w>
+    <w>had</w>
+    <w>to</w>
+    <w>carry</w>
+    <w>this</w>
+    <w>as</w>
+    <w>a</w>
+    <w>liability</w>
+    <w>on</w>
+    <w>their</w>
+    <w>books</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>ad</w>
+    <w>infinitum<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="355.263"
+      end="365.830"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u67">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>couldn't</w>
+    <w>the</w>
+    <w>injunction</w>
+    <w>have</w>
+    <w>ordered</w>
+    <w>the</w>
+    <w>party</w>
+    <w>to</w>
+    <w>dismiss</w>
+    <w>the</w>
+    <w>case</w>
+    <t type="q"></t>
+    <media
+      start="365.830"
+      end="368.639"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u68">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>did</w>
+    <pause symbolic-length="simple"/>
+    <w>they</w>
+    <w>could</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>and<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="368.639"
+      end="374.840"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u69">
+    <w>But</w>
+    <w>then</w>
+    <w>why</w>
+    <pause symbolic-length="simple"/>
+    <w>why</w>
+    <w>wouldn't</w>
+    <w>that</w>
+    <w>be</w>
+    <w>sufficient</w>
+    <t type="q"></t>
+    <media
+      start="374.840"
+      end="376.599"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u70">
+    <linker type="self completion"/>
+    <w>I</w>
+    <w>suppose</w>
+    <w>it</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <t type="p"></t>
+    <media
+      start="376.599"
+      end="380.594"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u71">
+    <w>But</w>
+    <w>if</w>
+    <w>that's</w>
+    <w>so</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>why</w>
+    <w>don't</w>
+    <pause symbolic-length="simple"/>
+    <w>why</w>
+    <w>are</w>
+    <w>we</w>
+    <w>trying</w>
+    <w>to</w>
+    <w>read</w>
+    <w>into</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>language</w>
+    <w>that</w>
+    <w>isn't</w>
+    <w>there</w>
+    <w>and</w>
+    <w>read</w>
+    <w>requirements</w>
+    <w>out</w>
+    <w>of</w>
+    <g><w>sixteen</w>
+    <w>fifty-one</w><ga type="explanation">1651</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>requirements</w>
+    <w>that</w>
+    <w>are</w>
+    <w>there</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>there</w>
+    <w>was</w>
+    <w>another</w>
+    <w>way</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>totally</w>
+    <w>consistent</w>
+    <w>with</w>
+    <w>the</w>
+    <w>words</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>everything</w>
+    <w>else</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>you</w>
+    <w>could</w>
+    <w>have</w>
+    <w>achieved</w>
+    <w>any</w>
+    <w>legitimate</w>
+    <w>objective</w>
+    <w>that</w>
+    <w>you</w>
+    <w>had</w>
+    <t type="q"></t>
+    <media
+      start="380.594"
+      end="404.397"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u72">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>Breyer</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>at</w>
+    <w>the</w>
+    <w>time</w>
+    <w>that</w>
+    <w>we</w>
+    <w>did</w>
+    <w>this</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>I</w>
+    <w>said</w>
+    <w>earlier</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>was</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>majority</w>
+    <w>of</w>
+    <w>Federal</w>
+    <w>circuit</w>
+    <w>courts</w>
+    <w>said</w>
+    <w>that</w>
+    <w>the</w>
+    <w>proper</w>
+    <w>vehicle</w>
+    <w>was</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>the</w>
+    <w>case</w>
+    <w>and</w>
+    <w>get</w>
+    <w>it</w>
+    <w>before</w>
+    <w>the</w>
+    <w>court</w>
+    <w>where</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>had</w>
+    <w>issued</w>
+    <w>the</w>
+    <w>judgment</w>
+    <t type="p"></t>
+    <media
+      start="404.397"
+      end="424.619"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u73">
+    <w>Today</w>
+    <w>with</w>
+    <w>the</w>
+    <w>number</w>
+    <w>of</w>
+    <w>class</w>
+    <w>action</w>
+    <w>settlements</w>
+    <w>that</w>
+    <w>are</w>
+    <w>going</w>
+    <w>on</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>must</w>
+    <w>be</w>
+    <w>some</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>way</w>
+    <w>by</w>
+    <w>which</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>who</w>
+    <w>issues</w>
+    <w>a</w>
+    <w>judgment</w>
+    <w>can</w>
+    <w>enforce</w>
+    <w>that</w>
+    <w>judgment</w>
+    <w>across</w>
+    <w>State</w>
+    <w>lines</w>
+    <t type="p"></t>
+    <media
+      start="424.619"
+      end="442.475"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u74">
+    <w>There</w>
+    <w>is</w>
+    <t type="p"></t>
+    <media
+      start="442.475"
+      end="443.134"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u75">
+    <w>Isn't</w>
+    <w>that</w>
+    <w>just</w>
+    <w>in</w>
+    <w>your</w>
+    <w>answer</w>
+    <w>to</w>
+    <w>Justice</w>
+    <w>O'Connor</w>
+    <w>and</w>
+    <w>Justice</w>
+    <w>Kennedy</w>
+    <t type="q"></t>
+    <media
+      start="443.134"
+      end="446.427"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u76">
+    <w>You</w>
+    <w>provided</w>
+    <w>the</w>
+    <w>way</w>
+    <t type="p"></t>
+    <media
+      start="446.427"
+      end="448.053"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u77">
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="448.053"
+      end="448.739"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u78">
+    <w>The</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>only</w>
+    <w>loose</w>
+    <w>end</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>you</w>
+    <w>have</w>
+    <w>left</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>after</w>
+    <w>your</w>
+    <w>answers</w>
+    <w>to</w>
+    <w>Justices</w>
+    <w>O'Connor</w>
+    <w>and</w>
+    <w>Kennedy</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>the</w>
+    <w>problem</w>
+    <w>you</w>
+    <w>say</w>
+    <w>your</w>
+    <w>client</w>
+    <w>would</w>
+    <w>have</w>
+    <w>in</w>
+    <w>carrying</w>
+    <w>liability</w>
+    <w>on</w>
+    <w>the</w>
+    <w>books</w>
+    <w>until</w>
+    <w>the</w>
+    <w>second</w>
+    <w>action</w>
+    <w>was</w>
+    <w>somehow</w>
+    <w>finally</w>
+    <w>terminated</w>
+    <t type="p"></t>
+    <media
+      start="448.739"
+      end="466.701"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u79">
+    <w>But</w>
+    <w>isn't</w>
+    <w>the</w>
+    <w>answer</w>
+    <w>to</w>
+    <w>that</w>
+    <w>that</w>
+    <w>once</w>
+    <w>you</w>
+    <w>had</w>
+    <w>gotten</w>
+    <w>either</w>
+    <w>the</w>
+    <w>injunction</w>
+    <w>or</w>
+    <w>simply</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>order</w>
+    <w>to</w>
+    <w>the</w>
+    <w>parties</w>
+    <w>under</w>
+    <w>the</w>
+    <w>retained</w>
+    <w>jurisdiction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>then</w>
+    <w>could</w>
+    <w>have</w>
+    <w>gone</w>
+    <w>into</w>
+    <w>court</w>
+    <w>in</w>
+    <w>the</w>
+    <w>second</w>
+    <w>suit</w>
+    <w>and</w>
+    <w>said</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>cannot</w>
+    <w>prosecute</w>
+    <w>the</w>
+    <w>suit</w>
+    <t type="q"></t>
+    <media
+      start="466.701"
+      end="482.585"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u80">
+    <w>It</w>
+    <w>has</w>
+    <w>been</w>
+    <w>enjoined</w>
+    <t type="p"></t>
+    <media
+      start="482.585"
+      end="483.516"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u81">
+    <w>Therefore</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>please</w>
+    <w>dismiss</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="483.516"
+      end="485.468"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u82">
+    <w>Wouldn't</w>
+    <w>you</w>
+    <w>have</w>
+    <w>gotten</w>
+    <w>your</w>
+    <w>dismissal</w>
+    <w>and</w>
+    <w>wouldn't</w>
+    <w>that</w>
+    <w>have</w>
+    <w>taken</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>liability</w>
+    <w>off</w>
+    <w>the</w>
+    <w>book</w>
+    <t type="q"></t>
+    <media
+      start="485.468"
+      end="490.696"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u83">
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="490.696"
+      end="491.919"
+      unit="s"
+    />
+  </u>
+  <u who="SOUT" uID="u84">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>guess</w>
+    <w>why</w>
+    <w>wouldn't</w>
+    <w>that</w>
+    <w>have</w>
+    <w>been</w>
+    <w>the</w>
+    <w>appropriate</w>
+    <w>course</w>
+    <t type="q"></t>
+    <media
+      start="491.919"
+      end="495.805"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u85">
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>presume</w>
+    <w>that</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>under</w>
+    <w>those</w>
+    <w>circumstances</w>
+    <w>would</w>
+    <w>dismiss</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>we</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>that</w>
+    <w>as</w>
+    <w>a</w>
+    <w>matter</w>
+    <w>of</w>
+    <w>fact</w>
+    <t type="p"></t>
+    <media
+      start="495.805"
+      end="509.742"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u86">
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>was</w>
+    <w>thinking</w>
+    <w>about</w>
+    <w>different</w>
+    <w>writs</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>you've</w>
+    <w>researched</w>
+    <w>this</w>
+    <w>more</w>
+    <w>thoroughly</w>
+    <w>than</w>
+    <w>I</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>suspect</w>
+    <t type="p"></t>
+    <media
+      start="509.742"
+      end="519.623"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u87">
+    <w>I</w>
+    <w>thought</w>
+    <w>the</w>
+    <w>closest</w>
+    <w>thing</w>
+    <w>here</w>
+    <w>was</w>
+    <w>a</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>certiorari</w>
+    <t type="p"></t>
+    <media
+      start="519.623"
+      end="523.147"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u88">
+    <w>This</w>
+    <w>is</w>
+    <w>like</w>
+    <w>a</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>certiorari</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>a</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>certiorari</w>
+    <w>is</w>
+    <w>from</w>
+    <w>a</w>
+    <w>superior</w>
+    <w>court</w>
+    <w>to</w>
+    <w>an</w>
+    <w>inferior</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="523.147"
+      end="528.155"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u89">
+    <w>And</w>
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>that's</w>
+    <w>the</w>
+    <w>way</w>
+    <w>we</w>
+    <w>treat</w>
+    <w>State</w>
+    <w>courts</w>
+    <w>and</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <t type="p"></t>
+    <media
+      start="528.155"
+      end="535.507"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u90">
+    <w>That</w>
+    <w>is</w>
+    <w>correct</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="535.507"
+      end="537.983"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u91">
+    <w>And</w>
+    <w>another</w>
+    <w>reason</w>
+    <t type="interruption"></t>
+    <media
+      start="537.983"
+      end="540.883"
+      unit="s"
+    />
+  </u>
+  <u who="KENN" uID="u92">
+    <w>And</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <pause symbolic-length="simple"/>
+    <w>which</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>so</w>
+    <w>that</w>
+    <w>the</w>
+    <w>absence</w>
+    <w>of</w>
+    <w>that</w>
+    <w>kind</w>
+    <w>of</w>
+    <pause symbolic-length="simple"/>
+    <w>of</w>
+    <w>writ</w>
+    <w>indicates</w>
+    <w>to</w>
+    <w>me</w>
+    <w>that</w>
+    <w>the</w>
+    <w>safer</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>more</w>
+    <w>prudent</w>
+    <w>course</w>
+    <w>is</w>
+    <w>to</w>
+    <w>rely</w>
+    <w>on</w>
+    <w>the</w>
+    <w>standard</w>
+    <w>equitable</w>
+    <w>remedies</w>
+    <w>such</w>
+    <w>as</w>
+    <w>injunction</w>
+    <w>that</w>
+    <w>we've</w>
+    <w>been</w>
+    <w>discussing</w>
+    <t type="p"></t>
+    <media
+      start="540.883"
+      end="558.612"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u93">
+    <linker type="self completion"/>
+    <w>That</w>
+    <w>is</w>
+    <w>correct</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="558.612"
+      end="561.638"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u94">
+    <w>Except</w>
+    <w>that</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>other</w>
+    <w>lawyers</w>
+    <w>had</w>
+    <pause symbolic-length="simple"/>
+    <w>had</w>
+    <w>relied</w>
+    <w>on</w>
+    <w>the</w>
+    <w>course</w>
+    <w>that</w>
+    <w>you</w>
+    <w>relied</w>
+    <w>on</w>
+    <t type="p"></t>
+    <media
+      start="561.638"
+      end="565.497"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u95">
+    <w>That's</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>correct</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="565.497"
+      end="567.474"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u96">
+    <w>You</w>
+    <w>were</w>
+    <w>following</w>
+    <w>what</w>
+    <w>had</w>
+    <w>been</w>
+    <w>a</w>
+    <w>successful</w>
+    <w>course</w>
+    <w>in</w>
+    <w>the</w>
+    <w>past</w>
+    <t type="p"></t>
+    <media
+      start="567.474"
+      end="569.947"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u97">
+    <linker type="self completion"/>
+    <w>And</w>
+    <w>not</w>
+    <w>only</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>judges</w>
+    <t type="p"></t>
+    <media
+      start="569.947"
+      end="572.034"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u98">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>to</w>
+    <w>be</w>
+    <w>sure<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="572.034"
+      end="574.464"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u99">
+    <w>And</w>
+    <w>so</w>
+    <w>there</w>
+    <w>were</w>
+    <w>a</w>
+    <w>plethora</w>
+    <w>of</w>
+    <w>district</w>
+    <w>court</w>
+    <w>cases</w>
+    <w>that</w>
+    <w>allowed</w>
+    <w>the</w>
+    <w>removal</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>and</w>
+    <w>took</w>
+    <w>jurisdiction</w>
+    <w>where</w>
+    <w>they</w>
+    <w>had</w>
+    <w>jurisdiction</w>
+    <w>originally</w>
+    <w>under</w>
+    <w>the</w>
+    <w>cases</w>
+    <w>of</w>
+    <g><w>N_A_A_C_P</w><ga type="explanation">NAACP</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>under</w>
+    <w>the</w>
+    <w>Agent</w>
+    <w>Orange</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>Sixth</w>
+    <w>and</w>
+    <w>Seventh</w>
+    <w>Circuit</w>
+    <w>cases</w>
+    <t type="p"></t>
+    <media
+      start="574.464"
+      end="600.036"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u100">
+    <w>Were</w>
+    <w>there</w>
+    <w>any</w>
+    <w>cases</w>
+    <w>under</w>
+    <w>the</w>
+    <w>relitigation</w>
+    <w>exception</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Anti-Injunction</w>
+    <w>Act</w>
+    <w>that</w>
+    <w>used</w>
+    <w>that</w>
+    <w>device</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>antisuit</w>
+    <w>injunction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>accomplish</w>
+    <w>the</w>
+    <w>same</w>
+    <w>thing</w>
+    <t type="q"></t>
+    <media
+      start="600.036"
+      end="613.862"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u101">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <t type="p"></t>
+    <media
+      start="613.862"
+      end="616.466"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u102">
+    <w>The</w>
+    <w>Tenth</w>
+    <w>Circuit</w>
+    <w>had</w>
+    <w>ruled</w>
+    <w>that</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>could</w>
+    <w>not</w>
+    <w>be</w>
+    <w>used</w>
+    <w>in</w>
+    <w>this</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>the</w>
+    <w>method</w>
+    <w>that</w>
+    <w>we</w>
+    <w>used</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="616.466"
+      end="626.947"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u103">
+    <w>We</w>
+    <w>are</w>
+    <w>not</w>
+    <w>unmindful</w>
+    <w>of</w>
+    <w>Rivet</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Regions</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>we</w>
+    <pause symbolic-length="simple"/>
+    <w>our</w>
+    <w>situation</w>
+    <w>there</w>
+    <pause symbolic-length="simple"/>
+    <w>our</w>
+    <w>situation</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <w>is</w>
+    <w>much</w>
+    <w>different</w>
+    <t type="interruption"></t>
+    <media
+      start="626.947"
+      end="638.937"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u104">
+    <w>But</w>
+    <w>that</w>
+    <w>was</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>was</w>
+    <w>a</w>
+    <w>question</w>
+    <w>of</w>
+    <w>fighting</w>
+    <w>it</w>
+    <w>out</w>
+    <w>in</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>it's</w>
+    <w>not</w>
+    <w>the</w>
+    <w>antisuit</w>
+    <w>injunction</w>
+    <w>that</w>
+    <w>we're</w>
+    <w>discussing</w>
+    <w>now</w>
+    <t type="p"></t>
+    <media
+      start="638.937"
+      end="648.770"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u105">
+    <w>Rivet</w>
+    <w>said</w>
+    <w>it's</w>
+    <w>an</w>
+    <pause symbolic-length="simple"/>
+    <w>preclusion</w>
+    <w>is</w>
+    <w>an</w>
+    <w>affirmative</w>
+    <w>defense</w>
+    <t type="p"></t>
+    <media
+      start="648.770"
+      end="653.543"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u106">
+    <w>You</w>
+    <w>can</w>
+    <w>raise</w>
+    <w>it</w>
+    <w>in</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>that</w>
+    <w>prior</w>
+    <w>Federal</w>
+    <w>litigation</w>
+    <w>precludes</w>
+    <w>this</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="653.543"
+      end="659.108"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="GINS" uID="u107">
+    <w>The</w>
+    <w>other</w>
+    <w>way</w>
+    <w>to</w>
+    <w>go</w>
+    <w>is</w>
+    <w>to</w>
+    <w>ask</w>
+    <w>the</w>
+    <w>court</w>
+    <w>that</w>
+    <w>entered</w>
+    <w>the</w>
+    <w>judgment</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>class</w>
+    <w>action</w>
+    <w>judgment</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>nationwide</w>
+    <w>class</w>
+    <w>action</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>enjoin</w>
+    <w>the</w>
+    <w>party</w>
+    <w>who</w>
+    <w>was</w>
+    <w>supposed</w>
+    <w>to</w>
+    <w>have</w>
+    <w>settled</w>
+    <w>the</w>
+    <w>claim</w>
+    <w>from</w>
+    <w>proceeding</w>
+    <w>in</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>the</w>
+    <w>original</w>
+    <w>case</w>
+    <w>when</w>
+    <w>part</w>
+    <w>of</w>
+    <w>the</w>
+    <w>bargain</w>
+    <w>was</w>
+    <w>to</w>
+    <w>dismiss</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="659.108"
+      end="681.110"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u108">
+    <w>So</w>
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>I'm</w>
+    <w>just</w>
+    <w>curious</w>
+    <w>why</w>
+    <w>you</w>
+    <w>didn't</w>
+    <w>attempt</w>
+    <w>that</w>
+    <w>route</w>
+    <t type="p"></t>
+    <media
+      start="681.110"
+      end="685.186"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u109">
+    <linker type="self completion"/>
+    <w>We</w>
+    <w>didn't</w>
+    <w>attempt</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>the</w>
+    <w>majority</w>
+    <w>of</w>
+    <w>the</w>
+    <w>circuits</w>
+    <w>at</w>
+    <w>the</w>
+    <w>time</w>
+    <w>approved</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>as</w>
+    <w>the</w>
+    <w>vehicle</w>
+    <w>with</w>
+    <w>which</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>the</w>
+    <w>case</w>
+    <w>and</w>
+    <w>to</w>
+    <w>get</w>
+    <w>it</w>
+    <w>back</w>
+    <w>before</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="685.186"
+      end="701.260"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u110">
+    <w>Additionally</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>felt</w>
+    <w>that</w>
+    <w>it</w>
+    <pause symbolic-length="simple"/>
+    <w>State</w>
+    <w>courts</w>
+    <w>have</w>
+    <w>cases</w>
+    <w>removed</w>
+    <w>all</w>
+    <w>the</w>
+    <w>time</w>
+    <w>to</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="701.260"
+      end="710.103"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u111">
+    <w>And</w>
+    <w>we</w>
+    <w>thought</w>
+    <w>it</w>
+    <w>would</w>
+    <w>be</w>
+    <w>less</w>
+    <w>onerous</w>
+    <w>to</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>judge</w>
+    <w>to</w>
+    <w>have</w>
+    <w>it</w>
+    <w>removed</w>
+    <w>rather</w>
+    <w>than</w>
+    <w>being</w>
+    <w>enjoined</w>
+    <w>by</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="710.103"
+      end="720.169"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u112">
+    <w>I</w>
+    <w>don't</w>
+    <w>understand</w>
+    <w>that</w>
+    <w>because</w>
+    <w>right</w>
+    <pause symbolic-length="simple"/>
+    <w>built</w>
+    <w>right</w>
+    <w>into</w>
+    <w>the</w>
+    <w>removal</w>
+    <w>provision</w>
+    <w>is</w>
+    <w>a</w>
+    <w>command</w>
+    <w>that</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>shall</w>
+    <w>proceed</w>
+    <w>no</w>
+    <w>further</w>
+    <t type="p"></t>
+    <media
+      start="720.169"
+      end="730.350"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u113">
+    <w>So</w>
+    <w>the</w>
+    <w>removal</w>
+    <w>petition</w>
+    <w>acts</w>
+    <w>as</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>an</w>
+    <w>injunction</w>
+    <w>against</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>proceeding</w>
+    <w>further</w>
+    <t type="p"></t>
+    <media
+      start="730.350"
+      end="737.553"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u114">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>removal</w>
+    <w>petition</w>
+    <pause symbolic-length="simple"/>
+    <w>actually</w>
+    <w>the</w>
+    <w>court</w>
+    <w>loses</w>
+    <w>jurisdiction</w>
+    <w>of</w>
+    <w>it</w>
+    <w>at</w>
+    <w>that</w>
+    <w>time</w>
+    <w>because</w>
+    <w>they</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>is</w>
+    <w>removed</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="737.553"
+      end="747.001"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u115">
+    <w>And</w>
+    <w>there</w>
+    <w>again</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>Ginsburg</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>we</w>
+    <w>felt</w>
+    <w>that</w>
+    <w>it</w>
+    <w>was</w>
+    <w>less</w>
+    <w>onerous</w>
+    <w>and</w>
+    <w>there</w>
+    <w>was</w>
+    <w>some</w>
+    <w>jurisprudence</w>
+    <w>or</w>
+    <w>some</w>
+    <w>dicta</w>
+    <w>and</w>
+    <w>some</w>
+    <w>legal</w>
+    <w>writing</w>
+    <w>that</w>
+    <w>indicated</w>
+    <w>that</w>
+    <w>it</w>
+    <w>would</w>
+    <w>be</w>
+    <w>less</w>
+    <w>onerous</w>
+    <w>to</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>judge</w>
+    <w>to</w>
+    <w>have</w>
+    <w>it</w>
+    <w>removed</w>
+    <w>rather</w>
+    <w>than</w>
+    <w>have</w>
+    <w>it</w>
+    <w>enjoined</w>
+    <t type="p"></t>
+    <media
+      start="747.001"
+      end="769.756"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u116">
+    <w>May</w>
+    <w>I</w>
+    <w>ask</w>
+    <w>this</w>
+    <w>question</w>
+    <t type="q"></t>
+    <media
+      start="769.756"
+      end="770.768"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u117">
+    <w>Looking</w>
+    <w>at</w>
+    <w>the</w>
+    <w>language</w>
+    <w>of</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>authorizes</w>
+    <w>all</w>
+    <w>courts</w>
+    <w>established</w>
+    <w>by</w>
+    <w>act</w>
+    <w>of</w>
+    <w>Congress</w>
+    <w>to</w>
+    <w>issue</w>
+    <w>writs</w>
+    <w>necessary</w>
+    <w>or</w>
+    <w>appropriate</w>
+    <w>in</w>
+    <w>aid</w>
+    <w>of</w>
+    <w>their</w>
+    <w>respective</w>
+    <w>jurisdictions</w>
+    <w>and</w>
+    <w>so</w>
+    <w>forth</w>
+    <t type="p"></t>
+    <media
+      start="770.768"
+      end="782.383"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="STEV" uID="u118">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>removed</w>
+    <w>from</w>
+    <w>the</w>
+    <w>Federal</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>in</w>
+    <w>Louisiana</w>
+    <w>in</w>
+    <w>order</w>
+    <w>to</w>
+    <w>protect</w>
+    <w>the</w>
+    <w>jurisdiction</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>in</w>
+    <w>Alabama</w>
+    <t type="p"></t>
+    <media
+      start="782.383"
+      end="792.289"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u119">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <t type="p"></t>
+    <media
+      start="792.289"
+      end="793.373"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u120">
+    <w>How</w>
+    <w>do</w>
+    <w>you</w>
+    <w>square</w>
+    <w>that</w>
+    <w>with</w>
+    <w>the</w>
+    <w>language</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>respective</w>
+    <w>jurisdictions</w>
+    <t type="q"></t>
+    <media
+      start="793.373"
+      end="796.616"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u121">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>again</w>
+    <w>we</w>
+    <w>had</w>
+    <w>to</w>
+    <w>rely</w>
+    <w>on</w>
+    <w>Agent</w>
+    <w>Orange</w>
+    <t type="p"></t>
+    <media
+      start="796.616"
+      end="801.153"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u122">
+    <w>You</w>
+    <w>don't</w>
+    <w>rely</w>
+    <w>on</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>though</w>
+    <t type="p"></t>
+    <media
+      start="801.153"
+      end="804.453"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u123">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>relied</w>
+    <w>on</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>because</w>
+    <w>it</w>
+    <w>says</w>
+    <w>in</w>
+    <w>the</w>
+    <w>aid</w>
+    <w>of</w>
+    <w>their</w>
+    <w>respective</w>
+    <w>jurisdiction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <t type="interruption"></t>
+    <media
+      start="804.453"
+      end="809.776"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u124">
+    <w>Don't</w>
+    <w>you</w>
+    <w>think</w>
+    <w>that</w>
+    <w>refers</w>
+    <w>to</w>
+    <w>the</w>
+    <w>court</w>
+    <w>to</w>
+    <w>which</w>
+    <w>removal</w>
+    <w>would</w>
+    <w>take</w>
+    <pause symbolic-length="simple"/>
+    <w>would</w>
+    <w>occur</w>
+    <t type="q"></t>
+    <media
+      start="809.776"
+      end="815.039"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u125">
+    <w>And</w>
+    <w>here</w>
+    <w>it's</w>
+    <w>the</w>
+    <w>Louisiana</w>
+    <w>Federal</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="815.039"
+      end="819.701"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u126">
+    <linker type="self completion"/>
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>we</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>was</w>
+    <w>our</w>
+    <w>position</w>
+    <w>that</w>
+    <w>there</w>
+    <pause symbolic-length="simple"/>
+    <w>there</w>
+    <w>respective</w>
+    <w>jurisdiction</w>
+    <w>related</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="819.701"
+      end="827.903"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u127">
+    <w>That</w>
+    <w>is</w>
+    <w>our</w>
+    <w>position</w>
+    <t type="p"></t>
+    <media
+      start="827.903"
+      end="829.561"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u128">
+    <w>Even</w>
+    <w>though</w>
+    <w>you</w>
+    <w>removed</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Louisiana</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="829.561"
+      end="832.095"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u129">
+    <w>We</w>
+    <w>had</w>
+    <w>to</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="832.095"
+      end="833.088"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u130">
+    <w>That</w>
+    <pause symbolic-length="simple"/>
+    <w>under</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>had</w>
+    <w>no</w>
+    <w>alternative</w>
+    <w>but</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="833.088"
+      end="836.487"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u131">
+    <w>We</w>
+    <w>couldn't</w>
+    <w>have</w>
+    <w>removed</w>
+    <w>it</w>
+    <w>from</w>
+    <w>the</w>
+    <w>Louisiana</w>
+    <w>court</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>court</w>
+    <w>because</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>by</w>
+    <w>venue</w>
+    <w>says</w>
+    <w>that</w>
+    <w>it</w>
+    <w>has</w>
+    <w>to</w>
+    <w>go</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>district</w>
+    <w>court</w>
+    <w>in</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>of</w>
+    <w>the</w>
+    <w>district</w>
+    <w>where</w>
+    <w>the</w>
+    <w>case</w>
+    <w>lies</w>
+    <t type="p"></t>
+    <media
+      start="836.487"
+      end="849.980"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u132">
+    <w>But</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>wasn't</w>
+    <w>available</w>
+    <w>to</w>
+    <w>you</w>
+    <t type="p"></t>
+    <media
+      start="849.980"
+      end="852.911"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u133">
+    <w>So</w>
+    <w>as</w>
+    <w>long</w>
+    <w>as</w>
+    <w>something</w>
+    <w>new</w>
+    <w>is</w>
+    <w>being</w>
+    <w>created</w>
+    <w>in</w>
+    <pause symbolic-length="simple"/>
+    <w>under</w>
+    <g><w>sixteen</w>
+    <w>fifty-one</w><ga type="explanation">1651</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>why</w>
+    <w>not</w>
+    <w>say</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>the</w>
+    <w>court</w>
+    <w>that</w>
+    <w>has</w>
+    <w>jurisdiction</w>
+    <w>over</w>
+    <w>the</w>
+    <w>class</w>
+    <w>action</w>
+    <w>can</w>
+    <w>issue</w>
+    <w>orders</w>
+    <w>to</w>
+    <w>stop</w>
+    <w>inconsistent</w>
+    <w>litigation</w>
+    <t type="q"></t>
+    <media
+      start="852.911"
+      end="868.363"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u134">
+    <w>That</w>
+    <w>could</w>
+    <w>be</w>
+    <w>done</w>
+    <w>under</w>
+    <w>the</w>
+    <w>Anti-Injunction</w>
+    <w>Act</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+    <media
+      start="868.363"
+      end="872.667"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u135">
+    <w>There's</w>
+    <w>no</w>
+    <w>doubt</w>
+    <w>about</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="872.667"
+      end="874.498"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u136">
+    <w>And</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>as</w>
+    <pause symbolic-length="simple"/>
+    <w>as<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="874.498"
+      end="876.706"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u137">
+    <w>But</w>
+    <w>do</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>far</w>
+    <w>as</w>
+    <pause symbolic-length="simple"/>
+    <w>you're</w>
+    <w>creating</w>
+    <w>a</w>
+    <w>removal</w>
+    <w>that</w>
+    <w>doesn't</w>
+    <w>exist</w>
+    <w>by</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="876.706"
+      end="879.743"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u138">
+    <w>So</w>
+    <w>not</w>
+    <pause symbolic-length="simple"/>
+    <w>why</w>
+    <w>not</w>
+    <w>go</w>
+    <w>all</w>
+    <w>the</w>
+    <w>way</w>
+    <w>and</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>can</w>
+    <w>remove</w>
+    <w>to</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>from</w>
+    <w>the</w>
+    <w>Louisiana</w>
+    <w>State</w>
+    <w>court</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>court</w>
+    <t type="q"></t>
+    <media
+      start="879.743"
+      end="888.932"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u139">
+    <w>Why</w>
+    <w>touch</w>
+    <w>base</w>
+    <w>with</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>when</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>is</w>
+    <w>inapplicable</w>
+    <t type="q"></t>
+    <media
+      start="889.028"
+      end="893.040"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u140">
+    <linker type="self completion"/>
+    <w>Because</w>
+    <g><w>fourteen</w><ga type="explanation">14</ga></g>
+    <pause symbolic-length="simple"/>
+    <w>we</w>
+    <w>didn't</w>
+    <w>know</w>
+    <w>of</w>
+    <w>any</w>
+    <w>other</w>
+    <w>vehicle</w>
+    <w>that</w>
+    <w>would</w>
+    <w>allow</w>
+    <w>us</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>it</w>
+    <w>from</w>
+    <w>Louisiana</w>
+    <w>to</w>
+    <w>Alabama</w>
+    <t type="p"></t>
+    <media
+      start="893.040"
+      end="907.127"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u141">
+    <w>Even</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>would</w>
+    <w>not</w>
+    <w>allow</w>
+    <w>us</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>it</w>
+    <w>across</w>
+    <w>State</w>
+    <w>lines</w>
+    <w>or</w>
+    <w>even</w>
+    <w>out</w>
+    <w>of</w>
+    <w>the</w>
+    <w>district</w>
+    <t type="p"></t>
+    <media
+      start="907.127"
+      end="914.160"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u142">
+    <w>Certainly</w>
+    <w>if</w>
+    <w>this</w>
+    <w>case</w>
+    <w>had</w>
+    <w>been</w>
+    <w>brought</w>
+    <w>in</w>
+    <w>Mobile</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>we</w>
+    <w>wouldn't</w>
+    <w>be</w>
+    <w>here</w>
+    <w>today</w>
+    <w>because</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>court</w>
+    <w>in</w>
+    <w>Mobile</w>
+    <w>would</w>
+    <w>have</w>
+    <w>authority</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>remove</w>
+    <w>it</w>
+    <w>to</w>
+    <w>that</w>
+    <w>district</w>
+    <t type="p"></t>
+    <media
+      start="914.160"
+      end="927.203"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u143">
+    <w>But</w>
+    <w>it</w>
+    <w>was</w>
+    <w>brought</w>
+    <pause symbolic-length="simple"/>
+    <w>brought</w>
+    <w>across</w>
+    <w>State</w>
+    <w>lines</w>
+    <t type="p"></t>
+    <media
+      start="927.203"
+      end="930.470"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u144">
+    <w>And</w>
+    <w>again</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>followed</w>
+    <w>the</w>
+    <w>road</w>
+    <w>map</w>
+    <w>that</w>
+    <w>had</w>
+    <w>been</w>
+    <w>set</w>
+    <w>out</w>
+    <w>for</w>
+    <w>us</w>
+    <w>in</w>
+    <w>Agent</w>
+    <w>Orange</w>
+    <t type="p"></t>
+    <media
+      start="930.470"
+      end="936.465"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u145">
+    <w>But</w>
+    <w>you</w>
+    <w>still</w>
+    <w>have</w>
+    <w>problems</w>
+    <w>even</w>
+    <w>if</w>
+    <w>it</w>
+    <w>were</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Middle</w>
+    <w>District</w>
+    <w>of</w>
+    <w>Alabama</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>you</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>complete</w>
+    <w>diversity</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Louisiana</w>
+    <w>action</w>
+    <t type="p"></t>
+    <media
+      start="936.465"
+      end="944.382"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u146">
+    <w>Therefore</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <w>doesn't</w>
+    <w>apply</w>
+    <t type="p"></t>
+    <media
+      start="944.382"
+      end="946.586"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u147">
+    <w>You</w>
+    <w>would</w>
+    <w>still</w>
+    <w>have</w>
+    <w>to</w>
+    <w>use</w>
+    <w>your</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>theory</w>
+    <w>even</w>
+    <w>if</w>
+    <w>the</w>
+    <w>case</w>
+    <w>were</w>
+    <w>pending</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>and</w>
+    <w>State</w>
+    <w>court</w>
+    <w>were</w>
+    <w>in</w>
+    <w>the</w>
+    <w>same</w>
+    <w>State</w>
+    <t type="p"></t>
+    <media
+      start="946.586"
+      end="955.672"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u148">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>feel</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>under</w>
+    <pause symbolic-length="simple"/>
+    <w>under</w>
+    <w>the</w>
+    <w>hypothet</w>
+    <w>set</w>
+    <w>out</w>
+    <w>in</w>
+    <w>Kikkonen</w>
+    <w>that</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>court</w>
+    <w>would</w>
+    <w>have</w>
+    <w>jurisdiction</w>
+    <w>to</w>
+    <w>take</w>
+    <w>that</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="955.672"
+      end="968.951"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u149">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <w>writ</w>
+    <w>called</w>
+    <t type="q"></t>
+    <media
+      start="968.951"
+      end="972.194"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u150">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Lyndon</w>
+    <w>Johnson</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>is</w>
+    <w>once</w>
+    <w>supposed</w>
+    <w>to</w>
+    <w>have</w>
+    <w>asked</w>
+    <w>somebody</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Justice</w>
+    <w>Department</w>
+    <w>to</w>
+    <w>get</w>
+    <w>him</w>
+    <w>a</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>fixitatis</w>
+    <t type="p"></t>
+    <media
+      start="972.194"
+      end="981.083"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="UNKN" uID="u151">
+    <e><action/></e>
+    <e><happening>laughter</happening></e>
+    <t type="p"></t>
+    <media
+      start="981.083"
+      end="981.769"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u152">
+    <w>What</w>
+    <pause symbolic-length="simple"/>
+    <w>what</w>
+    <w>is</w>
+    <w>this</w>
+    <w>writ</w>
+    <w>called</w>
+    <t type="q"></t>
+    <media
+      start="981.769"
+      end="984.480"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u153">
+    <w>A</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>removal</w>
+    <t type="q"></t>
+    <media
+      start="984.480"
+      end="985.561"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u154">
+    <w>This</w>
+    <w>could</w>
+    <w>be</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>is</w>
+    <w>no</w>
+    <w>writ</w>
+    <w>for</w>
+    <w>this</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Judge</w>
+    <pause symbolic-length="simple"/>
+    <w>Justice</w>
+    <t type="p"></t>
+    <media
+      start="985.561"
+      end="992.854"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u155">
+    <w>There</w>
+    <w>isn't</w>
+    <w>any</w>
+    <w>writ</w>
+    <w>for</w>
+    <w>this</w>
+    <t type="p"></t>
+    <media
+      start="992.854"
+      end="994.340"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u156">
+    <w>Well</w>
+    <pause symbolic-length="simple"/>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>how</w>
+    <w>can</w>
+    <w>you</w>
+    <w>do</w>
+    <w>it</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <t type="q"></t>
+    <media
+      start="994.340"
+      end="996.489"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u157">
+    <w>Because</w>
+    <w>in</w>
+    <w>other</w>
+    <w>cases</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>has</w>
+    <w>been</w>
+    <w>used</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>remove</w>
+    <w>cases</w>
+    <w>to</w>
+    <w>avoid</w>
+    <w>a</w>
+    <w>State</w>
+    <w>court</w>
+    <w>case</w>
+    <w>from</w>
+    <w>thwarting</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>judgment</w>
+    <t type="p"></t>
+    <media
+      start="996.489"
+      end="1011.724"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u158">
+    <w>Certiorari</w>
+    <w>I</w>
+    <w>guess</w>
+    <w>is</w>
+    <w>the</w>
+    <w>closest</w>
+    <t type="p"></t>
+    <media
+      start="1011.724"
+      end="1015.726"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u159">
+    <w>Historically</w>
+    <w>you</w>
+    <w>could</w>
+    <w>have</w>
+    <w>sent</w>
+    <w>certiorari</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>court</w>
+    <w>to</w>
+    <w>any</w>
+    <w>other</w>
+    <w>court</w>
+    <w>and</w>
+    <w>to</w>
+    <w>any</w>
+    <w>administrative</w>
+    <w>agency</w>
+    <t type="p"></t>
+    <media
+      start="1015.726"
+      end="1022.131"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u160">
+    <w>I</w>
+    <w>guess</w>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>the</w>
+    <w>closest</w>
+    <w>historically</w>
+    <t type="p"></t>
+    <media
+      start="1022.131"
+      end="1025.144"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u161">
+    <w>Would</w>
+    <w>it</w>
+    <t type="q"></t>
+    <media
+      start="1025.144"
+      end="1026.982"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u162">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <w>Justice</w>
+    <w>Kennedy</w>
+    <w>brought</w>
+    <w>that</w>
+    <w>up</w>
+    <w>and</w>
+    <t type="interruption"></t>
+    <media
+      start="1026.982"
+      end="1029.310"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u163">
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="1029.310"
+      end="1030.062"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u164">
+    <w>As</w>
+    <w>we've</w>
+    <w>come</w>
+    <w>to</w>
+    <w>limit</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <pause symbolic-length="simple"/>
+    <w>it's</w>
+    <w>higher</w>
+    <w>to</w>
+    <w>lower</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>if</w>
+    <w>you</w>
+    <w>go</w>
+    <w>back</w>
+    <w>into</w>
+    <w>history</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>wasn't</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <t type="p"></t>
+    <media
+      start="1030.062"
+      end="1036.702"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u165">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>has</w>
+    <w>it</w>
+    <w>come</w>
+    <w>down</w>
+    <w>to</w>
+    <w>saying</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>look</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>were</w>
+    <w>in</w>
+    <w>a</w>
+    <w>situation</w>
+    <w>where</w>
+    <w>you</w>
+    <w>thought</w>
+    <w>that</w>
+    <w>the</w>
+    <w>signer</w>
+    <w>of</w>
+    <w>the</w>
+    <w>stipulation</w>
+    <w>was</w>
+    <w>flat</w>
+    <w>out</w>
+    <w>violating</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>you</w>
+    <w>didn't</w>
+    <w>know</w>
+    <w>what</w>
+    <w>to</w>
+    <w>do</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <w>you</w>
+    <w>read</w>
+    <w>the</w>
+    <w>precedent</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>there</w>
+    <w>was</w>
+    <w>precedent</w>
+    <w>that</w>
+    <w>suggested</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>under</w>
+    <w>the</w>
+    <w>lower</w>
+    <w>court</w>
+    <w>precedent</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>this</w>
+    <w>was</w>
+    <w>the</w>
+    <w>right</w>
+    <w>thing</w>
+    <w>to</w>
+    <w>do</w>
+    <t type="p"></t>
+    <media
+      start="1036.702"
+      end="1055.204"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u166">
+    <w>So</w>
+    <w>you</w>
+    <w>did</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1055.204"
+      end="1056.238"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u167">
+    <linker type="self completion"/>
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <t type="p"></t>
+    <media
+      start="1056.238"
+      end="1057.074"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u168">
+    <w>Okay</w>
+    <t type="p"></t>
+    <media
+      start="1057.074"
+      end="1057.671"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u169">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>you</w>
+    <w>turn</w>
+    <w>out</w>
+    <w>to</w>
+    <w>be</w>
+    <w>wrong</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>should</w>
+    <w>we</w>
+    <w>do</w>
+    <w>next</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>assuming</w>
+    <w>you're</w>
+    <w>right</w>
+    <w>about</w>
+    <w>the</w>
+    <w>stipulation</w>
+    <t type="q"></t>
+    <media
+      start="1057.671"
+      end="1063.953"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u170">
+    <w>They</w>
+    <w>just</w>
+    <w>flat-out</w>
+    <w>wouldn't</w>
+    <w>follow</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1063.953"
+      end="1066.002"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u171">
+    <w>And</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>suppose</w>
+    <w>you</w>
+    <w>were</w>
+    <w>wrong</w>
+    <w>about</w>
+    <w>the</w>
+    <w>route</w>
+    <t type="p"></t>
+    <media
+      start="1066.002"
+      end="1068.862"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u172">
+    <w>Have</w>
+    <w>you</w>
+    <w>any</w>
+    <w>suggestion</w>
+    <w>for</w>
+    <w>us</w>
+    <w>as</w>
+    <w>to</w>
+    <w>what</w>
+    <w>to</w>
+    <w>do</w>
+    <t type="q"></t>
+    <media
+      start="1068.862"
+      end="1073.495"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u173">
+    <w>Do</w>
+    <w>we</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>guess</w>
+    <w>we'd</w>
+    <w>have</w>
+    <w>to</w>
+    <w>dismiss</w>
+    <pause symbolic-length="simple"/>
+    <w>order</w>
+    <w>this</w>
+    <w>case</w>
+    <w>dismissed</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <w>to</w>
+    <w>your</w>
+    <w>going</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Alabama</w>
+    <w>court</w>
+    <w>and</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>asking</w>
+    <w>them</w>
+    <w>to</w>
+    <w>enjoin</w>
+    <t type="q"></t>
+    <media
+      start="1073.495"
+      end="1082.438"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u174">
+    <w>Or</w>
+    <w>what</w>
+    <w>is</w>
+    <w>your</w>
+    <w>suggestion</w>
+    <w>about</w>
+    <w>what</w>
+    <w>we</w>
+    <w>should</w>
+    <w>do</w>
+    <t type="interruption"></t>
+    <media
+      start="1082.438"
+      end="1085.123"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u175">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>Well<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1085.123"
+      end="1085.897"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u176">
+    <linker type="self completion"/>
+    <w>if</w>
+    <w>you're</w>
+    <w>right</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <w>of</w>
+    <w>this</w>
+    <w>thing</w>
+    <t type="q"></t>
+    <media
+      start="1085.897"
+      end="1088.090"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u177">
+    <linker type="self completion"/>
+    <w>If</w>
+    <w>we're</w>
+    <w>right</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>I</w>
+    <w>suggest</w>
+    <w>you</w>
+    <w>should</w>
+    <w>do</w>
+    <w>is</w>
+    <w>reverse</w>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <t type="p"></t>
+    <media
+      start="1088.090"
+      end="1093.370"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u178">
+    <w>I</w>
+    <w>don't</w>
+    <w>mean</w>
+    <w>the</w>
+    <w>merits</w>
+    <w>of</w>
+    <w>the</w>
+    <w>procedural</w>
+    <w>issue</w>
+    <t type="p"></t>
+    <media
+      start="1093.370"
+      end="1096.794"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u179">
+    <w>Suppose</w>
+    <w>that</w>
+    <w>you're</w>
+    <w>wrong</w>
+    <w>about</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>hypothetically</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>you're</w>
+    <w>right</w>
+    <w>about</w>
+    <w>your</w>
+    <w>basic</w>
+    <w>instinct</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>they</w>
+    <w>signed</w>
+    <w>a</w>
+    <w>piece</w>
+    <w>of</w>
+    <w>paper</w>
+    <w>saying</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>promise</w>
+    <w>to</w>
+    <w>dismiss</w>
+    <w>this</w>
+    <w>case</w>
+    <w>in</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>and</w>
+    <w>then</w>
+    <w>they</w>
+    <w>didn't</w>
+    <t type="p"></t>
+    <media
+      start="1096.794"
+      end="1113.143"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u180">
+    <w>They</w>
+    <w>just</w>
+    <w>didn't</w>
+    <w>do</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1113.143"
+      end="1115.912"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u181">
+    <w>That</w>
+    <w>was</w>
+    <w>your</w>
+    <w>view</w>
+    <w>of</w>
+    <w>this</w>
+    <t type="p"></t>
+    <media
+      start="1115.912"
+      end="1118.016"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u182">
+    <w>Right</w>
+    <t type="q"></t>
+    <media
+      start="1118.016"
+      end="1118.932"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u183">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <t type="p"></t>
+    <media
+      start="1118.932"
+      end="1119.803"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u184">
+    <w>All</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="1119.803"
+      end="1120.311"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u185">
+    <w>So</w>
+    <w>have</w>
+    <w>you</w>
+    <w>any</w>
+    <w>suggestion</w>
+    <w>for</w>
+    <w>us</w>
+    <w>about</w>
+    <w>how</w>
+    <w>we</w>
+    <w>might</w>
+    <w>help</w>
+    <w>you</w>
+    <w>achieve</w>
+    <w>that</w>
+    <w>ultimate</w>
+    <w>objective</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>by</w>
+    <w>us</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>don't</w>
+    <w>mean</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>particularly</w>
+    <t type="p"></t>
+    <media
+      start="1120.311"
+      end="1127.863"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u186">
+    <w>I</w>
+    <w>mean</w>
+    <w>the</w>
+    <w>law</w>
+    <t type="p"></t>
+    <media
+      start="1127.863"
+      end="1128.646"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u187">
+    <w>The</w>
+    <w>law</w>
+    <w>should</w>
+    <w>provide</w>
+    <w>a</w>
+    <w>way</w>
+    <w>that</w>
+    <w>you</w>
+    <w>get</w>
+    <w>that</w>
+    <w>objective</w>
+    <w>if</w>
+    <w>you're</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="1128.646"
+      end="1132.758"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u188">
+    <w>I</w>
+    <w>would</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>alternative</w>
+    <w>I</w>
+    <w>would</w>
+    <w>suggest</w>
+    <w>is</w>
+    <w>to</w>
+    <w>remand</w>
+    <w>the</w>
+    <w>matter</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>district</w>
+    <w>court</w>
+    <w>in</w>
+    <w>Mobile</w>
+    <w>with</w>
+    <w>instructions</w>
+    <w>for</w>
+    <w>them</w>
+    <w>to</w>
+    <w>file</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>or</w>
+    <w>a</w>
+    <w>contempt</w>
+    <w>proceeding</w>
+    <w>against</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>the</w>
+    <w>party<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1132.758"
+      end="1150.776"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u189">
+    <w>But</w>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>up</w>
+    <w>to</w>
+    <w>you</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>court</w>
+    <w>doesn't</w>
+    <w>initiate</w>
+    <w>an</w>
+    <w>injunction</w>
+    <t type="p"></t>
+    <media
+      start="1150.776"
+      end="1155.007"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u190">
+    <w>You'd</w>
+    <w>have</w>
+    <w>to</w>
+    <w>ask</w>
+    <w>for</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1155.007"
+      end="1156.204"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u191">
+    <w>And</w>
+    <w>I</w>
+    <w>assume</w>
+    <w>you</w>
+    <w>would</w>
+    <w>be</w>
+    <w>free</w>
+    <w>to</w>
+    <w>do</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1156.204"
+      end="1158.033"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u192">
+    <w>If</w>
+    <w>all</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>would</w>
+    <w>decide</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>it</w>
+    <w>decided</w>
+    <w>against</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>was</w>
+    <w>that</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>is</w>
+    <w>not</w>
+    <w>available</w>
+    <w>for</w>
+    <w>this</w>
+    <w>purpose</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>would</w>
+    <w>leave</w>
+    <w>you</w>
+    <w>as</w>
+    <w>though</w>
+    <w>you</w>
+    <w>had</w>
+    <w>never</w>
+    <w>pursued</w>
+    <w>that</w>
+    <w>route</w>
+    <w>and</w>
+    <w>you</w>
+    <w>could</w>
+    <w>pursue</w>
+    <w>another</w>
+    <t type="p"></t>
+    <media
+      start="1158.033"
+      end="1170.993"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="GINS" uID="u193">
+    <w>There's</w>
+    <w>something</w>
+    <w>curious</w>
+    <w>about</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>maybe</w>
+    <w>you</w>
+    <w>can</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>can</w>
+    <w>help</w>
+    <w>me</w>
+    <w>understand</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1170.993"
+      end="1177.546"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u194">
+    <w>When</w>
+    <w>the</w>
+    <w>plaintiff's</w>
+    <w>class</w>
+    <w>counsel</w>
+    <w>in</w>
+    <w>Price</w>
+    <w>went</w>
+    <w>into</w>
+    <w>the</w>
+    <w>Louisiana</w>
+    <w>court</w>
+    <w>and</w>
+    <w>said</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Louisiana</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>drop</w>
+    <w>that</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>dismiss</w>
+    <w>that</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>defense</w>
+    <w>counsel</w>
+    <w>wasn't</w>
+    <w>there</w>
+    <t type="p"></t>
+    <media
+      start="1177.546"
+      end="1190.780"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u195">
+    <linker type="self completion"/>
+    <w>No</w>
+    <t type="p"></t>
+    <media
+      start="1190.780"
+      end="1191.629"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u196">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>Why</w>
+    <w>not<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="q"></t>
+    <media
+      start="1191.629"
+      end="1192.739"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u197">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>is</w>
+    <w>not</w>
+    <w>in</w>
+    <w>the</w>
+    <w>record</w>
+    <w>but</w>
+    <w>I</w>
+    <w>was</w>
+    <w>that</w>
+    <w>counsel</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>I</w>
+    <w>had</w>
+    <w>talked</w>
+    <w>with</w>
+    <w>the</w>
+    <w>class</w>
+    <w>counsel</w>
+    <w>days</w>
+    <w>before</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>he</w>
+    <w>assured</w>
+    <w>me</w>
+    <w>that</w>
+    <w>he</w>
+    <w>would</w>
+    <w>take</w>
+    <w>care</w>
+    <w>of</w>
+    <w>it</w>
+    <w>and</w>
+    <w>there</w>
+    <w>would</w>
+    <w>be</w>
+    <w>no</w>
+    <w>problem</w>
+    <t type="p"></t>
+    <media
+      start="1192.739"
+      end="1202.681"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u198">
+    <w>We</w>
+    <w>didn't</w>
+    <w>anticipate</w>
+    <w>this</w>
+    <w>happening</w>
+    <w>because</w>
+    <w>the</w>
+    <w>language</w>
+    <w>of</w>
+    <w>the</w>
+    <w>stipulation</w>
+    <w>of</w>
+    <w>settlement</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>the</w>
+    <w>respondent</w>
+    <w>signed</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>was</w>
+    <w>so</w>
+    <w>specific</w>
+    <w>that</w>
+    <w>we</w>
+    <w>couldn't</w>
+    <w>imagine</w>
+    <w>that</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>judge</w>
+    <w>would</w>
+    <w>not</w>
+    <w>dismiss</w>
+    <w>it</w>
+    <w>on</w>
+    <w>the</w>
+    <w>motion</w>
+    <w>of</w>
+    <w>class</w>
+    <w>counsel</w>
+    <t type="p"></t>
+    <media
+      start="1202.681"
+      end="1224.970"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u199">
+    <w>So</w>
+    <w>you</w>
+    <w>were</w>
+    <w>relying</w>
+    <w>on</w>
+    <w>plaintiff's</w>
+    <w>counsel</w>
+    <t type="interruption"></t>
+    <media
+      start="1224.970"
+      end="1227.287"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u200">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>ma'am<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="1227.287"
+      end="1229.070"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u201">
+    <linker type="self completion"/>
+    <w>to</w>
+    <w>do</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>do</w>
+    <w>that</w>
+    <w>job</w>
+    <w>for</w>
+    <w>you</w>
+    <w>and</w>
+    <w>felt</w>
+    <w>you</w>
+    <w>didn't</w>
+    <w>need</w>
+    <w>to</w>
+    <w>appear</w>
+    <w>in</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="1229.070"
+      end="1232.438"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u202">
+    <w>He</w>
+    <w>actually</w>
+    <w>told</w>
+    <w>us</w>
+    <w>we</w>
+    <w>didn't</w>
+    <w>have</w>
+    <w>to</w>
+    <w>appear</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>he</w>
+    <w>would</w>
+    <w>take</w>
+    <w>care</w>
+    <w>of</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1232.438"
+      end="1236.398"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u203">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>we</w>
+    <w>disagree</w>
+    <w>with</w>
+    <w>you</w>
+    <w>and</w>
+    <w>reverse</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>affirm</w>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>would</w>
+    <w>be</w>
+    <w>affirming</w>
+    <w>a</w>
+    <w>decision</w>
+    <w>that</w>
+    <w>says</w>
+    <w>in</w>
+    <w>its</w>
+    <w>conclusion</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>accordingly</w>
+    <w>vacate</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court's</w>
+    <w>order</w>
+    <w>dismissing</w>
+    <w>Henson</w>
+    <w>and</w>
+    <w>remand</w>
+    <w>with</w>
+    <w>instructions</w>
+    <w>for</w>
+    <w>the</w>
+    <w>court</w>
+    <w>to</w>
+    <w>remand</w>
+    <w>Henson</w>
+    <w>to</w>
+    <w>Louisiana</w>
+    <w>State</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="1236.398"
+      end="1256.185"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="SCAL" uID="u204">
+    <w>We</w>
+    <w>do</w>
+    <w>not</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>however</w>
+    <pause symbolic-length="simple"/>
+    <w>this</w>
+    <w>is</w>
+    <w>part</w>
+    <w>of</w>
+    <w>what</w>
+    <w>it</w>
+    <w>said</w>
+    <pause symbolic-length="simple"/>
+    <w>we</w>
+    <w>do</w>
+    <w>not</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>however</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>imply</w>
+    <w>that</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>may</w>
+    <w>not</w>
+    <w>by</w>
+    <w>injunction</w>
+    <w>force</w>
+    <w>Henson's</w>
+    <w>dismissal</w>
+    <t type="p"></t>
+    <media
+      start="1256.185"
+      end="1266.181"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u205">
+    <w>So</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>wouldn't</w>
+    <w>have</w>
+    <w>to</w>
+    <w>say</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>our</w>
+    <w>decision</w>
+    <w>here</w>
+    <w>was</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <t type="p"></t>
+    <media
+      start="1266.181"
+      end="1273.347"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u206">
+    <w>The</w>
+    <w>decision</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <w>was</w>
+    <w>said</w>
+    <w>to</w>
+    <w>be</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <t type="p"></t>
+    <media
+      start="1273.347"
+      end="1276.762"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u207">
+    <w>So</w>
+    <w>you</w>
+    <pause symbolic-length="simple"/>
+    <w>you'd</w>
+    <w>be</w>
+    <w>able</w>
+    <w>to</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>far</w>
+    <w>as</w>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <w>opinion</w>
+    <w>is</w>
+    <w>concerned</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>get</w>
+    <pause symbolic-length="simple"/>
+    <w>get</w>
+    <w>the</w>
+    <w>injunction</w>
+    <t type="p"></t>
+    <media
+      start="1276.762"
+      end="1282.436"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u208">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>the</w>
+    <t type="interruption"></t>
+    <media
+      start="1282.436"
+      end="1284.255"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u209">
+    <w>I</w>
+    <w>wonder</w>
+    <w>why</w>
+    <w>it</w>
+    <w>wasn't</w>
+    <pause symbolic-length="simple"/>
+    <w>wasn't</w>
+    <w>more</w>
+    <w>efficient</w>
+    <w>for</w>
+    <w>you</w>
+    <w>to</w>
+    <w>seek</w>
+    <w>the</w>
+    <w>injunction</w>
+    <w>instead</w>
+    <w>of</w>
+    <w>coming</w>
+    <w>up</w>
+    <w>here</w>
+    <t type="p"></t>
+    <media
+      start="1284.255"
+      end="1291.118"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u210">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <t type="interruption"></t>
+    <media
+      start="1291.118"
+      end="1292.598"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u211">
+    <w>I</w>
+    <w>guess</w>
+    <pause symbolic-length="simple"/>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>I</w>
+    <w>guess<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1292.598"
+      end="1296.201"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u212">
+    <linker type="self completion"/>
+    <w>Justice</w>
+    <w>Scalia</w>
+    <t type="interruption"></t>
+    <media
+      start="1296.201"
+      end="1296.364"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u213">
+    <linker type="self completion"/>
+    <w>your</w>
+    <w>answer</w>
+    <w>is</w>
+    <w>better</w>
+    <w>to</w>
+    <w>have</w>
+    <w>two</w>
+    <w>bites</w>
+    <w>at</w>
+    <w>the</w>
+    <w>apple</w>
+    <w>than</w>
+    <w>one</w>
+    <t type="p"></t>
+    <media
+      start="1296.364"
+      end="1299.162"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u214">
+    <w>Right</w>
+    <t type="q"></t>
+    <media
+      start="1299.162"
+      end="1299.396"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u215">
+    <linker type="self completion"/>
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <t type="p"></t>
+    <media
+      start="1299.396"
+      end="1299.924"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u216">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>And<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1299.924"
+      end="1300.159"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u217">
+    <w>Even</w>
+    <w>if</w>
+    <w>you</w>
+    <w>lose</w>
+    <w>here</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>can</w>
+    <w>then</w>
+    <w>seek</w>
+    <w>the</w>
+    <w>injunction</w>
+    <t type="p"></t>
+    <media
+      start="1300.159"
+      end="1302.246"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u218">
+    <linker type="self completion"/>
+    <w>And</w>
+    <w>also</w>
+    <w>because</w>
+    <w>the</w>
+    <w>majority</w>
+    <w>of</w>
+    <w>the</w>
+    <w>circuits</w>
+    <w>have</w>
+    <w>approved</w>
+    <w>the</w>
+    <w>procedures</w>
+    <w>that</w>
+    <w>we</w>
+    <w>followed</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="1302.246"
+      end="1309.977"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u219">
+    <w>You</w>
+    <w>have</w>
+    <w>the</w>
+    <w>Second</w>
+    <w>Circuit</w>
+    <s type="semicolon"/>
+    <w>you</w>
+    <w>have</w>
+    <w>the</w>
+    <w>Sixth</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Seventh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>Eighth</w>
+    <t type="p"></t>
+    <media
+      start="1309.977"
+      end="1314.595"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u220">
+    <w>And</w>
+    <t type="interruption"></t>
+    <media
+      start="1314.595"
+      end="1316.296"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u221">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>was</w>
+    <w>the</w>
+    <w>reasoning</w>
+    <w>of</w>
+    <w>those</w>
+    <w>circuits</w>
+    <t type="q"></t>
+    <media
+      start="1316.296"
+      end="1318.470"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u222">
+    <linker type="self completion"/>
+    <w>The</w>
+    <w>reasoning</w>
+    <w>of</w>
+    <w>those</w>
+    <w>circuits</w>
+    <w>were</w>
+    <w>that</w>
+    <w>they</w>
+    <w>had</w>
+    <w>retained</w>
+    <w>jurisdiction</w>
+    <w>to</w>
+    <w>enforce</w>
+    <w>their</w>
+    <w>judgments</w>
+    <t type="p"></t>
+    <media
+      start="1318.470"
+      end="1325.425"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u223">
+    <w>For</w>
+    <w>example</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>you</w>
+    <w>take</w>
+    <g><w>N_A_A_C_P</w><ga type="explanation">NAACP</ga></g>
+    <g><w>I_I</w><ga type="explanation">II</ga></g>
+    <pause symbolic-length="simple"/>
+    <w>rather</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>N_A_A_C_P</w><ga type="explanation">NAACP</ga></g>
+    <w>I</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>court</w>
+    <w>remanded</w>
+    <w>the</w>
+    <w>case</w>
+    <w>to</w>
+    <w>the</w>
+    <w>circuit</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="1325.425"
+      end="1335.718"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u224">
+    <g><w>N_A_A_C_P</w><ga type="explanation">NAACP</ga></g>
+    <g><w>I_I</w><ga type="explanation">II</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>court</w>
+    <w>said</w>
+    <w>that</w>
+    <w>because</w>
+    <w>they</w>
+    <w>had</w>
+    <w>retained</w>
+    <w>jurisdiction</w>
+    <w>in</w>
+    <w>an</w>
+    <w>order</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>they</w>
+    <w>could</w>
+    <w>go</w>
+    <w>forward</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <t type="p"></t>
+    <media
+      start="1335.718"
+      end="1347.327"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u225">
+    <w>And</w>
+    <w>what</w>
+    <pause symbolic-length="simple"/>
+    <w>did</w>
+    <w>they</w>
+    <w>specify</w>
+    <w>what</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>a</w>
+    <w>writ</w>
+    <w>it</w>
+    <w>was</w>
+    <w>they</w>
+    <w>were</w>
+    <w>talking</w>
+    <w>about</w>
+    <t type="q"></t>
+    <media
+      start="1347.327"
+      end="1351.839"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u226">
+    <w>No</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <t type="p"></t>
+    <media
+      start="1351.839"
+      end="1352.492"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u227">
+    <w>I</w>
+    <w>should</w>
+    <w>think</w>
+    <w>that</w>
+    <w>might</w>
+    <w>have</w>
+    <w>made</w>
+    <w>you</w>
+    <w>a</w>
+    <w>little</w>
+    <w>hesitant</w>
+    <w>to</w>
+    <w>rely</w>
+    <t type="p"></t>
+    <media
+      start="1352.492"
+      end="1356.794"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u228">
+    <w>Well</w>
+    <t type="interruption"></t>
+    <media
+      start="1356.794"
+      end="1358.091"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u229">
+    <w>It's</w>
+    <w>a</w>
+    <w>good</w>
+    <w>defense</w>
+    <w>to</w>
+    <w>a</w>
+    <w>malpractice</w>
+    <w>action</w>
+    <t type="p"></t>
+    <media
+      start="1358.091"
+      end="1360.965"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u230">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>had</w>
+    <w>to</w>
+    <w>rely</w>
+    <w>on</w>
+    <w>what</w>
+    <w>the</w>
+    <w>courts</w>
+    <w>were</w>
+    <w>telling</w>
+    <w>us</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <t type="p"></t>
+    <media
+      start="1360.965"
+      end="1367.969"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u231">
+    <w>Were</w>
+    <w>those</w>
+    <w>cases</w>
+    <w>in</w>
+    <w>which</w>
+    <w>there</w>
+    <w>were</w>
+    <w>two</w>
+    <pause symbolic-length="simple"/>
+    <w>two</w>
+    <w>different</w>
+    <w>districts</w>
+    <w>involved</w>
+    <t type="q"></t>
+    <media
+      start="1367.969"
+      end="1371.578"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u232">
+    <w>The</w>
+    <w>Agent</w>
+    <w>Orange</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>were</w>
+    <w>two</w>
+    <w>different</w>
+    <w>districts</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>yes</w>
+    <t type="p"></t>
+    <media
+      start="1371.578"
+      end="1375.607"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u233">
+    <w>But</w>
+    <w>all</w>
+    <w>of</w>
+    <w>them</w>
+    <w>were</w>
+    <w>not</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>were</w>
+    <w>they</w>
+    <t type="q"></t>
+    <media
+      start="1375.607"
+      end="1377.061"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u234">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>No<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="1377.061"
+      end="1377.922"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u235">
+    <w>Weren't</w>
+    <w>some</w>
+    <w>of</w>
+    <w>them</w>
+    <pause symbolic-length="simple"/>
+    <w>yes</w>
+    <t type="p"></t>
+    <media
+      start="1377.922"
+      end="1378.705"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="STEV" uID="u236">
+    <w>It</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>it's</w>
+    <w>quite</w>
+    <w>different</w>
+    <w>if</w>
+    <w>you're</w>
+    <w>remanding</w>
+    <w>to</w>
+    <w>the</w>
+    <w>court</w>
+    <w>where</w>
+    <w>the</w>
+    <w>problem</w>
+    <w>arose</w>
+    <w>than</w>
+    <w>remanding</w>
+    <w>to</w>
+    <w>a</w>
+    <w>different</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="1378.705"
+      end="1384.438"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u237">
+    <w>That's</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="1384.438"
+      end="1385.025"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u238">
+    <w>Yes</w>
+    <t type="p"></t>
+    <media
+      start="1385.025"
+      end="1385.553"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u239">
+    <w>Or</w>
+    <w>removing</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>rather</w>
+    <t type="p"></t>
+    <media
+      start="1385.553"
+      end="1386.704"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u240">
+    <w>That's</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="1386.704"
+      end="1387.482"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u241">
+    <w>Do</w>
+    <w>you</w>
+    <w>wish</w>
+    <w>to</w>
+    <w>save</w>
+    <w>the</w>
+    <t type="interruption"></t>
+    <media
+      start="1387.482"
+      end="1391.824"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u242">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="1391.824"
+      end="1392.861"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u243">
+    <linker type="self completion"/>
+    <w>remainder</w>
+    <w>of</w>
+    <w>your</w>
+    <w>time</w>
+    <w>for</w>
+    <w>rebuttal</w>
+    <t type="q"></t>
+    <media
+      start="1392.861"
+      end="1394.030"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u244">
+    <w>Thank</w>
+    <w>you</w>
+    <t type="p"></t>
+    <media
+      start="1394.030"
+      end="1394.960"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u245">
+    <w>Very</w>
+    <w>well</w>
+    <t type="p"></t>
+    <media
+      start="1394.960"
+      end="1395.632"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="REHN" uID="u246">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Bederman</w>
+    <t type="p"></t>
+    <media
+      start="1395.632"
+      end="1398.278"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">ORAL ARGUMENT OF DAVID J. BEDERMAN ON BEHALF OF THE RESPONDENT</comment>
+  <u who="BEDER" uID="u247">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>may</w>
+    <w>it</w>
+    <w>please</w>
+    <w>the</w>
+    <w>Court</w>
+    <s type="colon"/>
+    <t type="interruption"></t>
+    <media
+      start="1398.278"
+      end="1405.797"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u248">
+    <w>The</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>may</w>
+    <w>not</w>
+    <w>be</w>
+    <w>relied</w>
+    <w>upon</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>an</w>
+    <w>otherwise</w>
+    <w>unremovable</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="1405.797"
+      end="1411.921"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u249">
+    <w>It</w>
+    <w>is</w>
+    <w>Congress's</w>
+    <w>province</w>
+    <w>to</w>
+    <w>define</w>
+    <w>the</w>
+    <w>limits</w>
+    <w>of</w>
+    <w>removal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>chief</w>
+    <w>of</w>
+    <w>these</w>
+    <w>is</w>
+    <w>the</w>
+    <w>requirement</w>
+    <w>of</w>
+    <w>original</w>
+    <w>jurisdiction</w>
+    <w>in</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="1411.921"
+      end="1420.185"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u250">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Bederman</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>just</w>
+    <w>asked</w>
+    <w>your</w>
+    <pause symbolic-length="simple"/>
+    <w>your</w>
+    <w>friend</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>explain</w>
+    <w>why</w>
+    <w>he</w>
+    <w>was</w>
+    <w>up</w>
+    <w>here</w>
+    <t type="p"></t>
+    <media
+      start="1420.185"
+      end="1426.624"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u251">
+    <w>Why</w>
+    <w>are</w>
+    <w>you</w>
+    <w>up</w>
+    <w>here</w>
+    <t type="q"></t>
+    <media
+      start="1426.624"
+      end="1427.642"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u252">
+    <w>Because</w>
+    <w>even</w>
+    <w>if</w>
+    <w>you</w>
+    <w>win</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>case</w>
+    <w>will</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>don't</w>
+    <w>you</w>
+    <w>think</w>
+    <w>that</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>will</w>
+    <w>issue</w>
+    <t type="q"></t>
+    <media
+      start="1427.642"
+      end="1433.009"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u253">
+    <w>Very</w>
+    <w>likely</w>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook</w>
+    <w>will</w>
+    <w>apply</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <w>invited</w>
+    <w>them</w>
+    <w>to</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>an</w>
+    <w>injunction</w>
+    <t type="p"></t>
+    <media
+      start="1433.009"
+      end="1437.832"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u254">
+    <w>Such</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>could</w>
+    <w>proceed</w>
+    <w>because</w>
+    <w>under</w>
+    <w>this</w>
+    <w>Court's</w>
+    <w>decision</w>
+    <w>in</w>
+    <w>Parsons</w>
+    <w>Steel</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <w>has</w>
+    <w>yet</w>
+    <w>to</w>
+    <w>issue</w>
+    <w>a</w>
+    <w>conclusive</w>
+    <w>ruling</w>
+    <w>about</w>
+    <w>preclusive</w>
+    <w>effect</w>
+    <t type="p"></t>
+    <media
+      start="1437.832"
+      end="1447.102"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u255">
+    <w>And</w>
+    <w>therefore</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they're</w>
+    <w>at</w>
+    <w>liberty</w>
+    <w>to</w>
+    <t type="p"></t>
+    <media
+      start="1447.102"
+      end="1448.775"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u256">
+    <w>We</w>
+    <w>are</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>by</w>
+    <w>no</w>
+    <w>means</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>conceding</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>substantive</w>
+    <w>merits</w>
+    <w>of</w>
+    <w>the</w>
+    <w>injunction</w>
+    <w>motion</w>
+    <w>whether</w>
+    <w>they</w>
+    <w>would</w>
+    <w>have</w>
+    <w>a</w>
+    <w>substantial</w>
+    <w>likelihood</w>
+    <w>of</w>
+    <w>success</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>we</w>
+    <w>would</w>
+    <w>certainly</w>
+    <w>agree</w>
+    <w>that</w>
+    <w>they</w>
+    <w>have</w>
+    <w>the</w>
+    <w>ability</w>
+    <w>to</w>
+    <w>file</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>immediately</w>
+    <t type="p"></t>
+    <media
+      start="1448.775"
+      end="1462.284"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u257">
+    <w>Why</w>
+    <pause symbolic-length="simple"/>
+    <w>why</w>
+    <pause symbolic-length="simple"/>
+    <w>okay</w>
+    <t type="p"></t>
+    <media
+      start="1462.284"
+      end="1464.880"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u258">
+    <w>What</w>
+    <pause symbolic-length="simple"/>
+    <w>what</w>
+    <w>is</w>
+    <w>at</w>
+    <w>issue</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <t type="q"></t>
+    <media
+      start="1464.880"
+      end="1467.349"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u259">
+    <w>The</w>
+    <w>issue</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <w>would</w>
+    <w>be</w>
+    <w>presumably</w>
+    <w>the</w>
+    <w>proper</w>
+    <w>construction</w>
+    <w>of</w>
+    <w>the</w>
+    <w>settlement</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>agreement<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1467.349"
+      end="1471.397"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u260">
+    <w>Of</w>
+    <w>the</w>
+    <w>settlement</w>
+    <w>agreement</w>
+    <t type="q"></t>
+    <media
+      start="1471.397"
+      end="1472.084"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u261">
+    <linker type="self completion"/>
+    <w>That's</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="1472.084"
+      end="1472.442"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u262">
+    <w>And</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>whether</w>
+    <w>an</w>
+    <w>injunction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>narrowly</w>
+    <w>tailored</w>
+    <w>to</w>
+    <w>the</w>
+    <w>parties</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>would</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>the</w>
+    <w>Justices</w>
+    <w>have</w>
+    <w>already</w>
+    <w>indicated</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>be</w>
+    <w>properly</w>
+    <w>addressed</w>
+    <w>to</w>
+    <w>the</w>
+    <w>parties</w>
+    <w>to</w>
+    <w>order</w>
+    <w>dismissal</w>
+    <w>of</w>
+    <w>the</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="1472.442"
+      end="1484.065"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u263">
+    <w>Okay</w>
+    <t type="p"></t>
+    <media
+      start="1484.065"
+      end="1484.670"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u264">
+    <w>So</w>
+    <w>you</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>would</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>would</w>
+    <w>contest</w>
+    <w>the</w>
+    <w>injunction</w>
+    <w>just</w>
+    <w>as</w>
+    <w>you're</w>
+    <t type="interruption"></t>
+    <media
+      start="1484.670"
+      end="1488.232"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u265">
+    <w>We</w>
+    <w>would</w>
+    <w>contest</w>
+    <w>the</w>
+    <w>merits</w>
+    <w>of</w>
+    <w>the</w>
+    <w>injunction</w>
+    <t type="p"></t>
+    <media
+      start="1488.232"
+      end="1490.182"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u266">
+    <w>We</w>
+    <w>would</w>
+    <w>not</w>
+    <w>context</w>
+    <w>the</w>
+    <w>ability</w>
+    <w>of</w>
+    <w>them</w>
+    <w>to</w>
+    <w>file</w>
+    <w>for</w>
+    <w>the</w>
+    <t type="interruption"></t>
+    <media
+      start="1490.182"
+      end="1492.765"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u267">
+    <linker type="self completion"/>
+    <w>You</w>
+    <w>can</w>
+    <w>say</w>
+    <w>in</w>
+    <w>a</w>
+    <w>sentence</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>I</w>
+    <w>read</w>
+    <w>this</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>says</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>class</w>
+    <w>counsel</w>
+    <w>hereby</w>
+    <w>stipulates</w>
+    <w>that</w>
+    <w>the</w>
+    <w>related</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>including</w>
+    <w>any</w>
+    <w>and</w>
+    <w>all</w>
+    <w>claims</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>will</w>
+    <w>be</w>
+    <w>dismissed</w>
+    <t type="p"></t>
+    <media
+      start="1492.765"
+      end="1503.044"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u268">
+    <w>And</w>
+    <w>then</w>
+    <w>it</w>
+    <w>defines</w>
+    <w>related</w>
+    <w>case</w>
+    <w>to</w>
+    <w>refer</w>
+    <w>to</w>
+    <w>Hurley</w>
+    <w>Henson</w>
+    <w>by</w>
+    <w>number</w>
+    <w>in</w>
+    <w>the</w>
+    <w>State</w>
+    <w>of</w>
+    <w>Louisiana</w>
+    <t type="p"></t>
+    <media
+      start="1503.044"
+      end="1509.071"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u269">
+    <linker type="self completion"/>
+    <w>That's</w>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>Justice</w>
+    <w>Breyer<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="1509.071"
+      end="1510.214"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u270">
+    <w>So</w>
+    <w>I'm</w>
+    <w>just</w>
+    <w>curious</w>
+    <w>what</w>
+    <w>the</w>
+    <w>defense</w>
+    <w>would</w>
+    <w>be</w>
+    <t type="p"></t>
+    <media
+      start="1510.214"
+      end="1511.404"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u271">
+    <w>The</w>
+    <w>only</w>
+    <w>defense</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>I</w>
+    <w>could</w>
+    <w>imagine</w>
+    <w>is</w>
+    <w>the</w>
+    <w>ambiguity</w>
+    <w>in</w>
+    <w>that</w>
+    <w>provision</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>you</w>
+    <w>were</w>
+    <w>reading</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>at</w>
+    <g><w>thirty-eight</w>
+    <w formType="letter">a</w><ga type="explanation">38a</ga></g>
+    <w>of</w>
+    <w>the</w>
+    <w>joint</w>
+    <w>appendix</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>the</w>
+    <w>concern</w>
+    <w>about</w>
+    <w>whether</w>
+    <w>including</w>
+    <w>any</w>
+    <w>and</w>
+    <w>all</w>
+    <w>claims</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>including</w>
+    <w>without</w>
+    <w>any</w>
+    <w>limitation</w>
+    <w>any</w>
+    <w>claims</w>
+    <w>defined</w>
+    <w>herein</w>
+    <t type="p"></t>
+    <media
+      start="1511.404"
+      end="1532.322"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u272">
+    <w>And</w>
+    <w>what</w>
+    <w>has</w>
+    <w>not</w>
+    <w>been</w>
+    <w>made</w>
+    <w>clear</w>
+    <w>is</w>
+    <w>that</w>
+    <w>there</w>
+    <w>were</w>
+    <w>subsequent</w>
+    <w>amendments</w>
+    <w>to</w>
+    <w>the</w>
+    <w>stipulation</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>made</w>
+    <w>clear</w>
+    <w>that</w>
+    <w>certain</w>
+    <w>classes</w>
+    <w>of</w>
+    <w>claims</w>
+    <w>were</w>
+    <w>excluded</w>
+    <t type="p"></t>
+    <media
+      start="1532.322"
+      end="1541.126"
+      unit="s"
+    />
+  </u>
+  <u who="CONN" uID="u273">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>guess</w>
+    <w>that</w>
+    <w>isn't</w>
+    <w>before</w>
+    <w>us</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>here<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1541.126"
+      end="1543.311"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u274">
+    <linker type="self completion"/>
+    <w>It's</w>
+    <w>not</w>
+    <w>before</w>
+    <w>us</w>
+    <t type="p"></t>
+    <media
+      start="1543.311"
+      end="1543.508"
+      unit="s"
+    />
+  </u>
+  <u who="CONN" uID="u275">
+    <linker type="self completion"/>
+    <w>is</w>
+    <w>it</w>
+    <t type="q"></t>
+    <media
+      start="1543.508"
+      end="1544.354"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u276">
+    <w>Certainly</w>
+    <w>not</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>O'Connor</w>
+    <t type="p"></t>
+    <media
+      start="1544.354"
+      end="1546.280"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u277">
+    <w>What's</w>
+    <w>before</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>is</w>
+    <w>what</w>
+    <w>is</w>
+    <w>the</w>
+    <w>proper</w>
+    <w>procedural</w>
+    <w>mechanism</w>
+    <w>to</w>
+    <w>be</w>
+    <w>used</w>
+    <w>here</w>
+    <t type="p"></t>
+    <media
+      start="1546.280"
+      end="1551.071"
+      unit="s"
+    />
+  </u>
+  <u who="CONN" uID="u278">
+    <w>And</w>
+    <w>several</w>
+    <w>circuits</w>
+    <w>have</w>
+    <w>allowed</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>to</w>
+    <w>be</w>
+    <w>used</w>
+    <w>in</w>
+    <w>this</w>
+    <w>fashion</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>do</w>
+    <w>you</w>
+    <w>think</w>
+    <t type="q"></t>
+    <media
+      start="1551.071"
+      end="1556.072"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u279">
+    <w>In</w>
+    <w>this</w>
+    <w>fashion</w>
+    <t type="q"></t>
+    <media
+      start="1556.072"
+      end="1558.295"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u280">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>O'Connor</w>
+    <t type="p"></t>
+    <media
+      start="1558.295"
+      end="1559.650"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u281">
+    <w>That</w>
+    <w>clearly</w>
+    <w>this</w>
+    <w>is</w>
+    <w>what</w>
+    <w>I</w>
+    <w>would</w>
+    <w>characterize</w>
+    <w>as</w>
+    <w>a</w>
+    <w>newfangled</w>
+    <w>procedural</w>
+    <w>device</w>
+    <w>that</w>
+    <w>was</w>
+    <w>launched</w>
+    <w>by</w>
+    <w>the</w>
+    <w>Second</w>
+    <w>Circuit</w>
+    <w>after</w>
+    <w>the</w>
+    <w>Yonkers</w>
+    <w>and</w>
+    <w>Agent</w>
+    <w>Orange</w>
+    <w>cases</w>
+    <s type="semicolon"/>
+    <w>that</w>
+    <w>it</w>
+    <w>has</w>
+    <w>developed</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>I</w>
+    <w>think</w>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook</w>
+    <w>fairly</w>
+    <w>characterizes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>momentum</w>
+    <w>of</w>
+    <w>its</w>
+    <w>own</w>
+    <w>in</w>
+    <w>the</w>
+    <w>court</w>
+    <w>of</w>
+    <w>appeals</w>
+    <t type="p"></t>
+    <media
+      start="1559.650"
+      end="1575.912"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u282">
+    <w>In</w>
+    <w>the</w>
+    <w>Yonkers</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>United</w>
+    <w>States</w>
+    <w>Government</w>
+    <w>urged</w>
+    <w>the</w>
+    <w>court</w>
+    <w>to</w>
+    <w>take</w>
+    <w>that</w>
+    <w>position</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>didn't</w>
+    <w>it</w>
+    <t type="q"></t>
+    <media
+      start="1575.912"
+      end="1581.276"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u283">
+    <w>So</w>
+    <w>it</w>
+    <w>wasn't</w>
+    <w>something</w>
+    <w>newfangled</w>
+    <w>that</w>
+    <w>the</w>
+    <w>court</w>
+    <w>dreamed</w>
+    <w>up</w>
+    <w>on</w>
+    <w>its</w>
+    <w>own</w>
+    <w>when</w>
+    <w>it</w>
+    <w>was</w>
+    <w>the</w>
+    <w>Department</w>
+    <w>of</w>
+    <w>Justice</w>
+    <w>urging</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1581.276"
+      end="1586.957"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u284">
+    <w>That</w>
+    <w>is</w>
+    <w>true</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>my</w>
+    <w>recollection</w>
+    <w>of</w>
+    <pause symbolic-length="simple"/>
+    <w>of</w>
+    <w>the</w>
+    <w>procedural</w>
+    <w>background</w>
+    <w>with</w>
+    <w>the</w>
+    <w>Yonkers</w>
+    <w>case</w>
+    <w>was</w>
+    <w>that</w>
+    <w>there</w>
+    <w>was</w>
+    <w>some</w>
+    <w>concern</w>
+    <w>about</w>
+    <w>how</w>
+    <w>Judge</w>
+    <w>Sand</w>
+    <w>drafted</w>
+    <w>the</w>
+    <w>consent</w>
+    <w>decree</w>
+    <w>in</w>
+    <w>that</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="1586.957"
+      end="1597.809"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u285">
+    <w>He</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>was</w>
+    <w>later</w>
+    <w>acknowledged</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Judge</w>
+    <w>Sand</w>
+    <w>had</w>
+    <w>been</w>
+    <w>perhaps</w>
+    <w>misled</w>
+    <w>by</w>
+    <w>certain</w>
+    <w>representations</w>
+    <w>made</w>
+    <w>by</w>
+    <w>the</w>
+    <w>Archdiocese</w>
+    <w>of</w>
+    <w>New</w>
+    <w>York</w>
+    <w>and</w>
+    <w>therefore</w>
+    <w>he</w>
+    <w>did</w>
+    <w>not</w>
+    <w>include</w>
+    <w>a</w>
+    <w>provision</w>
+    <w>that</w>
+    <w>would</w>
+    <w>allow</w>
+    <w>for</w>
+    <w>a</w>
+    <w>subsequent</w>
+    <w>injunction</w>
+    <w>or</w>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>a</w>
+    <w>retention</w>
+    <w>of</w>
+    <w>jurisdiction</w>
+    <t type="p"></t>
+    <media
+      start="1597.809"
+      end="1612.513"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u286">
+    <w>That</w>
+    <w>may</w>
+    <w>have</w>
+    <w>led</w>
+    <w>the</w>
+    <w>court</w>
+    <w>in</w>
+    <w>that</w>
+    <w>circumstance</w>
+    <w>to</w>
+    <w>invoke</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <t type="p"></t>
+    <media
+      start="1612.513"
+      end="1617.289"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u287">
+    <w>But</w>
+    <w>there</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>again</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>complete</w>
+    <w>alternative</w>
+    <w>was</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>that</w>
+    <w>could</w>
+    <w>have</w>
+    <w>issued</w>
+    <w>in</w>
+    <w>these</w>
+    <w>New</w>
+    <w>York</w>
+    <w>land</w>
+    <w>use</w>
+    <w>proceedings</w>
+    <w>that</w>
+    <w>were</w>
+    <w>pending</w>
+    <w>in</w>
+    <w>State</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="1617.289"
+      end="1626.165"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u288">
+    <w>So</w>
+    <w>even</w>
+    <w>in</w>
+    <w>Yonkers</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>presents</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>analytically</w>
+    <w>a</w>
+    <w>very</w>
+    <w>different</w>
+    <w>context</w>
+    <w>here</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <w>a</w>
+    <w>preclusion</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <w>a</w>
+    <w>case</w>
+    <w>that</w>
+    <w>turns</w>
+    <w>on</w>
+    <w>the</w>
+    <w>construction</w>
+    <w>of</w>
+    <w>an</w>
+    <w>earlier</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>judgment</w>
+    <w>or</w>
+    <w>settlement</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>was</w>
+    <w>the</w>
+    <w>availability</w>
+    <w>of</w>
+    <w>injunctive</w>
+    <w>relief</w>
+    <t type="p"></t>
+    <media
+      start="1626.165"
+      end="1639.115"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u289">
+    <w>In</w>
+    <w>that</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>Second</w>
+    <w>Circuit</w>
+    <w>bypassed</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>reasoning</w>
+    <w>and</w>
+    <w>went</w>
+    <w>straight</w>
+    <w>towards</w>
+    <w>an</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>basis<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1639.115"
+      end="1646.566"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u290">
+    <w>But</w>
+    <w>you</w>
+    <w>said</w>
+    <w>you</w>
+    <w>would</w>
+    <w>defend</w>
+    <w>against</w>
+    <w>injunctive</w>
+    <w>relief</w>
+    <w>on</w>
+    <w>the</w>
+    <w>ground</w>
+    <w>that</w>
+    <w>the</w>
+    <w>settlement</w>
+    <w>was</w>
+    <w>narrower</w>
+    <w>than</w>
+    <t type="interruption"></t>
+    <media
+      start="1646.566"
+      end="1652.598"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u291">
+    <linker type="self completion"/>
+    <w>We</w>
+    <w>would</w>
+    <w>defend</w>
+    <w>essentially</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>that</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>should</w>
+    <w>not</w>
+    <w>issue</w>
+    <w>because</w>
+    <w>our</w>
+    <w>construction</w>
+    <w>of</w>
+    <pause symbolic-length="simple"/>
+    <w>of</w>
+    <w>the</w>
+    <w>settlement</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>is<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1652.598"
+      end="1657.482"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u292">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>why</w>
+    <w>didn't</w>
+    <w>you</w>
+    <w>seek</w>
+    <w>that</w>
+    <w>construction</w>
+    <w>from</w>
+    <w>the</w>
+    <w>court</w>
+    <w>that</w>
+    <w>issued</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>entered</w>
+    <w>the</w>
+    <w>settlement</w>
+    <t type="q"></t>
+    <media
+      start="1657.482"
+      end="1663.297"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u293">
+    <w>Why</w>
+    <w>go</w>
+    <w>to</w>
+    <w>another</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="q"></t>
+    <media
+      start="1663.297"
+      end="1665.443"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u294">
+    <w>Louisiana</w>
+    <w>doesn't</w>
+    <w>know</w>
+    <w>anything</w>
+    <w>about</w>
+    <w>this</w>
+    <w>case</w>
+    <pause symbolic-length="simple"/>
+    <w>instead</w>
+    <w>of</w>
+    <w>saying</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Alabama</w>
+    <w>Federal</w>
+    <w>District</w>
+    <w>Judge</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>please</w>
+    <w>clarify</w>
+    <w>the</w>
+    <w>scope</w>
+    <w>of</w>
+    <w>the</w>
+    <w>settlement</w>
+    <w>so</w>
+    <w>that</w>
+    <w>we</w>
+    <w>can</w>
+    <w>either</w>
+    <w>go</w>
+    <w>on</w>
+    <w>with</w>
+    <w>our</w>
+    <w>case</w>
+    <w>or</w>
+    <w>know</w>
+    <w>that</w>
+    <w>we</w>
+    <w>can't</w>
+    <t type="q"></t>
+    <media
+      start="1665.443"
+      end="1678.539"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u295">
+    <linker type="self completion"/>
+    <w>We</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>the</w>
+    <w>proper</w>
+    <w>course</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>view</w>
+    <w>of</w>
+    <w>the</w>
+    <w>precise</w>
+    <w>enumeration</w>
+    <w>of</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>of</w>
+    <w>the</w>
+    <w>case</w>
+    <w>in</w>
+    <w>State</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>the</w>
+    <w>proper</w>
+    <w>course</w>
+    <w>was</w>
+    <w>to</w>
+    <w>amend</w>
+    <w>the</w>
+    <w>petition</w>
+    <w>and</w>
+    <w>seek</w>
+    <w>a</w>
+    <w>resolution</w>
+    <t type="p"></t>
+    <media
+      start="1678.539"
+      end="1690.677"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u296">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Henson</w>
+    <w>and</w>
+    <w>his</w>
+    <w>counsel</w>
+    <w>could</w>
+    <w>have</w>
+    <w>very</w>
+    <w>well</w>
+    <w>initiated</w>
+    <w>an</w>
+    <w>entirely</w>
+    <w>new</w>
+    <w>case</w>
+    <w>and</w>
+    <w>evaded</w>
+    <w>the</w>
+    <w>terms</w>
+    <w>of</w>
+    <pause symbolic-length="simple"/>
+    <w>of</w>
+    <w>the</w>
+    <w>settlement</w>
+    <w>in</w>
+    <w>that</w>
+    <w>fashion</w>
+    <t type="p"></t>
+    <media
+      start="1690.677"
+      end="1698.982"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u297">
+    <w>They</w>
+    <w>agreed</w>
+    <w>and</w>
+    <w>decided</w>
+    <w>that</w>
+    <w>the</w>
+    <w>proper</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>more</w>
+    <w>forthright</w>
+    <w>course</w>
+    <w>was</w>
+    <w>to</w>
+    <w>seek</w>
+    <w>leave</w>
+    <w>to</w>
+    <w>amend</w>
+    <w>the</w>
+    <w>petition</w>
+    <w>to</w>
+    <w>make</w>
+    <w>clear</w>
+    <w>that</w>
+    <w>certain</w>
+    <w>claims</w>
+    <w>were</w>
+    <w>dropped</w>
+    <w>by</w>
+    <w>virtue</w>
+    <w>of</w>
+    <w>the</w>
+    <w>earlier</w>
+    <w>settlement</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>there</w>
+    <w>were</w>
+    <w>remaining</w>
+    <w>claims</w>
+    <w>in</w>
+    <w>play</w>
+    <t type="p"></t>
+    <media
+      start="1698.982"
+      end="1713.062"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u298">
+    <w>And</w>
+    <w>it</w>
+    <w>was</w>
+    <w>believed</w>
+    <w>that</w>
+    <w>this</w>
+    <w>was</w>
+    <w>the</w>
+    <w>most</w>
+    <w>forthright</w>
+    <w>approach</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>use</w>
+    <w>here</w>
+    <t type="p"></t>
+    <media
+      start="1713.062"
+      end="1717.765"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u299">
+    <w>I</w>
+    <w>would</w>
+    <w>credit</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>Ginsburg</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>it</w>
+    <w>may</w>
+    <w>have</w>
+    <w>been</w>
+    <w>equally</w>
+    <w>appropriate</w>
+    <w>to</w>
+    <w>go</w>
+    <w>back</w>
+    <w>to</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>seek</w>
+    <w>a</w>
+    <w>declaratory</w>
+    <w>judgment</w>
+    <w>or</w>
+    <w>some</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>decision</w>
+    <w>in</w>
+    <w>that</w>
+    <w>fashion</w>
+    <t type="p"></t>
+    <media
+      start="1717.765"
+      end="1727.994"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u300">
+    <w>But</w>
+    <w>I</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>this</w>
+    <w>course</w>
+    <w>was</w>
+    <w>certainly</w>
+    <w>honest</w>
+    <w>and</w>
+    <w>forthright</w>
+    <w>on</w>
+    <w>the</w>
+    <w>part</w>
+    <w>of</w>
+    <w>counsel</w>
+    <w>below</w>
+    <t type="p"></t>
+    <media
+      start="1727.994"
+      end="1732.945"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u301">
+    <w>I</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>hardly</w>
+    <w>think</w>
+    <w>it</w>
+    <w>may</w>
+    <w>be</w>
+    <w>necessary</w>
+    <w>to</w>
+    <w>indicate</w>
+    <w>that</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>does</w>
+    <w>not</w>
+    <w>confer</w>
+    <w>jurisdiction</w>
+    <w>under</w>
+    <g><w>fourteen</w>
+    <w>forty-one</w><ga type="explanation">1441</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>was</w>
+    <w>already</w>
+    <w>made</w>
+    <w>clear</w>
+    <w>in</w>
+    <w>certainly</w>
+    <w>the</w>
+    <w>questioning</w>
+    <w>and</w>
+    <w>certainly</w>
+    <w>in</w>
+    <w>view</w>
+    <w>of</w>
+    <w>petitioners'</w>
+    <w>discussion</w>
+    <t type="p"></t>
+    <media
+      start="1732.945"
+      end="1747.303"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u302">
+    <w>Original</w>
+    <w>jurisdiction</w>
+    <w>has</w>
+    <w>always</w>
+    <w>been</w>
+    <w>required</w>
+    <w>and</w>
+    <w>has</w>
+    <w>been</w>
+    <w>upheld</w>
+    <w>in</w>
+    <w>countless</w>
+    <w>cases</w>
+    <t type="p"></t>
+    <media
+      start="1747.303"
+      end="1752.055"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u303">
+    <w>And</w>
+    <w>moreover</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>textually</w>
+    <w>demands</w>
+    <w>that</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>issue</w>
+    <w>writs</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>quote</w>
+    <tagMarker type="comma"></tagMarker>
+    <t type="quotation next line"></t>
+    <media
+      start="1752.055"
+      end="1756.196"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u304">
+    <linker type="quoted utterance next"/>
+    <w>in</w>
+    <w>aid</w>
+    <w>of</w>
+    <w>their</w>
+    <w>respective</w>
+    <w>jurisdiction</w>
+    <t type="p"></t>
+    <media
+      start="1756.196"
+      end="1758.556"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u305">
+    <w>Petitioners'</w>
+    <w>argument</w>
+    <w>essentially</w>
+    <w>would</w>
+    <w>read</w>
+    <w>out</w>
+    <quotation type="begin"></quotation>
+    <w>respective</w>
+    <quotation type="end"></quotation>
+    <w>from</w>
+    <w>that</w>
+    <w>provision</w>
+    <w>in</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>in</w>
+    <w>section</w>
+    <g><w>sixteen</w>
+    <w>fifty-one</w><ga type="explanation">1651</ga></g>
+    <t type="p"></t>
+    <media
+      start="1758.556"
+      end="1767.498"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u306">
+    <w>Clearly</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>does</w>
+    <w>not</w>
+    <w>independently</w>
+    <w>grant</w>
+    <w>original</w>
+    <w>jurisdiction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>this</w>
+    <w>has</w>
+    <w>been</w>
+    <w>consistently</w>
+    <w>upheld</w>
+    <w>by</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>for</w>
+    <w>nearly</w>
+    <g><w>two</w>
+    <w>hundred</w><ga type="explanation">200</ga></g>
+    <w>years</w>
+    <w>from</w>
+    <w>the</w>
+    <w>McIntire</w>
+    <w>decision</w>
+    <w>in</w>
+    <g><w>eighteen</w>
+    <w>thirteen</w><ga type="explanation">1813</ga></g>
+    <w>to</w>
+    <w>as</w>
+    <w>recently</w>
+    <w>as</w>
+    <w>Clinton</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Goldsmith</w>
+    <w>in</w>
+    <g><w>nineteen</w>
+    <w>ninety-nine</w><ga type="explanation">1999</ga></g>
+    <t type="p"></t>
+    <media
+      start="1767.498"
+      end="1781.919"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u307">
+    <w>Moreover</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>issuance</w>
+    <w>of</w>
+    <w>writs</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>is</w>
+    <w>certainly</w>
+    <w>conditioned</w>
+    <w>by</w>
+    <w>the</w>
+    <w>statutory</w>
+    <w>requirement</w>
+    <w>that</w>
+    <w>such</w>
+    <w>be</w>
+    <w>necessary</w>
+    <w>or</w>
+    <w>appropriate</w>
+    <t type="p"></t>
+    <media
+      start="1781.919"
+      end="1790.670"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u308">
+    <w>And</w>
+    <w>as</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>indicated</w>
+    <w>in</w>
+    <w>Pennsylvania</w>
+    <w>Bureau</w>
+    <w>of</w>
+    <w>Corrections</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>is</w>
+    <w>essentially</w>
+    <w>a</w>
+    <w>threshold</w>
+    <w>requirement</w>
+    <w>for</w>
+    <w>invocation</w>
+    <w>of</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <t type="p"></t>
+    <media
+      start="1790.670"
+      end="1799.554"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u309">
+    <w>And</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Goldsmith</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>recently</w>
+    <w>as</w>
+    <g><w>three</w><ga type="explanation">3</ga></g>
+    <w>or</w>
+    <g><w>four</w><ga type="explanation">4</ga></g>
+    <w>years</w>
+    <w>ago</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>Court</w>
+    <w>made</w>
+    <w>clear</w>
+    <w>that</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>can't</w>
+    <w>be</w>
+    <w>used</w>
+    <w>as</w>
+    <w>a</w>
+    <w>form</w>
+    <w>of</w>
+    <w>cure-all</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>fix</w>
+    <w>what</w>
+    <w>would</w>
+    <w>otherwise</w>
+    <w>be</w>
+    <w>the</w>
+    <w>availability</w>
+    <w>of</w>
+    <w>other</w>
+    <w>statutory</w>
+    <w>mechanisms</w>
+    <w>which</w>
+    <w>are</w>
+    <w>not</w>
+    <w>otherwise</w>
+    <w>complied</w>
+    <w>with</w>
+    <t type="p"></t>
+    <media
+      start="1799.554"
+      end="1815.020"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u310">
+    <w>What</w>
+    <w>would</w>
+    <w>be</w>
+    <w>wrong</w>
+    <w>with</w>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <w>saying</w>
+    <w>in</w>
+    <w>substance</w>
+    <w>it's</w>
+    <w>the</w>
+    <w>same</w>
+    <w>thing</w>
+    <t type="q"></t>
+    <media
+      start="1815.020"
+      end="1820.124"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u311">
+    <w>What</w>
+    <w>we're</w>
+    <w>trying</w>
+    <w>to</w>
+    <w>do</w>
+    <w>is</w>
+    <w>to</w>
+    <w>stop</w>
+    <w>this</w>
+    <w>litigation</w>
+    <w>from</w>
+    <w>going</w>
+    <w>forward</w>
+    <w>in</w>
+    <w>Louisiana</w>
+    <t type="p"></t>
+    <media
+      start="1820.124"
+      end="1826.150"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u312">
+    <w>So</w>
+    <w>even</w>
+    <w>though</w>
+    <w>the</w>
+    <w>defendants</w>
+    <w>used</w>
+    <w>the</w>
+    <w>wrong</w>
+    <w>device</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we'll</w>
+    <w>treat</w>
+    <w>it</w>
+    <w>as</w>
+    <w>though</w>
+    <w>it</w>
+    <w>had</w>
+    <w>been</w>
+    <w>in</w>
+    <w>application</w>
+    <w>for</w>
+    <w>an</w>
+    <w>antisuit</w>
+    <w>injunction</w>
+    <t type="q"></t>
+    <media
+      start="1826.150"
+      end="1837.993"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u313">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <w>had</w>
+    <w>construed</w>
+    <w>petitioners'</w>
+    <w>filings</w>
+    <w>in</w>
+    <w>that</w>
+    <w>way</w>
+    <w>and</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>had</w>
+    <w>indicated</w>
+    <w>that</w>
+    <w>injunction</w>
+    <w>was</w>
+    <w>the</w>
+    <w>proper</w>
+    <w>mode</w>
+    <w>and</w>
+    <w>essentially</w>
+    <w>substituted</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>they</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>they</w>
+    <w>seem</w>
+    <w>to</w>
+    <w>invite</w>
+    <w>in</w>
+    <w>their</w>
+    <w>closing</w>
+    <w>lines</w>
+    <w>of</w>
+    <w>their</w>
+    <w>decision</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>appropriate</w>
+    <t type="p"></t>
+    <media
+      start="1837.993"
+      end="1856.160"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u314">
+    <w>But</w>
+    <w>there</w>
+    <w>is</w>
+    <w>certainly</w>
+    <w>a</w>
+    <w>difference</w>
+    <w>in</w>
+    <w>form</w>
+    <w>and</w>
+    <w>in</w>
+    <w>content</w>
+    <w>between</w>
+    <w>a</w>
+    <w>removal</w>
+    <w>and</w>
+    <w>a</w>
+    <w>narrowly</w>
+    <w>tailored</w>
+    <w>injunction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>I</w>
+    <w>think</w>
+    <w>the</w>
+    <w>Eleventh</w>
+    <w>Circuit</w>
+    <w>was</w>
+    <w>correct</w>
+    <t type="p"></t>
+    <media
+      start="1856.160"
+      end="1864.368"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u315">
+    <w>And</w>
+    <w>other</w>
+    <w>courts</w>
+    <w>of</w>
+    <w>appeals</w>
+    <w>that</w>
+    <w>have</w>
+    <w>so</w>
+    <w>held</w>
+    <w>have</w>
+    <w>indicated</w>
+    <w>that</w>
+    <w>there</w>
+    <w>are</w>
+    <w>profound</w>
+    <w>federalism</w>
+    <w>concerns</w>
+    <w>that</w>
+    <w>are</w>
+    <w>implicated</w>
+    <w>in</w>
+    <w>allowing</w>
+    <w>essentially</w>
+    <w>a</w>
+    <w>common</w>
+    <w>law</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>removal</w>
+    <w>to</w>
+    <w>be</w>
+    <w>used</w>
+    <w>to</w>
+    <w>evade</w>
+    <w>what</w>
+    <w>is</w>
+    <w>Congress's</w>
+    <w>role</w>
+    <w>in</w>
+    <w>dictating</w>
+    <w>the</w>
+    <w>mechanism</w>
+    <w>for</w>
+    <w>removal</w>
+    <w>and</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>patrolling</w>
+    <w>the</w>
+    <w>boundary</w>
+    <w>and</w>
+    <w>the</w>
+    <w>balance</w>
+    <w>of</w>
+    <w>authority</w>
+    <w>between</w>
+    <w>State</w>
+    <w>courts</w>
+    <w>and</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>in</w>
+    <w>this</w>
+    <w>country</w>
+    <t type="p"></t>
+    <media
+      start="1864.368"
+      end="1885.313"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u316">
+    <w>There</w>
+    <w>is</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>indicated</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>such</w>
+    <w>thing</w>
+    <w>as</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>a</w>
+    <w>common</w>
+    <w>law</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>removal</w>
+    <t type="p"></t>
+    <media
+      start="1885.313"
+      end="1891.426"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u317">
+    <w>There</w>
+    <w>was</w>
+    <w>no</w>
+    <w>analogy</w>
+    <w>in</w>
+    <w>English</w>
+    <w>common</w>
+    <w>law</w>
+    <w>at</w>
+    <w>the</w>
+    <w>time</w>
+    <w>of</w>
+    <w>the</w>
+    <w>founding</w>
+    <t type="p"></t>
+    <media
+      start="1891.426"
+      end="1895.604"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u318">
+    <w>The</w>
+    <pause symbolic-length="simple"/>
+    <w>a</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>certiorari</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>Justice</w>
+    <w>Breyer</w>
+    <w>indicated</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <pause symbolic-length="simple"/>
+    <w>could</w>
+    <w>have</w>
+    <w>been</w>
+    <w>potentially</w>
+    <w>directed</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>would</w>
+    <w>agree</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>courts</w>
+    <t type="p"></t>
+    <media
+      start="1895.604"
+      end="1904.125"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u319">
+    <w>But</w>
+    <w>in</w>
+    <w>no</w>
+    <w>circumstance</w>
+    <w>was</w>
+    <w>there</w>
+    <w>analogy</w>
+    <w>in</w>
+    <w>English</w>
+    <w>common</w>
+    <w>law</w>
+    <w>for</w>
+    <w>the</w>
+    <w>court</w>
+    <w>of</w>
+    <w>one</w>
+    <w>sovereign</w>
+    <w>to</w>
+    <w>remove</w>
+    <w>cases</w>
+    <w>from</w>
+    <pause symbolic-length="simple"/>
+    <w>from</w>
+    <w>another</w>
+    <w>sovereign</w>
+    <t type="p"></t>
+    <media
+      start="1904.125"
+      end="1911.730"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u320">
+    <w>And</w>
+    <w>unless</w>
+    <w>we</w>
+    <w>delve</w>
+    <w>into</w>
+    <w>a</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>obscurantist</w>
+    <w>legal</w>
+    <w>history</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>clear</w>
+    <t type="p"></t>
+    <media
+      start="1911.730"
+      end="1919.418"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u321">
+    <w>But</w>
+    <w>there</w>
+    <w>was</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>analogy</w>
+    <w>for</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="1919.418"
+      end="1922.236"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u322">
+    <w>And</w>
+    <w>in</w>
+    <w>truth</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there's</w>
+    <w>no</w>
+    <w>such</w>
+    <w>thing</w>
+    <w>as</w>
+    <w>a</w>
+    <w>writ</w>
+    <w>of</w>
+    <w>removal</w>
+    <t type="interruption"></t>
+    <media
+      start="1922.236"
+      end="1924.332"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u323">
+    <w>Administrative</w>
+    <w>agencies</w>
+    <t type="p"></t>
+    <media
+      start="1924.332"
+      end="1925.527"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u324">
+    <linker type="self completion"/>
+    <w>I</w>
+    <w>presume</w>
+    <w>that</w>
+    <w>in</w>
+    <w>English</w>
+    <w>common</w>
+    <w>law</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>the</w>
+    <w>extent</w>
+    <w>that</w>
+    <w>administrative</w>
+    <w>agencies</w>
+    <w>existed</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>ones</w>
+    <w>I'm</w>
+    <w>aware</w>
+    <w>of</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>were</w>
+    <w>quite</w>
+    <w>inchoate</w>
+    <t type="p"></t>
+    <media
+      start="1925.527"
+      end="1934.879"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u325">
+    <w>It's</w>
+    <w>potential</w>
+    <w>that</w>
+    <w>you</w>
+    <t type="interruption"></t>
+    <media
+      start="1934.879"
+      end="1936.583"
+      unit="s"
+    />
+  </u>
+  <u who="BREY" uID="u326">
+    <w>Sewer</w>
+    <w>commissioners</w>
+    <tagMarker type="comma"></tagMarker>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>I</w>
+    <w>think</w>
+    <w>is<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="1936.583"
+      end="1938.131"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u327">
+    <linker type="self completion"/>
+    <w>That's</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="1938.131"
+      end="1938.316"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u328">
+    <w>Or</w>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>sanitary</w>
+    <w>commissions</w>
+    <w>in</w>
+    <w>London</w>
+    <t type="p"></t>
+    <media
+      start="1938.316"
+      end="1941.195"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u329">
+    <w>One</w>
+    <w>might</w>
+    <w>imagine</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="1941.195"
+      end="1942.631"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u330">
+    <w>But</w>
+    <w>again</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>at</w>
+    <w>issue</w>
+    <w>here</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>is</w>
+    <w>removal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>always</w>
+    <w>indicated</w>
+    <w>is</w>
+    <w>a</w>
+    <w>creature</w>
+    <w>of</w>
+    <w>statute</w>
+    <w>because</w>
+    <w>of</w>
+    <w>the</w>
+    <w>profound</w>
+    <w>federalism</w>
+    <w>concerns</w>
+    <t type="p"></t>
+    <media
+      start="1942.631"
+      end="1951.376"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u331">
+    <w>And</w>
+    <w>essentially</w>
+    <w>what</w>
+    <pause symbolic-length="simple"/>
+    <w>what</w>
+    <w>petitioners</w>
+    <w>would</w>
+    <w>have</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>do</w>
+    <w>is</w>
+    <w>allow</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>by</w>
+    <w>use</w>
+    <w>of</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>or</w>
+    <w>analogous</w>
+    <w>theories</w>
+    <w>of</w>
+    <w>ancillary</w>
+    <w>enforcement</w>
+    <w>jurisdiction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>achieve</w>
+    <w>what</w>
+    <w>is</w>
+    <w>otherwise</w>
+    <w>unavailable</w>
+    <w>by</w>
+    <w>statute</w>
+    <t type="p"></t>
+    <media
+      start="1951.376"
+      end="1964.746"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u332">
+    <w>And</w>
+    <w>as</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>clearly</w>
+    <w>said</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Pennsylvania</w>
+    <w>Bureau</w>
+    <w>of</w>
+    <w>Corrections</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>although</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <w>empowers</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>to</w>
+    <w>fashion</w>
+    <w>extraordinary</w>
+    <w>remedies</w>
+    <w>when</w>
+    <w>the</w>
+    <w>need</w>
+    <w>arises</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>does</w>
+    <w>not</w>
+    <w>authorize</w>
+    <w>them</w>
+    <w>to</w>
+    <w>issue</w>
+    <w>ad</w>
+    <w>hoc</w>
+    <w>writs</w>
+    <w>whenever</w>
+    <w>compliance</w>
+    <w>with</w>
+    <w>statutory</w>
+    <w>procedures</w>
+    <w>appears</w>
+    <w>inconvenient</w>
+    <w>or</w>
+    <w>less</w>
+    <w>appropriate</w>
+    <t type="p"></t>
+    <media
+      start="1964.746"
+      end="1982.722"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u333">
+    <w>If</w>
+    <w>I</w>
+    <w>can</w>
+    <w>say</w>
+    <w>just</w>
+    <w>a</w>
+    <w>word</w>
+    <w>or</w>
+    <w>two</w>
+    <w>about</w>
+    <w>ancillary</w>
+    <w>enforcement</w>
+    <w>jurisdiction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>the</w>
+    <w>extent</w>
+    <w>to</w>
+    <w>which</w>
+    <w>petitioners</w>
+    <w>appear</w>
+    <w>to</w>
+    <w>be</w>
+    <w>relying</w>
+    <w>on</w>
+    <w>it</w>
+    <t type="p"></t>
+    <media
+      start="1982.722"
+      end="1991.233"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u334">
+    <w>This</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>said</w>
+    <w>very</w>
+    <w>clearly</w>
+    <w>in</w>
+    <w>both</w>
+    <w>Kikkonen</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>where</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>indicated</w>
+    <w>that</w>
+    <w>ancillary</w>
+    <w>enforcement</w>
+    <w>jurisdiction</w>
+    <w>may</w>
+    <w>be</w>
+    <w>used</w>
+    <w>in</w>
+    <w>view</w>
+    <w>of</w>
+    <w>what</w>
+    <w>courts</w>
+    <w>require</w>
+    <w>to</w>
+    <w>perform</w>
+    <w>their</w>
+    <w>functions</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>in</w>
+    <w>Peacock</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>where</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>made</w>
+    <w>very</w>
+    <w>clear</w>
+    <w>that</w>
+    <w>ancillary</w>
+    <w>enforcement</w>
+    <w>jurisdiction</w>
+    <w>is</w>
+    <w>a</w>
+    <w>creature</w>
+    <w>of</w>
+    <w>necessity</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>can</w>
+    <w>be</w>
+    <w>no</w>
+    <w>showing</w>
+    <w>of</w>
+    <w>necessity</w>
+    <w>here</w>
+    <w>by</w>
+    <w>virtue</w>
+    <w>of</w>
+    <w>the</w>
+    <w>availability</w>
+    <w>of</w>
+    <w>alternate</w>
+    <w>mechanisms</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>whether</w>
+    <w>in</w>
+    <w>the</w>
+    <w>form</w>
+    <w>of</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>properly</w>
+    <w>issued</w>
+    <w>against</w>
+    <w>the</w>
+    <w>parties</w>
+    <w>and</w>
+    <w>consistent</w>
+    <w>with</w>
+    <w>the</w>
+    <w>relitigation</w>
+    <w>exception</w>
+    <w>under</w>
+    <w>the</w>
+    <w>Anti-Injunction</w>
+    <w>Act</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>even</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>preferably</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>recourse</w>
+    <w>to</w>
+    <w>State</w>
+    <w>courts</w>
+    <w>to</w>
+    <w>properly</w>
+    <w>rule</w>
+    <w>on</w>
+    <w>the</w>
+    <w>preclusive</w>
+    <w>effect</w>
+    <w>of</w>
+    <w>earlier</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>judgments</w>
+    <w>and</w>
+    <w>settlements</w>
+    <tagMarker type="comma"></tagMarker>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>as</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>made</w>
+    <w>clear<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="1991.233"
+      end="2030.253"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u335">
+    <linker type="self completion"/>
+    <w>What</w>
+    <w>about</w>
+    <w>contempt</w>
+    <t type="q"></t>
+    <media
+      start="2030.253"
+      end="2030.730"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u336">
+    <w>I</w>
+    <w>suppose</w>
+    <w>you</w>
+    <w>could</w>
+    <w>have</w>
+    <w>been</w>
+    <pause symbolic-length="simple"/>
+    <w>your</w>
+    <w>client</w>
+    <w>could</w>
+    <w>have</w>
+    <w>been</w>
+    <w>held</w>
+    <w>in</w>
+    <w>contempt</w>
+    <w>in</w>
+    <w>that</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>couldn't</w>
+    <w>it</w>
+    <t type="q"></t>
+    <media
+      start="2030.730"
+      end="2033.580"
+      unit="s"
+    />
+  </u>
+  <u who="STEV" uID="u337">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>assuming</w>
+    <w>you're</w>
+    <w>wrong</w>
+    <pause symbolic-length="simple"/>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>that</w>
+    <w>he's</w>
+    <w>right<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="2033.580"
+      end="2035.591"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u338">
+    <w>In</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="p"></t>
+    <media
+      start="2035.591"
+      end="2035.923"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u339">
+    <w>And</w>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>obviously</w>
+    <w>sanctions</w>
+    <w>were</w>
+    <w>imposed</w>
+    <w>below</w>
+    <w>by</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>district</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that's</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <pause symbolic-length="simple"/>
+    <w>no</w>
+    <w>longer</w>
+    <w>at</w>
+    <w>issue</w>
+    <w>before</w>
+    <w>this</w>
+    <w>Court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>that</w>
+    <w>court</w>
+    <w>has</w>
+    <w>that</w>
+    <w>power</w>
+    <t type="p"></t>
+    <media
+      start="2035.923"
+      end="2044.604"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u340">
+    <w>So</w>
+    <w>certainly</w>
+    <w>there</w>
+    <w>are</w>
+    <w>a</w>
+    <w>variety</w>
+    <w>of</w>
+    <w>mechanisms</w>
+    <w>to</w>
+    <w>ensure</w>
+    <w>compliance</w>
+    <w>with</w>
+    <pause symbolic-length="simple"/>
+    <w>with</w>
+    <w>court</w>
+    <w>orders</w>
+    <t type="p"></t>
+    <media
+      start="2044.604"
+      end="2050.092"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u341">
+    <w>It</w>
+    <w>is</w>
+    <w>not</w>
+    <w>respondent's</w>
+    <w>submission</w>
+    <w>to</w>
+    <w>suggest</w>
+    <w>that</w>
+    <w>we</w>
+    <w>take</w>
+    <w>an</w>
+    <w>important</w>
+    <w>tool</w>
+    <w>out</w>
+    <w>of</w>
+    <w>the</w>
+    <w>toolbox</w>
+    <w>of</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>in</w>
+    <w>order</w>
+    <w>to</w>
+    <w>maintain</w>
+    <w>the</w>
+    <w>dignity</w>
+    <w>and</w>
+    <w>the</w>
+    <w>enforcement</w>
+    <w>of</w>
+    <w>their</w>
+    <w>judgments</w>
+    <t type="p"></t>
+    <media
+      start="2050.092"
+      end="2060.971"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u342">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>But<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="interruption"></t>
+    <media
+      start="2060.971"
+      end="2061.561"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u343">
+    <linker type="self completion"/>
+    <w>A</w>
+    <w>number</w>
+    <w>of</w>
+    <w>courts</w>
+    <w>that</w>
+    <w>have</w>
+    <w>allowed</w>
+    <w>the</w>
+    <g><w>sixteen</w>
+    <w>fifty-one</w><ga type="explanation">1651</ga></g>
+    <w>All</w>
+    <w>Writs</w>
+    <w>removal</w>
+    <w>have</w>
+    <w>said</w>
+    <w>that</w>
+    <w>they</w>
+    <w>thought</w>
+    <w>that</w>
+    <w>that</w>
+    <w>was</w>
+    <w>less</w>
+    <w>offensive</w>
+    <t type="p"></t>
+    <media
+      start="2061.561"
+      end="2070.559"
+      unit="s"
+    />
+  </u>
+  <u who="GINS" uID="u344">
+    <w>That</w>
+    <w>was</w>
+    <w>more</w>
+    <w>faithful</w>
+    <w>to</w>
+    <w>the</w>
+    <w>federalism</w>
+    <w>concern</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>issuing</w>
+    <w>an</w>
+    <w>antisuit</w>
+    <w>injunction</w>
+    <w>was</w>
+    <w>more</w>
+    <w>offensive</w>
+    <w>to</w>
+    <w>the</w>
+    <w>State</w>
+    <w>than</w>
+    <w>this</w>
+    <w>removal</w>
+    <w>device</w>
+    <t type="p"></t>
+    <media
+      start="2070.559"
+      end="2083.194"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u345">
+    <linker type="self completion"/>
+    <w>I</w>
+    <w>would</w>
+    <w>respectfully</w>
+    <w>disagree</w>
+    <w>with</w>
+    <w>that</w>
+    <w>characterization</w>
+    <t type="p"></t>
+    <media
+      start="2083.194"
+      end="2086.125"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u346">
+    <w>The</w>
+    <w>assumption</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>be</w>
+    <w>that</w>
+    <w>the</w>
+    <w>injunction</w>
+    <w>would</w>
+    <w>somehow</w>
+    <w>issue</w>
+    <w>to</w>
+    <w>the</w>
+    <w>State</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>as</w>
+    <w>of</w>
+    <w>course</w>
+    <w>we</w>
+    <w>all</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>would</w>
+    <w>never</w>
+    <w>be</w>
+    <w>the</w>
+    <w>case</w>
+    <t type="p"></t>
+    <media
+      start="2086.125"
+      end="2093.264"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u347">
+    <w>That</w>
+    <w>truly</w>
+    <w>would</w>
+    <w>be</w>
+    <w>offensive</w>
+    <t type="p"></t>
+    <media
+      start="2093.264"
+      end="2094.780"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u348">
+    <w>The</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>injunction</w>
+    <w>would</w>
+    <w>issue</w>
+    <w>to</w>
+    <w>the</w>
+    <w>parties</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>however</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>with</w>
+    <w>instructions</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>dismiss</w>
+    <w>or</w>
+    <w>an</w>
+    <w>even</w>
+    <w>maybe</w>
+    <w>even</w>
+    <w>more</w>
+    <w>narrowly</w>
+    <w>tailored</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>instrument<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="2094.780"
+      end="2102.794"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u349">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>may</w>
+    <w>be</w>
+    <w>that</w>
+    <w>a</w>
+    <w>particular</w>
+    <w>remedy</w>
+    <w>in</w>
+    <w>a</w>
+    <w>particular</w>
+    <w>situation</w>
+    <w>might</w>
+    <w>be</w>
+    <w>less</w>
+    <w>offensive</w>
+    <w>to</w>
+    <w>federalism</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>that's</w>
+    <w>a</w>
+    <w>concern</w>
+    <w>that</w>
+    <w>should</w>
+    <w>be</w>
+    <w>addressed</w>
+    <w>by</w>
+    <w>Congress</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>isn't</w>
+    <w>it</w>
+    <t type="interruption"></t>
+    <media
+      start="2102.794"
+      end="2113.571"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u350">
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>Absolutely<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="2113.571"
+      end="2114.080"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u351">
+    <linker type="self completion"/>
+    <w>in</w>
+    <w>view</w>
+    <w>of</w>
+    <w>this</w>
+    <w>statute</w>
+    <t type="q"></t>
+    <media
+      start="2114.080"
+      end="2114.588"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u352">
+    <w>Absolutely</w>
+    <t type="p"></t>
+    <media
+      start="2114.588"
+      end="2114.985"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u353">
+    <w>It</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>if</w>
+    <w>Congress</w>
+    <w>wishes</w>
+    <w>to</w>
+    <w>address</w>
+    <w>the</w>
+    <w>availability</w>
+    <w>of</w>
+    <w>removal</w>
+    <w>in</w>
+    <w>this</w>
+    <w>class</w>
+    <w>action</w>
+    <w>context</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>there</w>
+    <w>is</w>
+    <w>pending</w>
+    <w>legislation</w>
+    <w>today</w>
+    <w>to</w>
+    <w>that</w>
+    <w>effect</w>
+    <pause symbolic-length="simple"/>
+    <w>Congress</w>
+    <w>is</w>
+    <w>free</w>
+    <w>to</w>
+    <w>do</w>
+    <w>so</w>
+    <t type="p"></t>
+    <media
+      start="2114.985"
+      end="2125.239"
+      unit="s"
+    />
+  </u>
+  <u who="SCAL" uID="u354">
+    <w>And</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>if</w>
+    <w>Congress</w>
+    <w>wants</w>
+    <w>to</w>
+    <w>be</w>
+    <w>more</w>
+    <w>offensive</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>presumably</w>
+    <w>can</w>
+    <t type="p"></t>
+    <media
+      start="2125.239"
+      end="2129.194"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="UNKN" uID="u355">
+    <e><action/></e>
+    <e><happening>laughter</happening></e>
+    <t type="p"></t>
+    <media
+      start="2129.194"
+      end="2130.024"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u356">
+    <w>I</w>
+    <w>wouldn't</w>
+    <w>speak</w>
+    <w>to</w>
+    <w>the</w>
+    <w>propensity</w>
+    <w>of</w>
+    <w>Congress</w>
+    <w>in</w>
+    <w>those</w>
+    <w>circumstances</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>they</w>
+    <w>could</w>
+    <w>also</w>
+    <w>amend</w>
+    <w>the</w>
+    <w>Anti-Injunction</w>
+    <w>Act</w>
+    <w>to</w>
+    <w>also</w>
+    <w>change</w>
+    <w>the</w>
+    <w>balance</w>
+    <w>of</w>
+    <w>power</w>
+    <w>between</w>
+    <w>State</w>
+    <w>courts</w>
+    <w>and</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <t type="p"></t>
+    <media
+      start="2130.024"
+      end="2140.474"
+      unit="s"
+    />
+  </u>
+  <u who="BEDER" uID="u357">
+    <w>We</w>
+    <w>take</w>
+    <w>no</w>
+    <w>issue</w>
+    <w>with</w>
+    <w>that</w>
+    <t type="p"></t>
+    <media
+      start="2140.474"
+      end="2142.580"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BEDER" uID="u358">
+    <w>Your</w>
+    <w>Honors</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>unless</w>
+    <w>there</w>
+    <w>are</w>
+    <w>any</w>
+    <w>further</w>
+    <w>questions</w>
+    <t type="p"></t>
+    <media
+      start="2142.580"
+      end="2146.308"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u359">
+    <w>Thank</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Bederman</w>
+    <t type="p"></t>
+    <media
+      start="2146.308"
+      end="2148.035"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="REHN" uID="u360">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>have</w>
+    <g><w>seven</w><ga type="explanation">7</ga></g>
+    <w>minutes</w>
+    <w>remaining</w>
+    <t type="p"></t>
+    <media
+      start="2148.035"
+      end="2154.713"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">REBUTTAL ARGUMENT OF HENRY B. ALSOBROOK, JR. ON BEHALF OF THE PETITIONERS</comment>
+  <u who="ALSOB" uID="u361">
+    <w>Excuse</w>
+    <w>me</w>
+    <t type="p"></t>
+    <media
+      start="2154.713"
+      end="2162.311"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u362">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>may</w>
+    <w>it</w>
+    <w>please</w>
+    <w>the</w>
+    <w>Court</w>
+    <s type="colon"/>
+    <t type="interruption"></t>
+    <media
+      start="2162.311"
+      end="2164.468"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u363">
+    <w>I</w>
+    <w>think</w>
+    <w>Justice</w>
+    <w>Breyer</w>
+    <w>was</w>
+    <w>correct</w>
+    <w>when</w>
+    <w>he</w>
+    <w>pointed</w>
+    <w>out</w>
+    <w>that</w>
+    <w>the</w>
+    <w>stipulation</w>
+    <w>that</w>
+    <w>was</w>
+    <w>entered</w>
+    <w>into</w>
+    <w>is</w>
+    <w>really</w>
+    <w>not</w>
+    <w>ambiguous</w>
+    <t type="p"></t>
+    <media
+      start="2164.468"
+      end="2176.482"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u364">
+    <w>The</w>
+    <w>Eleventh</w>
+    <t type="interruption"></t>
+    <media
+      start="2176.482"
+      end="2179.416"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u365">
+    <w>That's</w>
+    <w>not</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>that's</w>
+    <w>before</w>
+    <w>us</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><overlap-point start-end="start" top-bottom="top"/>
+    <w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="2179.416"
+      end="2182.795"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u366">
+    <linker type="self completion"/>
+    <w>All</w>
+    <w>right</w>
+    <t type="p"></t>
+    <media
+      start="2182.795"
+      end="2183.004"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u367">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>whether</w>
+    <w>or</w>
+    <w>not</w>
+    <w>you</w>
+    <w>might</w>
+    <w>be</w>
+    <w>entitled</w>
+    <w>to</w>
+    <w>an</w>
+    <w>injunction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>should</w>
+    <w>you</w>
+    <w>seek</w>
+    <w>one</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>is</w>
+    <w>presented</w>
+    <w>by</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>your</w>
+    <w>question</w>
+    <t type="p"></t>
+    <media
+      start="2183.004"
+      end="2190.562"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u368">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>sir</w>
+    <t type="p"></t>
+    <media
+      start="2190.562"
+      end="2191.951"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u369">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>would</w>
+    <w>say</w>
+    <w>that</w>
+    <w>at</w>
+    <w>the</w>
+    <w>time</w>
+    <w>that</w>
+    <w>we</w>
+    <w>removed</w>
+    <w>this</w>
+    <w>also</w>
+    <w>we</w>
+    <w>relied</w>
+    <w>on</w>
+    <g><w>N_A_A_C_P</w><ga type="explanation">NAACP</ga></g>
+    <g><w>I_I</w><ga type="explanation">II</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>there</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>said</w>
+    <w>that</w>
+    <w>if</w>
+    <w>there</w>
+    <w>are</w>
+    <w>two</w>
+    <w>alternatives</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>they</w>
+    <w>also</w>
+    <w>pointed</w>
+    <w>out</w>
+    <w>a</w>
+    <w>footnote</w>
+    <g><w>three</w><ga type="explanation">3</ga></g>
+    <w>in</w>
+    <w>the</w>
+    <w>Kikkonen</w>
+    <w>case</w>
+    <w>which</w>
+    <w>said</w>
+    <w>that</w>
+    <w>an</w>
+    <w>injunction</w>
+    <w>could</w>
+    <w>be</w>
+    <w>issued</w>
+    <w>where</w>
+    <w>there</w>
+    <w>are</w>
+    <w>two</w>
+    <w>alternatives</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>you</w>
+    <w>can</w>
+    <w>choose</w>
+    <w>between</w>
+    <w>one</w>
+    <w>or</w>
+    <w>the</w>
+    <w>other</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <w>the</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <t type="interruption"></t>
+    <media
+      start="2191.951"
+      end="2222.670"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u370">
+    <w>Anti-Injunction</w>
+    <w>Act</w>
+    <w>does</w>
+    <w>not</w>
+    <w>preclude</w>
+    <w>the</w>
+    <w>remedy</w>
+    <w>under</w>
+    <w>the</w>
+    <w>All</w>
+    <w>Writs</w>
+    <w>Act</w>
+    <t type="p"></t>
+    <media
+      start="2222.670"
+      end="2230.193"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u371">
+    <w>So</w>
+    <w>we</w>
+    <w>realize</w>
+    <w>that</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>is</w>
+    <w>not</w>
+    <w>a</w>
+    <w>legislative</w>
+    <w>body</w>
+    <w>and</w>
+    <w>that</w>
+    <w>it</w>
+    <w>has</w>
+    <w>been</w>
+    <w>brought</w>
+    <w>out</w>
+    <w>here</w>
+    <w>that</w>
+    <w>Congress</w>
+    <w>is</w>
+    <w>the</w>
+    <w>one</w>
+    <w>that</w>
+    <w>can</w>
+    <pause symbolic-length="simple"/>
+    <w>can</w>
+    <w>dictate</w>
+    <w>the</w>
+    <w>jurisdictional</w>
+    <w>bounds</w>
+    <w>of</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <t type="p"></t>
+    <media
+      start="2230.193"
+      end="2254.710"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u372">
+    <w>But</w>
+    <w>by</w>
+    <w>the</w>
+    <w>same</w>
+    <w>token</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>have</w>
+    <w>a</w>
+    <w>great</w>
+    <w>number</w>
+    <w>of</w>
+    <w>class</w>
+    <w>action</w>
+    <w>settlements</w>
+    <w>that</w>
+    <w>are</w>
+    <w>pending</w>
+    <w>in</w>
+    <w>this</w>
+    <w>country</w>
+    <w>that</w>
+    <w>have</w>
+    <w>been</w>
+    <w>already</w>
+    <w>consummated</w>
+    <w>in</w>
+    <w>this</w>
+    <w>country</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>we</w>
+    <w>face</w>
+    <w>a</w>
+    <w>situation</w>
+    <w>where</w>
+    <w>the</w>
+    <w>settling</w>
+    <w>party</w>
+    <w>who</w>
+    <w>has</w>
+    <w>settled</w>
+    <w>a</w>
+    <w>national</w>
+    <w>class</w>
+    <w>action</w>
+    <w>must</w>
+    <w>have</w>
+    <w>some</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>remedy</w>
+    <w>to</w>
+    <w>stop</w>
+    <w>suits</w>
+    <w>in</w>
+    <w>State</w>
+    <w>courts</w>
+    <w>that</w>
+    <w>attempt</w>
+    <w>to</w>
+    <w>thwart</w>
+    <w>that</w>
+    <w>class</w>
+    <w>action</w>
+    <w>settlement</w>
+    <t type="p"></t>
+    <media
+      start="2254.710"
+      end="2290.302"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u373">
+    <w>And</w>
+    <w>so</w>
+    <w>we</w>
+    <w>would</w>
+    <w>ask</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>to</w>
+    <w>consider</w>
+    <w>that</w>
+    <w>in</w>
+    <w>its</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>its</w>
+    <w>deliberations</w>
+    <t type="p"></t>
+    <media
+      start="2290.302"
+      end="2297.572"
+      unit="s"
+    />
+  </u>
+  <lazy-gem label="---"/>
+  <u who="ALSOB" uID="u374">
+    <w>If</w>
+    <w>there</w>
+    <w>any</w>
+    <w>further</w>
+    <w>questions</w>
+    <t type="q"></t>
+    <media
+      start="2297.572"
+      end="2299.625"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u375">
+    <w>Thank</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Alsobrook</w>
+    <t type="p"></t>
+    <media
+      start="2299.625"
+      end="2301.293"
+      unit="s"
+    />
+  </u>
+  <u who="ALSOB" uID="u376">
+    <w>Thank</w>
+    <overlap-point start-end="start" top-bottom="top"/>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor<overlap-point start-end="end" top-bottom="top"/></w>
+    <t type="p"></t>
+    <media
+      start="2301.293"
+      end="2302.292"
+      unit="s"
+    />
+  </u>
+  <u who="REHN" uID="u377">
+    <w>The</w>
+    <w>case</w>
+    <w>is</w>
+    <w>submitted</w>
+    <t type="p"></t>
+    <media
+      start="2302.292"
+      end="2303.446"
+      unit="s"
+    />
+  </u>
+  <comment type="Generic">(Whereupon, at 10:43 a.m., the case in the above-entitled matter was submitted.)</comment>
+</CHAT>

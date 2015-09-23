@@ -1,0 +1,9396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd"
+      Media="00-121" Mediatypes="audio unlinked"
+      PID="11312/t-00007829-1"
+      Version="2.0.2"
+      Lang="eng"
+      Options="caps"
+      Corpus="SCOTUS"
+      Id="00-121"
+      Date="2001-03-26">
+  <Participants>
+    <participant
+      id="BREY"
+    name="STEPHEN_G_BREYER"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="CONN"
+    name="SANDRA_DAY_O&apos;CONNOR"
+      role="Justice"
+      language="eng"
+      sex="female"
+
+    />
+    <participant
+      id="GINS"
+    name="RUTH_BADER_GINSBURG"
+      role="Justice"
+      language="eng"
+      sex="female"
+
+    />
+    <participant
+      id="KENN"
+    name="ANTHONY_M_KENNEDY"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="REHN"
+    name="WILLIAM_H_REHNQUIST"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="SCAL"
+    name="ANTONIN_SCALIA"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="SOUT"
+    name="DAVID_H_SOUTER"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="STEV"
+    name="JOHN_PAUL_STEVENS"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="THOM"
+    name="CLARENCE_THOMAS"
+      role="Justice"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="UNKN"
+    name="Unidentified_Justice"
+      role="Unidentified"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="BANSA"
+    name="PREETA_D_BANSAL"
+      role="Attorney"
+      language="eng"
+      sex="male"
+
+    />
+    <participant
+      id="LOEWE"
+    name="DEBORAH_W_LOEWENBERG"
+      role="Attorney"
+      language="eng"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">26-MAR-2001</comment>
+  <comment type="Generic">$LastChangedDate: 2012-07-23 15:46:05 -0400 (Mon, 23 Jul 2012) $</comment>
+  <comment type="Generic">GEORGE DUNCAN, SUPERINTENDENT, GREAT MEADOW CORRECTIONAL FACILITY, Petitioner v. SHERMAN WALKER.</comment>
+  <comment type="Generic">No. 00-121</comment>
+  <comment type="Generic">March 26, 2001, Monday, Washington, D.C.</comment>
+  <comment type="Generic">The above-entitled matter came on for oral argument before the Supreme Court of the United States as 11:05 a.m.</comment>
+  <comment type="Generic">OPINION: PROCEEDINGS</comment>
+  <comment type="Generic">(11:05 a.m.)</comment>
+  <u who="REHN" uID="u0">
+    <w>We'll</w>
+    <w>hear</w>
+    <w>argument</w>
+    <w>next</w>
+    <w>in</w>
+    <w>Number</w>
+    <g><w>oh</w>
+    <w>oh</w>
+    <w>one</w>
+    <w>twenty-one</w><ga type="explanation">00-121</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>George</w>
+    <w>Duncan</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Sherman</w>
+    <w>Walker</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="REHN" uID="u1">
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Bansal</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">ORAL ARGUMENT OF PREETA D. BANSAL ON BEHALF OF PETITIONER</comment>
+  <u who="BANSA" uID="u2">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>may</w>
+    <w>it</w>
+    <w>please</w>
+    <w>the</w>
+    <w>Court</w>
+    <s type="colon"/>
+    <t type="interruption"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u3">
+    <w>At</w>
+    <w>issue</w>
+    <w>in</w>
+    <w>the</w>
+    <w>case</w>
+    <w>is</w>
+    <w>the</w>
+    <w>meaning</w>
+    <w>and</w>
+    <w>scope</w>
+    <w>of</w>
+    <w>the</w>
+    <w>tolling</w>
+    <w>provision</w>
+    <w>applicable</w>
+    <w>to</w>
+    <w>the</w>
+    <w>one-year</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>for</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>cases</w>
+    <w>enacted</w>
+    <w>by</w>
+    <w>Congress</w>
+    <w>in</w>
+    <g><w>nineteen</w>
+    <w>ninety-six</w><ga type="explanation">1996</ga></g>
+    <w>as</w>
+    <w>part</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Anti-Terrorism</w>
+    <w>and</w>
+    <w>Effective</w>
+    <w>Death</w>
+    <w>Penalty</w>
+    <w>Act</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <g><w>A_E_D_P_A</w><ga type="explanation">AEDPA</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u4">
+    <w>The</w>
+    <w>tolling</w>
+    <w>provision</w>
+    <w>states</w>
+    <w>that</w>
+    <w>in</w>
+    <w>calculating</w>
+    <w>the</w>
+    <w>one-year</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>period</w>
+    <w>during</w>
+    <w>which</w>
+    <w>a</w>
+    <w>properly</w>
+    <w>filed</w>
+    <w>application</w>
+    <w>for</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>or</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>shall</w>
+    <w>not</w>
+    <w>be</w>
+    <w>counted</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u5">
+    <w>The</w>
+    <w>court</w>
+    <w>below</w>
+    <w>held</w>
+    <w>that</w>
+    <w>a</w>
+    <w>prior</w>
+    <w>filed</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <w>dismissed</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <w>and</w>
+    <w>without</w>
+    <w>adjudication</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <w>constituted</w>
+    <w>an</w>
+    <w>application</w>
+    <w>for</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>or</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u6">
+    <w>We</w>
+    <w>contend</w>
+    <w>that</w>
+    <w>the</w>
+    <w>language</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>provision</w>
+    <w>in</w>
+    <w>particular</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>statute</w>
+    <w>as</w>
+    <w>a</w>
+    <w>whole</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>policies</w>
+    <w>underlying</w>
+    <g><w>A_E_D_P_A</w><ga type="explanation">AEDPA</ga></g>
+    <w>make</w>
+    <w>the</w>
+    <w>Second</w>
+    <w>Circuit's</w>
+    <w>ruling</w>
+    <w>erroneous</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u7">
+    <w>First</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>particular</w>
+    <w>provision</w>
+    <w>at</w>
+    <w>issue</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>is</w>
+    <w>notable</w>
+    <w>that</w>
+    <w>the</w>
+    <w>only</w>
+    <w>sovereign</w>
+    <w>entity</w>
+    <w>mentioned</w>
+    <w>in</w>
+    <w>the</w>
+    <w>phrase</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>or</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>is</w>
+    <w>state</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u8">
+    <w>In</w>
+    <w>a</w>
+    <w>universe</w>
+    <w>in</w>
+    <w>which</w>
+    <w>the</w>
+    <w>only</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>relevant</w>
+    <w>universe</w>
+    <w>being</w>
+    <w>state</w>
+    <w>or</w>
+    <w>Federal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>is</w>
+    <w>absolutely</w>
+    <w>bizarre</w>
+    <w>for</w>
+    <w>Congress</w>
+    <w>to</w>
+    <w>have</w>
+    <w>suggested</w>
+    <w>that</w>
+    <w>Federal</w>
+    <w>should</w>
+    <w>be</w>
+    <w>incorporated</w>
+    <w>by</w>
+    <w>the</w>
+    <w>word</w>
+    <w>other</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u9">
+    <w>To</w>
+    <w>hold</w>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>equivalent</w>
+    <w>to</w>
+    <w>saying</w>
+    <w>that</w>
+    <w>Congress</w>
+    <w>could</w>
+    <w>enact</w>
+    <w>a</w>
+    <w>statute</w>
+    <w>saying</w>
+    <w>red</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>white</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>other</w>
+    <w>colors</w>
+    <w>of</w>
+    <w>the</w>
+    <w>flag</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u10">
+    <w>When</w>
+    <w>universe</w>
+    <w>is</w>
+    <w>state</w>
+    <w>and</w>
+    <w>Federal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>simply</w>
+    <w>illogical</w>
+    <w>to</w>
+    <w>assume</w>
+    <w>that</w>
+    <w>state</w>
+    <w>or</w>
+    <w>other</w>
+    <w>could</w>
+    <w>stand</w>
+    <w>for</w>
+    <w>state</w>
+    <w>or</w>
+    <w>Federal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u11">
+    <w>In</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>other</w>
+    <w>parts</w>
+    <w>of</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u12">
+    <w>Wait</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u13">
+    <w>They</w>
+    <w>don't</w>
+    <w>really</w>
+    <w>contend</w>
+    <w>that</w>
+    <w>it</w>
+    <w>stands</w>
+    <w>for</w>
+    <w>state</w>
+    <w>and</w>
+    <w>Federal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u14">
+    <w>I</w>
+    <w>think</w>
+    <w>the</w>
+    <w>concede</w>
+    <w>that</w>
+    <w>it</w>
+    <w>also</w>
+    <w>stands</w>
+    <w>for</w>
+    <w>other</w>
+    <w>state</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>that</w>
+    <w>is</w>
+    <w>not</w>
+    <w>post-conviction</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u15">
+    <w>I</w>
+    <w>think</w>
+    <w>they</w>
+    <w>concede</w>
+    <w>that</w>
+    <w>in</w>
+    <w>a</w>
+    <w>civil</w>
+    <w>commitment</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>example</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>which</w>
+    <w>a</w>
+    <w>habeas</w>
+    <w>action</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>state</w>
+    <w>habeas</w>
+    <w>action</w>
+    <w>is</w>
+    <w>brought</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>covered</w>
+    <w>by</w>
+    <w>the</w>
+    <w>other</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u16">
+    <linker type="self completion"/>
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>believe</w>
+    <w>that's</w>
+    <w>correct</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u17">
+    <w>But</w>
+    <w>in</w>
+    <w>other</w>
+    <w>parts</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>same</w>
+    <w>provision</w>
+    <w>of</w>
+    <w>this</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Congress</w>
+    <w>specifically</w>
+    <w>stated</w>
+    <w>state</w>
+    <w>and</w>
+    <w>Federal</w>
+    <w>or</w>
+    <w>state</w>
+    <w>or</w>
+    <w>Federal</w>
+    <w>when</w>
+    <w>it</w>
+    <w>meant</w>
+    <w>to</w>
+    <w>include</w>
+    <w>both</w>
+    <w>of</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u18">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>logically</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>could</w>
+    <w>mean</w>
+    <w>either</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u19">
+    <w>I</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>think</w>
+    <w>it</w>
+    <w>doesn't</w>
+    <w>say</w>
+    <w>what</w>
+    <w>it</w>
+    <w>means</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u20">
+    <w>It's</w>
+    <w>a</w>
+    <w>state</w>
+    <w>post-trial</w>
+    <w>or</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u21">
+    <w>Other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>could</w>
+    <w>be</w>
+    <w>read</w>
+    <w>to</w>
+    <w>mean</w>
+    <w>of</w>
+    <w>the</w>
+    <w>state</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>it</w>
+    <w>could</w>
+    <w>be</w>
+    <w>read</w>
+    <w>to</w>
+    <w>mean</w>
+    <w>any</w>
+    <w>of</w>
+    <w>them</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u22">
+    <w>How</w>
+    <w>do</w>
+    <w>I</w>
+    <w>get</w>
+    <w>anywhere</w>
+    <w>with</w>
+    <w>the</w>
+    <w>language</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u23">
+    <w>I'm</w>
+    <w>not</w>
+    <w>saying</w>
+    <w>you</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>other</w>
+    <w>arguments</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>just</w>
+    <w>that</w>
+    <w>the</w>
+    <w>language</w>
+    <w>itself</w>
+    <w>seems</w>
+    <w>totally</w>
+    <w>ambiguous</w>
+    <w>as</w>
+    <w>to</w>
+    <w>which</w>
+    <w>it</w>
+    <w>means</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u24">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <w>if</w>
+    <w>you</w>
+    <w>look</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>a</w>
+    <w>statute</w>
+    <w>such</w>
+    <w>as</w>
+    <g><w>A_E_D_P_A</w><ga type="explanation">AEDPA</ga></g>
+    <w>and</w>
+    <w>the</w>
+    <w>habeas</w>
+    <w>realm</w>
+    <w>in</w>
+    <w>particular</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>you're</w>
+    <w>talking</w>
+    <pause symbolic-length="simple"/>
+    <w>Congress</w>
+    <w>was</w>
+    <w>so</w>
+    <w>concerned</w>
+    <w>about</w>
+    <w>delineating</w>
+    <w>specifically</w>
+    <w>the</w>
+    <w>roles</w>
+    <w>of</w>
+    <w>the</w>
+    <w>state</w>
+    <w>and</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u25">
+    <w>In</w>
+    <w>our</w>
+    <w>reading</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>simply</w>
+    <w>illogical</w>
+    <w>that</w>
+    <w>Congress</w>
+    <w>would</w>
+    <w>have</w>
+    <w>specified</w>
+    <w>state</w>
+    <w>only</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u26">
+    <w>In</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>under</w>
+    <w>the</w>
+    <w>Respondent's</w>
+    <w>reading</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>the</w>
+    <w>Second</w>
+    <w>Circuit's</w>
+    <w>reading</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there's</w>
+    <w>no</w>
+    <w>reason</w>
+    <w>whatsoever</w>
+    <w>for</w>
+    <w>state</w>
+    <w>to</w>
+    <w>even</w>
+    <w>be</w>
+    <w>mentioned</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u27">
+    <w>And</w>
+    <w>of</w>
+    <w>all</w>
+    <w>the</w>
+    <w>words</w>
+    <w>to</w>
+    <w>try</w>
+    <w>and</w>
+    <w>make</w>
+    <w>superfluous</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>state</w>
+    <w>is</w>
+    <w>a</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u28">
+    <w>It's</w>
+    <w>an</w>
+    <w>example</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u29">
+    <w>Go</w>
+    <w>buy</w>
+    <w>some</w>
+    <w>walnut</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>mocha</w>
+    <w>or</w>
+    <w>other</w>
+    <w>chocolate</w>
+    <w>cookies</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u30">
+    <w>You</w>
+    <w>know</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u31">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>doesn't</w>
+    <w>mean</w>
+    <w>other</w>
+    <w>walnut</w>
+    <w>chocolate</w>
+    <w>cookies</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u32">
+    <w>I</w>
+    <w>guess</w>
+    <w>it</w>
+    <w>might</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u33">
+    <w>Sometimes</w>
+    <w>you</w>
+    <w>give</w>
+    <w>an</w>
+    <w>example</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u34">
+    <w>The</w>
+    <w>most</w>
+    <w>obvious</w>
+    <w>example</w>
+    <w>is</w>
+    <w>state</w>
+    <w>post-trial</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u35">
+    <w>That's</w>
+    <w>primarily</w>
+    <w>what</w>
+    <w>happens</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u36">
+    <linker type="self completion"/>
+    <w>If</w>
+    <w>you</w>
+    <w>look</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u37">
+    <w>They</w>
+    <w>mean</w>
+    <w>to</w>
+    <w>throw</w>
+    <w>in</w>
+    <w>the</w>
+    <w>others</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>too</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u38">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>you</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <w>provision</w>
+    <w>at</w>
+    <w>issue</w>
+    <w>in</w>
+    <w>the</w>
+    <w>context</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>as</w>
+    <w>a</w>
+    <w>whole</w>
+    <w>and</w>
+    <w>both</w>
+    <w>the</w>
+    <w>way</w>
+    <w>in</w>
+    <w>which</w>
+    <w>Congress</w>
+    <w>has</w>
+    <w>specified</w>
+    <w>other</w>
+    <pause symbolic-length="simple"/>
+    <w>how</w>
+    <w>they're</w>
+    <w>viewed</w>
+    <w>in</w>
+    <g><w>twenty-two</w>
+    <w>sixty-three</w>
+    <w formType="letter">b</w><ga type="explanation">2263(b)</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>example</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>is</w>
+    <w>the</w>
+    <w>capital</w>
+    <w>tolling</w>
+    <w>provision</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Congress</w>
+    <w>specifically</w>
+    <w>stated</w>
+    <w>there</w>
+    <w>that</w>
+    <w>state</w>
+    <w>or</w>
+    <w>post-conviction</w>
+    <w>and</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>state</w>
+    <w>court</w>
+    <w>proceedings</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u39">
+    <w>Why</w>
+    <w>didn't</w>
+    <w>it</w>
+    <w>use</w>
+    <w>the</w>
+    <w>same</w>
+    <w>language</w>
+    <w>here</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>that</w>
+    <w>made</w>
+    <w>it</w>
+    <w>clearer</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>don't</w>
+    <w>you</w>
+    <w>think</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>state</w>
+    <w>opt-in</w>
+    <w>provisions</w>
+    <w>in</w>
+    <w>capital</w>
+    <w>cases</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u40">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>capital</w>
+    <w>case</w>
+    <w>language</w>
+    <w>is</w>
+    <w>clearer</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>from</w>
+    <w>our</w>
+    <w>perspective</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <w>preferable</w>
+    <w>if</w>
+    <w>Congress</w>
+    <w>had</w>
+    <w>used</w>
+    <w>the</w>
+    <w>same</w>
+    <w>language</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u41">
+    <w>There's</w>
+    <w>no</w>
+    <w>doubt</w>
+    <w>that</w>
+    <w>that</w>
+    <w>is</w>
+    <w>clearer</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u42">
+    <w>But</w>
+    <w>the</w>
+    <w>better</w>
+    <w>reading</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>more</w>
+    <w>natural</w>
+    <w>reading</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>the</w>
+    <w>language</w>
+    <w>at</w>
+    <w>issue</w>
+    <w>here</w>
+    <w>especially</w>
+    <w>in</w>
+    <w>the</w>
+    <w>context</w>
+    <w>of</w>
+    <w>the</w>
+    <w>policies</w>
+    <w>underlying</w>
+    <g><w>A_E_D_P_A</w><ga type="explanation">AEDPA</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>believe</w>
+    <w>is</w>
+    <w>consistent</w>
+    <w>with</w>
+    <w>the</w>
+    <w>manner</w>
+    <w>in</w>
+    <w>which</w>
+    <w>Congress</w>
+    <w>wrote</w>
+    <w>the</w>
+    <w>tolling</w>
+    <w>provision</w>
+    <w>for</w>
+    <w>capital</w>
+    <w>cases</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u43">
+    <w>All</w>
+    <w>right</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u44">
+    <w>The</w>
+    <w>obvious</w>
+    <w>thing</w>
+    <w>on</w>
+    <w>policy</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>since</w>
+    <w>you're</w>
+    <w>going</w>
+    <w>to</w>
+    <w>get</w>
+    <w>to</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>obviously</w>
+    <w>in</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <w>the</w>
+    <w>exhaustion</w>
+    <w>requirement</w>
+    <w>is</w>
+    <w>specified</w>
+    <w>as</w>
+    <w>not</w>
+    <w>setting</w>
+    <w>of</w>
+    <w>any</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>a</w>
+    <w>trap</w>
+    <w>for</w>
+    <w>the</w>
+    <w>prisoner</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u45">
+    <w>That</w>
+    <w>is</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he</w>
+    <w>has</w>
+    <w>to</w>
+    <w>go</w>
+    <w>exhaust</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>it's</w>
+    <w>not</w>
+    <w>supposed</w>
+    <w>to</w>
+    <w>muck</w>
+    <w>around</w>
+    <w>with</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u46">
+    <w>So</w>
+    <w>if</w>
+    <w>you</w>
+    <w>win</w>
+    <w>this</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>will</w>
+    <w>be</w>
+    <w>a</w>
+    <w>certain</w>
+    <w>number</w>
+    <w>of</w>
+    <w>cases</w>
+    <w>in</w>
+    <w>which</w>
+    <w>a</w>
+    <w>person</w>
+    <w>thinking</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>these</w>
+    <w>people</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>the</w>
+    <w>law</w>
+    <w>that</w>
+    <w>well</w>
+    <pause symbolic-length="simple"/>
+    <w>they</w>
+    <w>file</w>
+    <w>a</w>
+    <w>petition</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>sits</w>
+    <w>around</w>
+    <w>there</w>
+    <w>for</w>
+    <w>several</w>
+    <w>months</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>they</w>
+    <w>discover</w>
+    <w>an</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u47">
+    <w>Then</w>
+    <w>he</w>
+    <w>has</w>
+    <w>to</w>
+    <w>go</w>
+    <w>file</w>
+    <w>it</w>
+    <w>in</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>by</w>
+    <w>the</w>
+    <w>time</w>
+    <w>they</w>
+    <w>dispose</w>
+    <w>of</w>
+    <w>that</w>
+    <w>saying</w>
+    <w>you're</w>
+    <w>too</w>
+    <w>late</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he's</w>
+    <w>now</w>
+    <w>out</w>
+    <w>of</w>
+    <w>time</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <w>he's</w>
+    <w>never</w>
+    <w>gotten</w>
+    <w>his</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <w>heard</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u48">
+    <w>So</w>
+    <w>it</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>that</w>
+    <w>that</w>
+    <w>policy</w>
+    <w>cuts</w>
+    <w>against</w>
+    <w>you</w>
+    <w>quite</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>me</w>
+    <w>fairly</w>
+    <w>strongly</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>I</w>
+    <w>want</w>
+    <w>to</w>
+    <w>hear</w>
+    <w>what</w>
+    <w>you</w>
+    <w>have</w>
+    <w>to</w>
+    <w>say</w>
+    <w>about</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u49">
+    <w>I</w>
+    <w>think</w>
+    <w>generally</w>
+    <w>Congress</w>
+    <w>and</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>enacts</w>
+    <w>procedural</w>
+    <w>rules</w>
+    <w>with</w>
+    <w>the</w>
+    <w>understanding</w>
+    <w>that</w>
+    <w>litigants</w>
+    <w>will</w>
+    <w>be</w>
+    <w>able</w>
+    <w>to</w>
+    <w>conform</w>
+    <w>their</w>
+    <w>behavior</w>
+    <w>to</w>
+    <w>those</w>
+    <w>rules</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u50">
+    <w>Certainly</w>
+    <w>throughout</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>habeas</w>
+    <w>jurisprudence</w>
+    <w>in</w>
+    <w>particular</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>example</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>even</w>
+    <w>in</w>
+    <w>McClesky</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Zant</w>
+    <w>where</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>laid</w>
+    <w>down</w>
+    <w>certain</w>
+    <w>rules</w>
+    <w>in</w>
+    <w>respect</w>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>certain</w>
+    <w>standards</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>successive</w>
+    <w>petitions</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u51">
+    <w>There</w>
+    <w>is</w>
+    <w>no</w>
+    <w>doubt</w>
+    <w>that</w>
+    <w>certain</w>
+    <w>pro</w>
+    <w>se</w>
+    <w>habeas</w>
+    <w>petitioners</w>
+    <w>might</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>after</w>
+    <w>McClesky</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>have</w>
+    <w>been</w>
+    <w>denied</w>
+    <w>a</w>
+    <w>bite</w>
+    <w>of</w>
+    <w>the</w>
+    <w>apple</w>
+    <w>of</w>
+    <w>meritorious</w>
+    <w>claims</w>
+    <w>because</w>
+    <w>they</w>
+    <w>weren't</w>
+    <w>included</w>
+    <w>in</w>
+    <w>their</w>
+    <w>first</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u52">
+    <w>There</w>
+    <w>is</w>
+    <w>no</w>
+    <w>reason</w>
+    <w>to</w>
+    <w>assume</w>
+    <w>that</w>
+    <w>habeas</w>
+    <w>petitioners</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>after</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>announces</w>
+    <w>a</w>
+    <w>rule</w>
+    <w>here</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>will</w>
+    <w>not</w>
+    <w>be</w>
+    <w>able</w>
+    <w>to</w>
+    <w>err</w>
+    <w>on</w>
+    <w>the</w>
+    <w>side</w>
+    <w>of</w>
+    <w>exhaustion</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>is</w>
+    <w>especially</w>
+    <w>what</w>
+    <w>Congress</w>
+    <w>intended</w>
+    <w>when</w>
+    <w>it</w>
+    <w>enacted</w>
+    <g><w>A_E_D_P_A</w><ga type="explanation">AEDPA</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u53">
+    <w>In</w>
+    <w>addition</w>
+    <w>to</w>
+    <w>enacting</w>
+    <w>a</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Congress</w>
+    <w>enacted</w>
+    <w>a</w>
+    <w>number</w>
+    <w>of</w>
+    <w>provisions</w>
+    <w>designed</w>
+    <w>to</w>
+    <w>enhance</w>
+    <w>and</w>
+    <w>strengthen</w>
+    <w>the</w>
+    <w>exhaustion</w>
+    <w>requirement</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u54">
+    <w>I</w>
+    <w>was</w>
+    <w>looking</w>
+    <w>for</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>see</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>have</w>
+    <w>explained</w>
+    <w>to</w>
+    <w>me</w>
+    <w>perfectly</w>
+    <w>well</w>
+    <w>why</w>
+    <w>the</w>
+    <w>policy</w>
+    <w>I</w>
+    <w>mentioned</w>
+    <w>maybe</w>
+    <w>isn't</w>
+    <w>that</w>
+    <w>important</w>
+    <w>or</w>
+    <w>too</w>
+    <w>bad</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>it's</w>
+    <w>not</w>
+    <w>determinative</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u55">
+    <w>But</w>
+    <w>my</w>
+    <w>question</w>
+    <w>to</w>
+    <w>you</w>
+    <w>was</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>the</w>
+    <w>language</w>
+    <w>is</w>
+    <w>totally</w>
+    <w>open</w>
+    <w>and</w>
+    <w>ambiguous</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>there</w>
+    <w>is</w>
+    <w>the</w>
+    <w>policy</w>
+    <w>that</w>
+    <w>I</w>
+    <w>said</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>even</w>
+    <w>if</w>
+    <w>it's</w>
+    <w>weak</w>
+    <w>in</w>
+    <w>your</w>
+    <w>opinion</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>let's</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>policy</w>
+    <w>cuts</w>
+    <w>the</w>
+    <w>other</w>
+    <w>way</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u56">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>two</w>
+    <w>policies</w>
+    <w>that</w>
+    <w>underlie</w>
+    <g><w>A_E_D_P_A</w><ga type="explanation">AEDPA</ga></g>
+    <w>and</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>in</w>
+    <w>particular</w>
+    <w>are</w>
+    <w>finality</w>
+    <w>and</w>
+    <w>comity</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u57">
+    <w>Finality</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>recognized</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>especially</w>
+    <w>an</w>
+    <w>important</w>
+    <w>policy</w>
+    <w>when</w>
+    <w>you're</w>
+    <w>talking</w>
+    <w>about</w>
+    <w>state</w>
+    <w>court</w>
+    <w>convictions</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u58">
+    <w>On</w>
+    <w>the</w>
+    <w>other</w>
+    <w>hand</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Congress</w>
+    <w>was</w>
+    <w>also</w>
+    <w>concerned</w>
+    <w>about</w>
+    <w>comity</w>
+    <w>and</w>
+    <w>ensuring</w>
+    <w>proper</w>
+    <w>respect</w>
+    <w>for</w>
+    <w>state</w>
+    <w>court</w>
+    <w>proceedings</w>
+    <w>and</w>
+    <w>allowing</w>
+    <w>state</w>
+    <w>courts</w>
+    <w>the</w>
+    <w>first</w>
+    <w>bite</w>
+    <w>of</w>
+    <w>the</w>
+    <w>apple</w>
+    <w>of</w>
+    <w>correcting</w>
+    <w>constitutional</w>
+    <w>errors</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u59">
+    <w>To</w>
+    <w>toll</w>
+    <w>for</w>
+    <w>the</w>
+    <w>pendency</w>
+    <w>of</w>
+    <w>a</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>or</w>
+    <w>collateral</w>
+    <w>proceeding</w>
+    <w>makes</w>
+    <w>eminent</w>
+    <w>sense</w>
+    <w>in</w>
+    <w>context</w>
+    <w>of</w>
+    <w>the</w>
+    <w>scheme</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>it</w>
+    <w>furthers</w>
+    <w>the</w>
+    <w>purpose</w>
+    <w>of</w>
+    <w>finality</w>
+    <w>by</w>
+    <w>limiting</w>
+    <w>the</w>
+    <w>period</w>
+    <w>during</w>
+    <w>which</w>
+    <w>they</w>
+    <w>can</w>
+    <w>file</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>it</w>
+    <w>also</w>
+    <w>furthers</w>
+    <w>the</w>
+    <w>concern</w>
+    <w>for</w>
+    <w>comity</w>
+    <w>by</w>
+    <w>encouraging</w>
+    <w>litigants</w>
+    <w>to</w>
+    <w>go</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <w>in</w>
+    <w>the</w>
+    <w>first</w>
+    <w>instance</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u60">
+    <w>To</w>
+    <w>toll</w>
+    <w>for</w>
+    <w>Federal</w>
+    <w>petitions</w>
+    <w>would</w>
+    <w>undercut</w>
+    <w>the</w>
+    <w>finality</w>
+    <w>goal</w>
+    <w>without</w>
+    <w>concomitantly</w>
+    <w>furthering</w>
+    <w>the</w>
+    <w>comity</w>
+    <w>goal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>was</w>
+    <w>a</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u61">
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Bansal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>is</w>
+    <w>though</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>one</w>
+    <w>for</w>
+    <w>interest</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>which</w>
+    <w>Congress</w>
+    <w>took</w>
+    <w>away</w>
+    <w>their</w>
+    <w>priorities</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u62">
+    <w>There</w>
+    <w>used</w>
+    <w>to</w>
+    <w>be</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>who</w>
+    <w>have</w>
+    <w>got</w>
+    <w>to</w>
+    <w>hear</w>
+    <w>this</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>case</w>
+    <w>first</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>put</w>
+    <w>it</w>
+    <w>at</w>
+    <w>the</w>
+    <w>top</w>
+    <w>of</w>
+    <w>the</w>
+    <w>list</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u63">
+    <w>If</w>
+    <w>we</w>
+    <w>were</w>
+    <w>to</w>
+    <w>adopt</w>
+    <w>a</w>
+    <w>position</w>
+    <w>that</w>
+    <w>you</w>
+    <w>are</w>
+    <w>taking</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>would</w>
+    <w>be</w>
+    <w>creating</w>
+    <w>a</w>
+    <w>priority</w>
+    <w>because</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>would</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>my</w>
+    <w>goodness</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>better</w>
+    <w>take</w>
+    <w>care</w>
+    <w>of</w>
+    <w>this</w>
+    <w>because</w>
+    <w>if</w>
+    <w>there's</w>
+    <w>an</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <w>in</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we've</w>
+    <w>got</w>
+    <w>to</w>
+    <w>make</w>
+    <w>sure</w>
+    <w>that</w>
+    <w>this</w>
+    <w>pro</w>
+    <w>se</w>
+    <w>petitioner</w>
+    <w>gets</w>
+    <w>back</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <w>before</w>
+    <w>the</w>
+    <w>clock</w>
+    <w>runs</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="UNKN" uID="u64">
+    <w>So</w>
+    <w>you</w>
+    <w>are</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>effect</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>creating</w>
+    <w>a</w>
+    <w>priority</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>to</w>
+    <w>put</w>
+    <w>these</w>
+    <w>prisoners'</w>
+    <w>petitions</w>
+    <w>at</w>
+    <w>the</w>
+    <w>very</w>
+    <w>top</w>
+    <w>of</w>
+    <w>the</w>
+    <w>list</w>
+    <w>of</w>
+    <w>the</w>
+    <w>business</w>
+    <w>that</w>
+    <w>they</w>
+    <w>do</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u65">
+    <linker type="self completion"/>
+    <w>It's</w>
+    <w>quite</w>
+    <w>possible</w>
+    <w>that</w>
+    <w>the</w>
+    <w>courts</w>
+    <w>of</w>
+    <w>appeals</w>
+    <w>and</w>
+    <w>the</w>
+    <w>district</w>
+    <w>courts</w>
+    <w>will</w>
+    <w>choose</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>order</w>
+    <w>to</w>
+    <w>implement</w>
+    <w>the</w>
+    <w>rule</w>
+    <w>that</w>
+    <w>Congress</w>
+    <w>has</w>
+    <w>enacted</w>
+    <w>here</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>pursue</w>
+    <w>that</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>line</w>
+    <pause symbolic-length="simple"/>
+    <w>to</w>
+    <w>give</w>
+    <w>priority</w>
+    <w>to</w>
+    <w>these</w>
+    <w>cases</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>even</w>
+    <w>instruct</w>
+    <w>district</w>
+    <w>court</w>
+    <w>judges</w>
+    <w>that</w>
+    <w>that's</w>
+    <w>the</w>
+    <w>way</w>
+    <w>they</w>
+    <w>should</w>
+    <w>proceed</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u66">
+    <w>And</w>
+    <w>that</w>
+    <w>doesn't</w>
+    <w>strike</w>
+    <w>you</w>
+    <w>as</w>
+    <w>odd</w>
+    <w>when</w>
+    <w>once</w>
+    <w>we</w>
+    <w>had</w>
+    <w>a</w>
+    <w>whole</w>
+    <w>list</w>
+    <w>of</w>
+    <w>statutory</w>
+    <w>priorities</w>
+    <w>in</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>then</w>
+    <w>Congress</w>
+    <w>decided</w>
+    <w>it</w>
+    <w>didn't</w>
+    <w>want</w>
+    <w>to</w>
+    <w>do</w>
+    <w>that</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u67">
+    <w>It</w>
+    <w>didn't</w>
+    <w>want</w>
+    <w>to</w>
+    <w>set</w>
+    <w>the</w>
+    <w>agenda</w>
+    <w>for</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u68">
+    <w>To</w>
+    <w>me</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>not</w>
+    <w>inconsistent</w>
+    <w>at</w>
+    <w>all</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u69">
+    <w>In</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>consistent</w>
+    <w>because</w>
+    <w>part</w>
+    <w>of</w>
+    <w>what</w>
+    <w>Congress</w>
+    <w>was</w>
+    <pause symbolic-length="simple"/>
+    <w>part</w>
+    <w>of</w>
+    <w>what</w>
+    <pause symbolic-length="simple"/>
+    <w>habeas</w>
+    <w>jurisprudence</w>
+    <w>in</w>
+    <w>general</w>
+    <w>has</w>
+    <w>been</w>
+    <w>the</w>
+    <w>interaction</w>
+    <w>and</w>
+    <w>the</w>
+    <w>intersection</w>
+    <w>between</w>
+    <w>Congressional</w>
+    <w>enactment</w>
+    <w>and</w>
+    <w>judicially</w>
+    <w>crafted</w>
+    <w>rule</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u70">
+    <w>And</w>
+    <w>insofar</w>
+    <w>as</w>
+    <w>Congress</w>
+    <w>has</w>
+    <w>now</w>
+    <w>left</w>
+    <w>it</w>
+    <w>open</w>
+    <w>to</w>
+    <w>the</w>
+    <w>judiciary</w>
+    <w>to</w>
+    <w>implement</w>
+    <w>and</w>
+    <w>apply</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>in</w>
+    <w>individual</w>
+    <w>cases</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>that's</w>
+    <w>consistent</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u71">
+    <w>It</w>
+    <w>would</w>
+    <w>be</w>
+    <w>appropriate</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>do</w>
+    <w>you</w>
+    <w>agree</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <pause symbolic-length="simple"/>
+    <w>say</w>
+    <w>you</w>
+    <w>prevail</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>have</w>
+    <w>to</w>
+    <w>take</w>
+    <w>these</w>
+    <w>prisoners'</w>
+    <w>petitions</w>
+    <w>first</w>
+    <w>thing</w>
+    <w>to</w>
+    <w>make</w>
+    <w>sure</w>
+    <w>that</w>
+    <w>if</w>
+    <w>there</w>
+    <w>is</w>
+    <w>something</w>
+    <w>to</w>
+    <w>be</w>
+    <w>exhausted</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>get</w>
+    <w>back</w>
+    <w>before</w>
+    <w>the</w>
+    <w>clock</w>
+    <w>runs</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u72">
+    <w>But</w>
+    <w>that</w>
+    <w>would</w>
+    <w>be</w>
+    <w>appropriate</w>
+    <w>in</w>
+    <w>our</w>
+    <w>view</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u73">
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Bansal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>may</w>
+    <w>I</w>
+    <w>ask</w>
+    <w>you</w>
+    <w>a</w>
+    <w>question</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u74">
+    <w>If</w>
+    <w>I</w>
+    <w>remember</w>
+    <w>the</w>
+    <w>situation</w>
+    <w>correctly</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>was</w>
+    <w>sort</w>
+    <w>of</w>
+    <w>a</w>
+    <w>nonstatutory</w>
+    <w>one-year</w>
+    <w>period</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>that</w>
+    <w>courts</w>
+    <w>of</w>
+    <w>appeals</w>
+    <w>crafted</w>
+    <w>for</w>
+    <w>the</w>
+    <w>one</w>
+    <w>year</w>
+    <w>after</w>
+    <w>the</w>
+    <w>enactment</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>that</w>
+    <w>wasn't</w>
+    <w>actually</w>
+    <w>provided</w>
+    <w>for</w>
+    <w>by</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u75">
+    <w>I'm</w>
+    <w>just</w>
+    <w>wondering</w>
+    <w>if</w>
+    <w>you'd</w>
+    <w>comment</w>
+    <w>on</w>
+    <w>the</w>
+    <w>suggestion</w>
+    <w>that</w>
+    <w>even</w>
+    <w>if</w>
+    <w>your</w>
+    <w>reading</w>
+    <w>of</w>
+    <w>this</w>
+    <w>particular</w>
+    <w>provision</w>
+    <w>is</w>
+    <w>correct</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>would</w>
+    <w>it</w>
+    <w>be</w>
+    <w>conceivable</w>
+    <w>that</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <w>relying</w>
+    <w>on</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>but</w>
+    <w>just</w>
+    <w>general</w>
+    <w>equitable</w>
+    <w>principles</w>
+    <w>of</w>
+    <w>tolling</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>might</w>
+    <w>be</w>
+    <w>able</w>
+    <w>to</w>
+    <w>address</w>
+    <w>the</w>
+    <w>hypothetical</w>
+    <w>that</w>
+    <w>Justice</w>
+    <w>Breyer</w>
+    <w>is</w>
+    <w>concerned</w>
+    <w>about</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u76">
+    <w>I</w>
+    <w>think</w>
+    <w>that</w>
+    <w>is</w>
+    <w>correct</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>there</w>
+    <w>are</w>
+    <w>general</w>
+    <w>equitable</w>
+    <w>principles</w>
+    <w>that</w>
+    <w>a</w>
+    <w>lower</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>could</w>
+    <w>adopt</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>would</w>
+    <w>add</w>
+    <w>that</w>
+    <w>the</w>
+    <w>circumstances</w>
+    <w>under</w>
+    <w>which</w>
+    <w>that</w>
+    <w>power</w>
+    <w>might</w>
+    <w>be</w>
+    <w>exercised</w>
+    <w>are</w>
+    <w>extremely</w>
+    <w>circumscribed</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u77">
+    <w>At</w>
+    <w>least</w>
+    <w>eight</w>
+    <w>courts</w>
+    <w>of</w>
+    <w>appeals</w>
+    <w>so</w>
+    <w>far</w>
+    <w>have</w>
+    <w>found</w>
+    <w>an</w>
+    <w>equitable</w>
+    <w>tolling</w>
+    <w>basis</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>the</w>
+    <w>habeas</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>one-year</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u78">
+    <w>And</w>
+    <w>the</w>
+    <w>types</w>
+    <w>of</w>
+    <w>conditions</w>
+    <w>that</w>
+    <w>they've</w>
+    <w>looked</w>
+    <w>to</w>
+    <w>is</w>
+    <w>first</w>
+    <w>the</w>
+    <w>delay</w>
+    <w>during</w>
+    <w>which</w>
+    <w>the</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <w>was</w>
+    <w>brought</w>
+    <w>had</w>
+    <w>to</w>
+    <w>have</w>
+    <w>been</w>
+    <w>for</w>
+    <w>circumstances</w>
+    <w>entirely</w>
+    <w>outside</w>
+    <w>of</w>
+    <w>the</w>
+    <w>petitioner's</w>
+    <w>control</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u79">
+    <w>And</w>
+    <w>secondly</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>petitioner</w>
+    <w>had</w>
+    <w>to</w>
+    <w>have</w>
+    <w>acted</w>
+    <w>diligently</w>
+    <w>without</w>
+    <w>that</w>
+    <w>period</w>
+    <w>of</w>
+    <w>delay</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u80">
+    <w>And</w>
+    <w>some</w>
+    <w>courts</w>
+    <pause symbolic-length="simple"/>
+    <w>one</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>at</w>
+    <w>least</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>addition</w>
+    <w>has</w>
+    <w>added</w>
+    <w>a</w>
+    <w>potentially</w>
+    <w>meritorious</w>
+    <w>requirement</w>
+    <w>to</w>
+    <w>actually</w>
+    <w>reaching</w>
+    <w>out</w>
+    <w>and</w>
+    <w>addressing</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u81">
+    <w>I</w>
+    <w>think</w>
+    <w>that</w>
+    <w>it's</w>
+    <w>not</w>
+    <w>enough</w>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>we</w>
+    <w>would</w>
+    <w>contend</w>
+    <w>that</w>
+    <w>it</w>
+    <w>would</w>
+    <w>not</w>
+    <w>simply</w>
+    <w>be</w>
+    <w>enough</w>
+    <w>that</w>
+    <w>a</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <w>would</w>
+    <w>have</w>
+    <w>brought</w>
+    <w>mixed</w>
+    <w>petition</w>
+    <w>in</w>
+    <w>which</w>
+    <w>there</w>
+    <w>were</w>
+    <w>clearly</w>
+    <w>unexhausted</w>
+    <w>claims</w>
+    <w>and</w>
+    <w>had</w>
+    <w>that</w>
+    <w>sit</w>
+    <w>on</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court's</w>
+    <w>docket</w>
+    <w>for</w>
+    <w>about</w>
+    <w>thirteen</w>
+    <w>months</w>
+    <w>before</w>
+    <w>being</w>
+    <w>dismissed</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u82">
+    <w>That</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>our</w>
+    <w>view</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>would</w>
+    <w>not</w>
+    <w>be</w>
+    <w>enough</w>
+    <w>to</w>
+    <w>make</w>
+    <w>it</w>
+    <w>clearly</w>
+    <w>outside</w>
+    <w>of</w>
+    <w>the</w>
+    <w>petitioner's</w>
+    <w>control</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>that</w>
+    <w>delay</w>
+    <w>occurred</w>
+    <w>because</w>
+    <w>if</w>
+    <w>there</w>
+    <w>was</w>
+    <w>no</w>
+    <w>serious</w>
+    <w>question</w>
+    <w>as</w>
+    <w>to</w>
+    <w>the</w>
+    <w>exhaustion</w>
+    <w>status</w>
+    <w>of</w>
+    <w>the</w>
+    <w>claims</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>that's</w>
+    <w>something</w>
+    <w>that</w>
+    <w>the</w>
+    <w>petitioner</w>
+    <w>could</w>
+    <w>have</w>
+    <w>filed</w>
+    <w>properly</w>
+    <w>after</w>
+    <w>exhaustion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u83">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>if</w>
+    <w>you're</w>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>on</w>
+    <w>your</w>
+    <w>reading</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>unless</w>
+    <w>the</w>
+    <w>prisoner</w>
+    <w>is</w>
+    <w>a</w>
+    <w>legal</w>
+    <w>genius</w>
+    <w>which</w>
+    <w>you'd</w>
+    <w>have</w>
+    <w>to</w>
+    <w>be</w>
+    <w>in</w>
+    <w>this</w>
+    <w>area</w>
+    <pause symbolic-length="simple"/>
+    <w>he's</w>
+    <w>had</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>he'll</w>
+    <w>never</w>
+    <w>get</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>filed</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u84">
+    <w>With</w>
+    <w>all</w>
+    <w>respect</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>believe</w>
+    <w>that's</w>
+    <w>incorrect</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u85">
+    <w>Because</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u86">
+    <w>The</w>
+    <w>habeas</w>
+    <w>petitioners</w>
+    <w>will</w>
+    <w>just</w>
+    <w>be</w>
+    <w>informed</w>
+    <w>that</w>
+    <w>they</w>
+    <w>must</w>
+    <w>err</w>
+    <w>on</w>
+    <w>the</w>
+    <w>side</w>
+    <w>of</w>
+    <w>going</w>
+    <w>to</w>
+    <w>state</w>
+    <w>court</w>
+    <w>first</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u87">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>not</w>
+    <w>that</w>
+    <w>different</w>
+    <w>from</w>
+    <w>what</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>said</w>
+    <w>with</w>
+    <w>regard</w>
+    <w>to</w>
+    <w>successive</w>
+    <w>petitions</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u88">
+    <w>Oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u89">
+    <w>They'll</w>
+    <w>go</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <w>first</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u90">
+    <w>They'll</w>
+    <w>all</w>
+    <w>go</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u91">
+    <w>See</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>what'll</w>
+    <w>happen</w>
+    <w>is</w>
+    <w>they'll</w>
+    <w>end</w>
+    <w>up</w>
+    <w>finished</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u92">
+    <w>Then</w>
+    <w>they'll</w>
+    <w>go</w>
+    <w>into</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u93">
+    <w>Then</w>
+    <w>lo</w>
+    <w>and</w>
+    <w>behold</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>an</w>
+    <w>idea</w>
+    <w>will</w>
+    <w>strike</w>
+    <w>one</w>
+    <w>of</w>
+    <w>them</w>
+    <w>that</w>
+    <w>he</w>
+    <w>hadn't</w>
+    <w>had</w>
+    <w>before</w>
+    <w>and</w>
+    <w>he'll</w>
+    <w>stick</w>
+    <w>it</w>
+    <w>in</w>
+    <w>his</w>
+    <w>petition</w>
+    <w>and</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>lo</w>
+    <w>and</w>
+    <w>behold</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>will</w>
+    <w>be</w>
+    <w>held</w>
+    <w>by</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>judge</w>
+    <w>after</w>
+    <w>several</w>
+    <w>months</w>
+    <w>of</w>
+    <w>looking</w>
+    <w>at</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>it</w>
+    <w>has</w>
+    <w>an</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <w>in</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u94">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>these</w>
+    <w>people</w>
+    <w>are</w>
+    <w>not</w>
+    <w>all</w>
+    <w>represented</w>
+    <w>all</w>
+    <w>the</w>
+    <w>time</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <w>could</w>
+    <w>happen</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>couldn't</w>
+    <w>it</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u95">
+    <w>It</w>
+    <w>could</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>under</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>could</w>
+    <w>happen</w>
+    <w>at</w>
+    <w>that</w>
+    <w>point</w>
+    <w>is</w>
+    <w>that</w>
+    <w>after</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>determines</w>
+    <w>that</w>
+    <w>it's</w>
+    <w>a</w>
+    <w>mixed</w>
+    <w>petition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>habeas</w>
+    <w>petitioner</w>
+    <w>would</w>
+    <w>have</w>
+    <w>the</w>
+    <w>option</w>
+    <w>of</w>
+    <w>deleting</w>
+    <w>the</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <w>for</w>
+    <w>purposes</w>
+    <w>of</w>
+    <w>getting</w>
+    <w>the</w>
+    <w>petition</w>
+    <w>heard</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u96">
+    <w>So</w>
+    <w>we</w>
+    <w>contend</w>
+    <w>that</w>
+    <w>the</w>
+    <w>difficult</w>
+    <w>hypothetical</w>
+    <w>that</w>
+    <w>your</w>
+    <w>positing</w>
+    <w>is</w>
+    <w>really</w>
+    <pause symbolic-length="simple"/>
+    <w>it's</w>
+    <w>simply</w>
+    <w>premature</w>
+    <w>and</w>
+    <w>probably</w>
+    <w>unlikely</w>
+    <w>that</w>
+    <w>it</w>
+    <w>will</w>
+    <w>come</w>
+    <w>to</w>
+    <w>fruition</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u97">
+    <w>I</w>
+    <w>get</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>claims</w>
+    <w>they</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>couldn't</w>
+    <w>really</w>
+    <w>make</w>
+    <w>this</w>
+    <w>before</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u98">
+    <w>You</w>
+    <w>see</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>had</w>
+    <w>a</w>
+    <w>black-out</w>
+    <w>about</w>
+    <w>what</w>
+    <w>happened</w>
+    <w>during</w>
+    <w>the</w>
+    <w>trial</w>
+    <w>with</w>
+    <w>a</w>
+    <w>certain</w>
+    <w>period</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u99">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>exaggerating</w>
+    <w>with</w>
+    <w>that</w>
+    <w>one</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>certainly</w>
+    <w>it's</w>
+    <w>not</w>
+    <w>new</w>
+    <w>to</w>
+    <w>you</w>
+    <w>or</w>
+    <w>to</w>
+    <w>me</w>
+    <w>that</w>
+    <w>prisoners</w>
+    <w>allege</w>
+    <w>something</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>they</w>
+    <w>say</w>
+    <w>we</w>
+    <w>couldn't</w>
+    <w>have</w>
+    <w>known</w>
+    <w>it</w>
+    <w>before</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u100">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>that</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>statute</w>
+    <w>would</w>
+    <w>allow</w>
+    <w>for</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u101">
+    <g><w>twenty-two</w>
+    <w>forty-four</w>
+    <w formType="letter">b</w>
+    <w>one</w><ga type="explanation">2244(b)(1)</ga></g>
+    <w>has</w>
+    <w>certain</w>
+    <w>other</w>
+    <w>exceptions</w>
+    <w>that</w>
+    <w>allow</w>
+    <w>for</w>
+    <w>the</w>
+    <w>tolling</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <w>to</w>
+    <w>speak</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u102">
+    <w>And</w>
+    <w>even</w>
+    <w>if</w>
+    <w>not</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>take</w>
+    <w>it</w>
+    <w>the</w>
+    <w>way</w>
+    <w>it</w>
+    <w>works</w>
+    <w>is</w>
+    <w>that</w>
+    <w>when</w>
+    <w>it</w>
+    <w>goes</w>
+    <w>back</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>the</w>
+    <w>tolling</w>
+    <w>commences</w>
+    <w>during</w>
+    <w>the</w>
+    <w>time</w>
+    <w>it</w>
+    <w>is</w>
+    <w>in</w>
+    <w>state</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u103">
+    <w>That's</w>
+    <w>correct</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u104">
+    <w>I</w>
+    <w>would</w>
+    <w>just</w>
+    <w>like</w>
+    <w>to</w>
+    <w>add</w>
+    <w>that</w>
+    <w>in</w>
+    <pause symbolic-length="simple"/>
+    <w>it's</w>
+    <w>often</w>
+    <w>common</w>
+    <w>for</w>
+    <w>this</w>
+    <w>Court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>both</w>
+    <w>in</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>context</w>
+    <w>and</w>
+    <w>the</w>
+    <w>habeas</w>
+    <w>context</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>read</w>
+    <w>the</w>
+    <w>plain</w>
+    <w>words</w>
+    <w>that</w>
+    <w>Congress</w>
+    <w>intended</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>to</w>
+    <w>fashion</w>
+    <w>a</w>
+    <w>rule</w>
+    <w>that's</w>
+    <w>clean</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u105">
+    <w>The</w>
+    <w>subsequent</w>
+    <w>applications</w>
+    <w>of</w>
+    <w>that</w>
+    <w>can</w>
+    <w>be</w>
+    <w>worked</w>
+    <w>out</w>
+    <w>as</w>
+    <w>time</w>
+    <w>goes</w>
+    <w>on</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>as</w>
+    <w>experience</w>
+    <w>with</w>
+    <w>the</w>
+    <w>effects</w>
+    <w>of</w>
+    <w>the</w>
+    <w>rule</w>
+    <w>become</w>
+    <w>known</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u106">
+    <w>In</w>
+    <w>a</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>context</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>just</w>
+    <w>last</w>
+    <w>year</w>
+    <w>in</w>
+    <w>the</w>
+    <w>context</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Clayton</w>
+    <w>Act</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>Rotella</w>
+    <w>case</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u107">
+    <w>And</w>
+    <w>also</w>
+    <w>three</w>
+    <w>years</w>
+    <w>ago</w>
+    <w>in</w>
+    <w>the</w>
+    <g><w>R_I_C_O</w><ga type="explanation">RICO</ga></g>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>Claire</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>Court</w>
+    <w>held</w>
+    <w>strictly</w>
+    <w>what</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>required</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>it</w>
+    <w>subsequently</w>
+    <w>said</w>
+    <w>that</w>
+    <w>we</w>
+    <w>will</w>
+    <w>work</w>
+    <w>out</w>
+    <w>the</w>
+    <w>equitable</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>let</w>
+    <w>the</w>
+    <w>issues</w>
+    <w>percolate</w>
+    <w>through</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>and</w>
+    <w>we</w>
+    <w>will</w>
+    <w>determine</w>
+    <w>what</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>any</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>equitable</w>
+    <w>discretion</w>
+    <w>is</w>
+    <w>retained</w>
+    <w>by</w>
+    <w>the</w>
+    <w>courts</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u108">
+    <w>In</w>
+    <w>the</w>
+    <w>habeas</w>
+    <w>context</w>
+    <w>as</w>
+    <w>well</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u109">
+    <w>In</w>
+    <w>Wainwright</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Sykes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>example</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>announced</w>
+    <w>the</w>
+    <w>cause</w>
+    <w>and</w>
+    <w>prejudice</w>
+    <w>rule</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>Court</w>
+    <w>specifically</w>
+    <w>said</w>
+    <w>that</w>
+    <w>we</w>
+    <w>will</w>
+    <w>give</w>
+    <w>content</w>
+    <w>to</w>
+    <w>those</w>
+    <w>terms</w>
+    <w>and</w>
+    <w>as</w>
+    <w>time</w>
+    <w>evolves</w>
+    <pause symbolic-length="simple"/>
+    <w>certainly</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>habeas</w>
+    <w>jurisprudence</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>it's</w>
+    <w>appropriate</w>
+    <w>that</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>read</w>
+    <w>the</w>
+    <w>language</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>we</w>
+    <w>believe</w>
+    <w>the</w>
+    <w>provision</w>
+    <w>itself</w>
+    <w>states</w>
+    <w>that</w>
+    <w>it's</w>
+    <w>consistent</w>
+    <w>with</w>
+    <w>a</w>
+    <w>statute</w>
+    <w>as</w>
+    <w>a</w>
+    <w>whole</w>
+    <w>and</w>
+    <w>subsequently</w>
+    <w>let</w>
+    <w>the</w>
+    <w>equitable</w>
+    <w>applications</w>
+    <w>of</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>if</w>
+    <w>there</w>
+    <w>are</w>
+    <w>concerns</w>
+    <w>about</w>
+    <w>the</w>
+    <w>difficult</w>
+    <w>hypothetical</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>work</w>
+    <w>themselves</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u110">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>why</w>
+    <w>doesn't</w>
+    <w>this</w>
+    <w>case</w>
+    <w>fit</w>
+    <w>into</w>
+    <w>an</w>
+    <w>equitable</w>
+    <w>application</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u111">
+    <w>Because</w>
+    <w>he</w>
+    <w>took</w>
+    <w>a</w>
+    <w>long</w>
+    <w>time</w>
+    <w>to</w>
+    <w>file</w>
+    <w>his</w>
+    <w>state</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="BANSA" uID="u112">
+    <w>This</w>
+    <w>case</w>
+    <w>isn't</w>
+    <w>even</w>
+    <w>close</w>
+    <w>to</w>
+    <w>an</w>
+    <w>equitable</w>
+    <w>application</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u113">
+    <w>He</w>
+    <w>filed</w>
+    <pause symbolic-length="simple"/>
+    <w>first</w>
+    <w>of</w>
+    <w>all</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>held</w>
+    <w>onto</w>
+    <w>his</w>
+    <w>petition</w>
+    <w>for</w>
+    <w>a</w>
+    <w>mere</w>
+    <w>three</w>
+    <w>months</w>
+    <w>before</w>
+    <w>dismissing</w>
+    <w>it</w>
+    <pause symbolic-length="simple"/>
+    <w>his</w>
+    <w>first</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u114">
+    <w>He</w>
+    <w>still</w>
+    <w>would</w>
+    <w>have</w>
+    <w>had</w>
+    <w>nearly</w>
+    <w>ten</w>
+    <w>months</w>
+    <w>after</w>
+    <w>that</w>
+    <w>to</w>
+    <w>file</w>
+    <w>a</w>
+    <w>timely</w>
+    <w>petition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>amend</w>
+    <w>his</w>
+    <w>petition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>delete</w>
+    <w>the</w>
+    <w>unexhausted</w>
+    <w>claims</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>whatever</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u115">
+    <w>He</w>
+    <w>didn't</w>
+    <w>do</w>
+    <w>any</w>
+    <w>of</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u116">
+    <w>He</w>
+    <w>didn't</w>
+    <w>go</w>
+    <w>back</w>
+    <w>to</w>
+    <w>state</w>
+    <w>court</w>
+    <w>during</w>
+    <w>that</w>
+    <w>time</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u117">
+    <w>He</w>
+    <w>had</w>
+    <w>an</w>
+    <w>entire</w>
+    <w>ten</w>
+    <w>months</w>
+    <w>in</w>
+    <w>which</w>
+    <w>to</w>
+    <w>act</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>instead</w>
+    <w>he</w>
+    <w>waited</w>
+    <w>nearly</w>
+    <w>eleven</w>
+    <w>months</w>
+    <w>and</w>
+    <w>then</w>
+    <w>filed</w>
+    <w>the</w>
+    <w>second</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u118">
+    <w>And</w>
+    <w>at</w>
+    <w>that</w>
+    <w>point</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>were</w>
+    <w>entirely</w>
+    <w>new</w>
+    <w>claims</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u119">
+    <w>There</w>
+    <w>weren't</w>
+    <w>even</w>
+    <w>the</w>
+    <w>same</w>
+    <w>claims</w>
+    <w>that</w>
+    <w>he</w>
+    <w>was</w>
+    <w>claiming</w>
+    <w>in</w>
+    <w>the</w>
+    <w>first</w>
+    <w>petition</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u120">
+    <linker type="self completion"/>
+    <w>So</w>
+    <w>your</w>
+    <w>basic</w>
+    <w>position</w>
+    <w>is</w>
+    <w>that</w>
+    <w>we</w>
+    <w>could</w>
+    <w>decide</w>
+    <w>this</w>
+    <w>case</w>
+    <w>and</w>
+    <w>leave</w>
+    <w>open</w>
+    <w>the</w>
+    <w>possibility</w>
+    <w>of</w>
+    <w>equitable</w>
+    <w>tolling</w>
+    <w>in</w>
+    <w>more</w>
+    <w>meritorious</w>
+    <w>cases</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u121">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>correct</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u122">
+    <w>But</w>
+    <w>we</w>
+    <w>also</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>consistent</w>
+    <w>with</w>
+    <w>the</w>
+    <w>way</w>
+    <w>the</w>
+    <w>courts</w>
+    <w>of</w>
+    <w>appeals</w>
+    <w>have</w>
+    <w>applied</w>
+    <w>the</w>
+    <w>equitable</w>
+    <w>tolling</w>
+    <w>doctrine</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>should</w>
+    <w>be</w>
+    <w>if</w>
+    <w>there</w>
+    <w>is</w>
+    <w>one</w>
+    <w>at</w>
+    <w>all</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>we</w>
+    <w>think</w>
+    <w>there</w>
+    <w>is</w>
+    <w>a</w>
+    <w>substantial</w>
+    <w>argument</w>
+    <w>that</w>
+    <w>it</w>
+    <w>may</w>
+    <w>not</w>
+    <w>be</w>
+    <w>appropriate</w>
+    <w>in</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>if</w>
+    <w>there</w>
+    <w>is</w>
+    <w>one</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>it</w>
+    <w>would</w>
+    <w>be</w>
+    <w>reserved</w>
+    <w>for</w>
+    <w>the</w>
+    <w>extremely</w>
+    <w>rare</w>
+    <w>and</w>
+    <w>extraordinary</w>
+    <w>cases</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u123">
+    <w>Would</w>
+    <w>this</w>
+    <w>judge</w>
+    <w>have</w>
+    <w>had</w>
+    <w>the</w>
+    <w>option</w>
+    <w>to</w>
+    <w>give</w>
+    <w>the</w>
+    <w>prisoner</w>
+    <w>leave</w>
+    <w>to</w>
+    <w>amend</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u124">
+    <w>I</w>
+    <w>believe</w>
+    <pause symbolic-length="simple"/>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he</w>
+    <w>dismissed</w>
+    <w>it</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>particular</w>
+    <w>judge</w>
+    <w>did</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>it</w>
+    <w>was</w>
+    <w>unclear</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>was</w>
+    <w>a</w>
+    <w>pleading</w>
+    <w>defect</w>
+    <w>as</w>
+    <w>opposed</w>
+    <w>to</w>
+    <w>a</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <w>dismissal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u125">
+    <w>He</w>
+    <w>said</w>
+    <w>it</w>
+    <w>was</w>
+    <w>unclear</w>
+    <w>from</w>
+    <w>the</w>
+    <w>face</w>
+    <w>of</w>
+    <w>the</w>
+    <w>pleadings</w>
+    <w>whether</w>
+    <w>or</w>
+    <w>not</w>
+    <w>the</w>
+    <w>claims</w>
+    <w>had</w>
+    <w>been</w>
+    <w>exhausted</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u126">
+    <w>I</w>
+    <w>see</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u127">
+    <w>So</w>
+    <w>the</w>
+    <w>petitioner</w>
+    <w>here</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <w>able</w>
+    <w>to</w>
+    <w>replead</w>
+    <w>within</w>
+    <w>the</w>
+    <w>applicable</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u128">
+    <w>Suppose</w>
+    <w>there</w>
+    <w>were</w>
+    <w>only</w>
+    <w>one</w>
+    <w>week</w>
+    <w>left</w>
+    <w>in</w>
+    <w>the</w>
+    <w>year</w>
+    <w>period</w>
+    <w>and</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>was</w>
+    <w>concerned</w>
+    <w>about</w>
+    <w>the</w>
+    <w>fact</w>
+    <w>the</w>
+    <w>prisoner</w>
+    <w>couldn't</w>
+    <w>get</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u129">
+    <w>Could</w>
+    <w>he</w>
+    <w>have</w>
+    <w>said</w>
+    <w>I'm</w>
+    <w>going</w>
+    <w>to</w>
+    <w>dismiss</w>
+    <w>the</w>
+    <w>complaint</w>
+    <w>unless</w>
+    <w>you</w>
+    <w>amend</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I'll</w>
+    <w>give</w>
+    <w>you</w>
+    <w>five</w>
+    <w>weeks</w>
+    <w>to</w>
+    <w>amend</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u130">
+    <w>Does</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>have</w>
+    <w>that</w>
+    <w>authority</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u131">
+    <w>If</w>
+    <w>it's</w>
+    <w>a</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <w>situation</w>
+    <w>where</w>
+    <w>there</w>
+    <w>are</w>
+    <w>some</w>
+    <w>unexhausted</w>
+    <w>claims</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u132">
+    <w>Yes</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u133">
+    <linker type="self completion"/>
+    <w>We</w>
+    <w>believe</w>
+    <w>under</w>
+    <w>this</w>
+    <w>Court's</w>
+    <w>holding</w>
+    <w>in</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <w>there</w>
+    <w>isn't</w>
+    <w>that</w>
+    <w>discretion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u134">
+    <w>There</w>
+    <w>is</w>
+    <w>not</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u135">
+    <w>There</w>
+    <w>is</w>
+    <w>not</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u136">
+    <w>The</w>
+    <w>Court</w>
+    <w>says</w>
+    <w>that</w>
+    <w>it</w>
+    <w>must</w>
+    <w>dismiss</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u137">
+    <w>Because</w>
+    <w>of</w>
+    <w>the</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u138">
+    <linker type="self completion"/>
+    <w>Right</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u139">
+    <w>Unless</w>
+    <w>he</w>
+    <w>deletes</w>
+    <w>the</w>
+    <w>unexhausted</w>
+    <w>claims</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u140">
+    <w>Does</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>have</w>
+    <w>the</w>
+    <w>option</w>
+    <w>to</w>
+    <w>say</w>
+    <w>I'll</w>
+    <w>give</w>
+    <w>you</w>
+    <w>leave</w>
+    <pause symbolic-length="simple"/>
+    <w>but</w>
+    <w>before</w>
+    <w>it</w>
+    <w>dismisses</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'll</w>
+    <w>give</w>
+    <w>you</w>
+    <w>the</w>
+    <w>choice</w>
+    <w>of</w>
+    <w>deleting</w>
+    <w>the</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u141">
+    <w>It's</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>unclear</w>
+    <w>from</w>
+    <w>the</w>
+    <w>language</w>
+    <w>of</w>
+    <w>Rose</w>
+    <w>whether</w>
+    <w>that</w>
+    <pause symbolic-length="simple"/>
+    <w>how</w>
+    <w>that</w>
+    <w>exactly</w>
+    <w>works</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>think</w>
+    <w>that</w>
+    <w>is</w>
+    <w>the</w>
+    <w>way</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>practice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>way</w>
+    <w>district</w>
+    <w>courts</w>
+    <w>have</w>
+    <w>applied</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u142">
+    <w>There</w>
+    <w>are</w>
+    <w>no</w>
+    <w>further</w>
+    <w>questions</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u143">
+    <w>I'll</w>
+    <w>ask</w>
+    <w>one</w>
+    <w>question</w>
+    <pause symbolic-length="simple"/>
+    <w>which</w>
+    <w>you're</w>
+    <w>not</w>
+    <w>going</w>
+    <w>to</w>
+    <w>like</w>
+    <w>either</w>
+    <w>of</w>
+    <w>these</w>
+    <w>alternatives</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I'm</w>
+    <w>curious</w>
+    <w>to</w>
+    <w>know</w>
+    <w>which</w>
+    <w>of</w>
+    <w>these</w>
+    <w>two</w>
+    <w>alternatives</w>
+    <w>do</w>
+    <w>you</w>
+    <w>think</w>
+    <w>is</w>
+    <w>more</w>
+    <w>consistent</w>
+    <w>with</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u144">
+    <w>One</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>read</w>
+    <w>the</w>
+    <w>word</w>
+    <w>other</w>
+    <w>to</w>
+    <w>include</w>
+    <w>Federal</w>
+    <w>rather</w>
+    <w>than</w>
+    <w>state</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>two</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>read</w>
+    <w>it</w>
+    <w>to</w>
+    <w>include</w>
+    <w>state</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>assume</w>
+    <w>that</w>
+    <w>there</w>
+    <w>is</w>
+    <w>a</w>
+    <w>tolling</w>
+    <w>provision</w>
+    <w>that</w>
+    <w>would</w>
+    <w>permit</w>
+    <w>tolling</w>
+    <w>in</w>
+    <w>the</w>
+    <w>circumstance</w>
+    <w>for</w>
+    <w>the</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <w>leads</w>
+    <w>the</w>
+    <w>prisoner</w>
+    <w>to</w>
+    <w>go</w>
+    <w>back</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>there's</w>
+    <w>enough</w>
+    <w>tolling</w>
+    <w>there</w>
+    <w>to</w>
+    <w>make</w>
+    <w>him</w>
+    <w>whole</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>other</w>
+    <w>words</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u145">
+    <w>He</w>
+    <w>doesn't</w>
+    <w>lose</w>
+    <w>anything</w>
+    <w>for</w>
+    <w>having</w>
+    <pause symbolic-length="simple"/>
+    <w>which</w>
+    <w>of</w>
+    <w>those</w>
+    <w>two</w>
+    <w>approaches</w>
+    <w>is</w>
+    <w>the</w>
+    <w>more</w>
+    <w>consistent</w>
+    <w>with</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u146">
+    <w>The</w>
+    <w>whole</w>
+    <w>of</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>et</w>
+    <w>cetera</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u147">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>think</w>
+    <w>neither</w>
+    <w>is</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>as</w>
+    <w>between</w>
+    <w>the</w>
+    <w>two</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>probably</w>
+    <pause symbolic-length="simple"/>
+    <w>well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>not</w>
+    <w>sure</w>
+    <w>from</w>
+    <w>where</w>
+    <w>you</w>
+    <w>would</w>
+    <w>even</w>
+    <w>get</w>
+    <w>the</w>
+    <w>authority</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <w>the</w>
+    <w>second</w>
+    <w>approach</w>
+    <w>you</w>
+    <w>suggest</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u148">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>basis</w>
+    <w>would</w>
+    <w>there</w>
+    <w>be</w>
+    <w>for</w>
+    <w>tolling</w>
+    <w>for</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>mixed</w>
+    <w>petition</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u149">
+    <w>I</w>
+    <w>don't</w>
+    <pause symbolic-length="simple"/>
+    <w>with</w>
+    <w>the</w>
+    <w>exception</w>
+    <w>of</w>
+    <w>the</w>
+    <w>rare</w>
+    <w>circumstances</w>
+    <w>of</w>
+    <w>equitable</w>
+    <w>tolling</w>
+    <w>if</w>
+    <w>that</w>
+    <w>doctrine</w>
+    <w>was</w>
+    <w>even</w>
+    <w>found</w>
+    <w>to</w>
+    <w>apply</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>don't</w>
+    <w>know</w>
+    <w>where</w>
+    <w>you</w>
+    <w>would</w>
+    <w>find</w>
+    <w>the</w>
+    <w>authority</w>
+    <w>to</w>
+    <w>toll</w>
+    <w>for</w>
+    <w>Federal</w>
+    <w>petitions</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u150">
+    <w>Are</w>
+    <w>preserving</w>
+    <w>your</w>
+    <w>time</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Bansal</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u151">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>thank</w>
+    <w>you</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u152">
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Loewenberg</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we'll</w>
+    <w>hear</w>
+    <w>from</w>
+    <w>you</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">ORAL ARGUMENT OF DEBORAH W. LOEWENBERG ON BEHALF OF RESPONDENT</comment>
+  <u who="LOEWE" uID="u153">
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Chief</w>
+    <w>Justice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>may</w>
+    <w>it</w>
+    <w>please</w>
+    <w>the</w>
+    <w>Court</w>
+    <s type="colon"/>
+    <t type="interruption"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="LOEWE" uID="u154">
+    <w>This</w>
+    <w>is</w>
+    <w>essentially</w>
+    <w>respondent's</w>
+    <w>position</w>
+    <s type="colon"/>
+    <w>he</w>
+    <w>should</w>
+    <w>be</w>
+    <w>held</w>
+    <w>accountable</w>
+    <w>for</w>
+    <w>all</w>
+    <w>the</w>
+    <w>time</w>
+    <w>he</w>
+    <w>takes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>whatever</w>
+    <w>reason</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>before</w>
+    <w>he</w>
+    <w>files</w>
+    <w>an</w>
+    <w>application</w>
+    <w>in</w>
+    <w>the</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u155">
+    <w>Only</w>
+    <w>he</w>
+    <w>can</w>
+    <w>control</w>
+    <w>that</w>
+    <w>time</w>
+    <w>period</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u156">
+    <w>But</w>
+    <w>he</w>
+    <w>should</w>
+    <w>not</w>
+    <w>be</w>
+    <w>held</w>
+    <w>accountable</w>
+    <w>for</w>
+    <w>time</w>
+    <w>over</w>
+    <w>which</w>
+    <w>he</w>
+    <w>has</w>
+    <w>no</w>
+    <w>control</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>time</w>
+    <w>his</w>
+    <w>application</w>
+    <w>is</w>
+    <w>actually</w>
+    <w>pending</w>
+    <w>in</w>
+    <w>a</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u157">
+    <w>And</w>
+    <w>this</w>
+    <w>is</w>
+    <w>derived</w>
+    <w>from</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u158">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>respectfully</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>it</w>
+    <w>is</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u159">
+    <w>The</w>
+    <w>statute</w>
+    <w>uses</w>
+    <w>the</w>
+    <w>words</w>
+    <w>that</w>
+    <w>the</w>
+    <w>petitioner</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>state</w>
+    <w>petitioner</w>
+    <pause symbolic-length="simple"/>
+    <w>is</w>
+    <w>granted</w>
+    <w>the</w>
+    <w>benefit</w>
+    <w>of</w>
+    <w>tolling</w>
+    <w>during</w>
+    <w>the</w>
+    <w>period</w>
+    <w>that</w>
+    <w>his</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>or</w>
+    <w>other</w>
+    <w>collateral</w>
+    <pause symbolic-length="simple"/>
+    <w>his</w>
+    <w>application</w>
+    <w>for</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>or</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>relief</w>
+    <w>review</w>
+    <w>is</w>
+    <w>pending</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u160">
+    <w>It</w>
+    <w>does</w>
+    <w>not</w>
+    <w>say</w>
+    <w>before</w>
+    <w>a</w>
+    <w>state</w>
+    <w>court</w>
+    <w>as</w>
+    <w>the</w>
+    <w>statute</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>provision</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Ogden</w>
+    <w>statute</w>
+    <w>says</w>
+    <w>in</w>
+    <g><w>twenty-two</w>
+    <w>sixty-three</w>
+    <w formType="letter">b</w>
+    <w>two</w><ga type="explanation">2263(b)(2)</ga></g>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u161">
+    <w>It</w>
+    <w>says</w>
+    <w>simply</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>or</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u162">
+    <w>Of</w>
+    <w>course</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>is</w>
+    <w>only</w>
+    <w>one</w>
+    <w>noun</w>
+    <w>in</w>
+    <w>that</w>
+    <w>phrase</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u163">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>might</w>
+    <w>only</w>
+    <w>be</w>
+    <w>one</w>
+    <w>noun</w>
+    <w>in</w>
+    <w>that</w>
+    <w>phrase</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>the</w>
+    <w>word</w>
+    <w>review</w>
+    <w>is</w>
+    <w>implicit</w>
+    <w>after</w>
+    <w>state</w>
+    <w>post-convictions</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u164">
+    <w>But</w>
+    <w>I'm</w>
+    <w>not</w>
+    <w>sure</w>
+    <w>whether</w>
+    <w>you</w>
+    <w>are</w>
+    <w>making</w>
+    <w>the</w>
+    <w>same</w>
+    <w>argument</w>
+    <w>that</w>
+    <w>the</w>
+    <w>court</w>
+    <w>of</w>
+    <w>appeals</w>
+    <w>opinion</w>
+    <w>adopted</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>they</w>
+    <w>seem</w>
+    <w>to</w>
+    <w>feel</w>
+    <w>that</w>
+    <w>there</w>
+    <w>was</w>
+    <w>just</w>
+    <w>a</w>
+    <w>very</w>
+    <w>sharp</w>
+    <w>break</w>
+    <w>with</w>
+    <w>the</w>
+    <w>word</w>
+    <w>or</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u165">
+    <w>And</w>
+    <w>I</w>
+    <w>think</w>
+    <w>that's</w>
+    <w>somewhat</w>
+    <w>inconsistent</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>the</w>
+    <w>idea</w>
+    <w>that</w>
+    <w>review</w>
+    <w>is</w>
+    <w>the</w>
+    <w>only</w>
+    <w>noun</w>
+    <w>in</w>
+    <w>the</w>
+    <w>phrase</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u166">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>word</w>
+    <w>or</w>
+    <w>really</w>
+    <w>does</w>
+    <w>create</w>
+    <w>a</w>
+    <w>disjunctive</w>
+    <w>here</w>
+    <w>so</w>
+    <w>that</w>
+    <w>you</w>
+    <w>do</w>
+    <w>have</w>
+    <w>two</w>
+    <w>separate</w>
+    <w>parts</w>
+    <w>of</w>
+    <w>the</w>
+    <w>phrase</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>review</w>
+    <w>because</w>
+    <w>review</w>
+    <w>is</w>
+    <w>implicit</w>
+    <w>in</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u167">
+    <w>Why</w>
+    <w>is</w>
+    <w>review</w>
+    <w>any</w>
+    <w>more</w>
+    <w>implicit</w>
+    <w>than</w>
+    <w>state</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u168">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>respectfully</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>say</w>
+    <w>that</w>
+    <w>the</w>
+    <w>statement</w>
+    <w>says</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>or</w>
+    <w>state</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>just</w>
+    <w>makes</w>
+    <w>no</w>
+    <w>sense</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u169">
+    <w>How</w>
+    <w>about</w>
+    <w>or</w>
+    <w>other</w>
+    <w>state</w>
+    <w>collateral</w>
+    <w>review</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u170">
+    <w>Try</w>
+    <w>or</w>
+    <w>other</w>
+    <w>state</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u171">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>does</w>
+    <w>sound</w>
+    <w>really</w>
+    <w>bad</w>
+    <w>if</w>
+    <w>you</w>
+    <w>say</w>
+    <w>state</w>
+    <w>other</w>
+    <pause symbolic-length="simple"/>
+    <w>rather</w>
+    <w>than</w>
+    <w>other</w>
+    <w>state</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u172">
+    <w>Because</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>or</w>
+    <w>other</w>
+    <w>state</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>really</w>
+    <w>is</w>
+    <w>subsumed</w>
+    <w>under</w>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u173">
+    <w>Is</w>
+    <w>it</w>
+    <w>not</w>
+    <w>correct</w>
+    <w>that</w>
+    <w>under</w>
+    <w>your</w>
+    <w>reading</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>it</w>
+    <w>would</w>
+    <w>have</w>
+    <w>exactly</w>
+    <w>the</w>
+    <w>same</w>
+    <w>meaning</w>
+    <w>if</w>
+    <w>the</w>
+    <w>word</w>
+    <w>state</w>
+    <w>were</w>
+    <w>deleted</w>
+    <w>from</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u174">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>that's</w>
+    <w>correct</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u175">
+    <w>That's</w>
+    <w>correct</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u176">
+    <w>I</w>
+    <w>do</w>
+    <w>believe</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="LOEWE" uID="u177">
+    <w>The</w>
+    <w>statute</w>
+    <w>is</w>
+    <w>clear</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>term</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>has</w>
+    <w>to</w>
+    <w>include</w>
+    <w>Federal</w>
+    <w>petitions</w>
+    <w>for</w>
+    <w>habeas</w>
+    <w>corpus</w>
+    <w>because</w>
+    <w>the</w>
+    <w>alternative</w>
+    <w>construction</w>
+    <w>really</w>
+    <w>leaves</w>
+    <w>the</w>
+    <w>state</w>
+    <w>petitioner</w>
+    <w>in</w>
+    <w>a</w>
+    <w>very</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>very</w>
+    <w>untenable</w>
+    <w>position</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u178">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>let</w>
+    <w>me</w>
+    <w>put</w>
+    <w>this</w>
+    <w>to</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>let's</w>
+    <w>just</w>
+    <w>talk</w>
+    <w>about</w>
+    <w>a</w>
+    <w>single</w>
+    <w>jurisdiction</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u179">
+    <w>When</w>
+    <w>I</w>
+    <w>was</w>
+    <w>practicing</w>
+    <w>in</w>
+    <w>California</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>I</w>
+    <w>file</w>
+    <w>a</w>
+    <w>negligence</w>
+    <w>complaint</w>
+    <w>and</w>
+    <w>it</w>
+    <w>was</w>
+    <w>dismissed</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <w>after</w>
+    <w>three</w>
+    <w>or</w>
+    <w>four</w>
+    <w>months</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>couldn't</w>
+    <w>argue</w>
+    <w>that</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>was</w>
+    <w>tolled</w>
+    <w>during</w>
+    <w>the</w>
+    <w>time</w>
+    <w>the</w>
+    <w>court</w>
+    <w>was</w>
+    <w>considering</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u180">
+    <w>That's</w>
+    <w>just</w>
+    <w>not</w>
+    <w>standard</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>law</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u181">
+    <w>So</w>
+    <w>it</w>
+    <w>seems</w>
+    <w>to</w>
+    <w>me</w>
+    <w>that</w>
+    <w>you're</w>
+    <w>asking</w>
+    <w>for</w>
+    <w>something</w>
+    <w>quite</w>
+    <w>exceptional</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="LOEWE" uID="u182">
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u183">
+    <linker type="self completion"/>
+    <w>or</w>
+    <w>maybe</w>
+    <w>you'll</w>
+    <w>tell</w>
+    <w>me</w>
+    <w>I'm</w>
+    <w>wrong</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>California</w>
+    <w>was</w>
+    <w>different</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u184">
+    <w>I</w>
+    <w>just</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>are</w>
+    <w>tolled</w>
+    <w>during</w>
+    <w>the</w>
+    <w>time</w>
+    <w>the</w>
+    <w>courts</w>
+    <w>are</w>
+    <w>considering</w>
+    <w>pleadings</w>
+    <w>when</w>
+    <w>those</w>
+    <w>pleadings</w>
+    <w>are</w>
+    <w>ultimately</w>
+    <w>dismissed</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u185">
+    <w>That's</w>
+    <w>just</w>
+    <w>not</w>
+    <w>the</w>
+    <w>rule</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>unless</w>
+    <w>I'm</w>
+    <w>wrong</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u186">
+    <linker type="self completion"/>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>under</w>
+    <w>two</w>
+    <w>readings</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>needs</w>
+    <w>to</w>
+    <w>be</w>
+    <w>tolled</w>
+    <w>for</w>
+    <w>during</w>
+    <w>the</w>
+    <w>pendency</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u187">
+    <w>Those</w>
+    <w>two</w>
+    <w>readings</w>
+    <w>are</w>
+    <w>these</w>
+    <s type="colon"/>
+    <w>the</w>
+    <w>first</w>
+    <w>reading</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>obviously</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>in</w>
+    <w>the</w>
+    <w>tolling</w>
+    <w>provision</w>
+    <w>that</w>
+    <w>we're</w>
+    <w>here</w>
+    <w>discussing</w>
+    <pause symbolic-length="simple"/>
+    <w>state</w>
+    <w>post-conviction</w>
+    <w>and</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u188">
+    <w>It's</w>
+    <w>our</w>
+    <w>position</w>
+    <w>that</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>does</w>
+    <w>take</w>
+    <w>into</w>
+    <w>account</w>
+    <w>Federal</w>
+    <w>petitions</w>
+    <w>for</w>
+    <w>habeas</w>
+    <w>corpus</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="LOEWE" uID="u189">
+    <w>Also</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>noted</w>
+    <w>in</w>
+    <w>American</w>
+    <w>Pipe</w>
+    <w>and</w>
+    <w>Burnett</w>
+    <w>that</w>
+    <w>even</w>
+    <w>if</w>
+    <w>there</w>
+    <w>is</w>
+    <w>a</w>
+    <pause symbolic-length="simple"/>
+    <w>when</w>
+    <w>there</w>
+    <w>is</w>
+    <w>a</w>
+    <w>very</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>very</w>
+    <w>specified</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>as</w>
+    <w>we</w>
+    <w>have</w>
+    <w>here</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>one</w>
+    <w>year</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>even</w>
+    <w>when</w>
+    <w>tolling</w>
+    <w>is</w>
+    <w>provided</w>
+    <w>for</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>the</w>
+    <w>power</w>
+    <w>to</w>
+    <w>impose</w>
+    <w>upon</w>
+    <w>litigants</w>
+    <w>in</w>
+    <w>this</w>
+    <w>particular</w>
+    <w>area</w>
+    <w>of</w>
+    <w>law</w>
+    <w>other</w>
+    <w>tolling</w>
+    <w>events</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u190">
+    <w>And</w>
+    <w>if</w>
+    <w>you</w>
+    <w>don't</w>
+    <w>find</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>I'm</w>
+    <w>not</w>
+    <w>saying</w>
+    <w>that</w>
+    <w>you</w>
+    <w>shouldn't</w>
+    <w>find</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>I</w>
+    <w>do</w>
+    <w>believe</w>
+    <w>it's</w>
+    <w>in</w>
+    <w>the</w>
+    <w>language</w>
+    <pause symbolic-length="simple"/>
+    <w>but</w>
+    <w>if</w>
+    <w>you</w>
+    <w>don't</w>
+    <w>find</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>Kennedy</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petitions</w>
+    <w>are</w>
+    <w>subsumed</w>
+    <w>in</w>
+    <w>the</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>piece</w>
+    <w>of</w>
+    <g><w formType="letter">d</w>
+    <w>two</w><ga type="explanation">(d)(2)</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>will</w>
+    <w>find</w>
+    <w>the</w>
+    <w>ability</w>
+    <w>to</w>
+    <w>toll</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>under</w>
+    <w>your</w>
+    <w>own</w>
+    <w>powers</w>
+    <w>when</w>
+    <w>you</w>
+    <w>look</w>
+    <w>at</w>
+    <w>habeas</w>
+    <w>jurisprudence</w>
+    <w>the</w>
+    <w>way</w>
+    <w>it</w>
+    <w>has</w>
+    <w>functioned</w>
+    <w>for</w>
+    <w>over</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u191">
+    <w>Burnett</w>
+    <w>has</w>
+    <w>just</w>
+    <w>got</w>
+    <w>to</w>
+    <w>be</w>
+    <w>regarded</w>
+    <w>as</w>
+    <w>confined</w>
+    <w>to</w>
+    <w>its</w>
+    <w>peculiar</w>
+    <w>facts</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u192">
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>the</w>
+    <w>Court</w>
+    <w>would</w>
+    <w>follow</w>
+    <w>that</w>
+    <w>today</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u193">
+    <w>But</w>
+    <w>even</w>
+    <w>Burnett</w>
+    <w>is</w>
+    <w>a</w>
+    <w>case</w>
+    <w>different</w>
+    <pause symbolic-length="simple"/>
+    <w>here</w>
+    <w>Congress</w>
+    <w>has</w>
+    <w>been</w>
+    <w>very</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>very</w>
+    <w>precise</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>at</w>
+    <w>least</w>
+    <w>in</w>
+    <w>putting</w>
+    <w>in</w>
+    <w>one</w>
+    <w>sentence</w>
+    <w>in</w>
+    <w>what</w>
+    <w>it</w>
+    <w>wants</w>
+    <w>done</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>see</w>
+    <w>what</w>
+    <w>authority</w>
+    <w>we</w>
+    <w>would</w>
+    <w>have</w>
+    <w>to</w>
+    <w>bring</w>
+    <w>in</w>
+    <w>some</w>
+    <w>other</w>
+    <w>considerations</w>
+    <w>in</w>
+    <w>construing</w>
+    <w>that</w>
+    <w>language</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u194">
+    <linker type="self completion"/>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>believe</w>
+    <w>Congress</w>
+    <w>has</w>
+    <w>been</w>
+    <w>very</w>
+    <w>precise</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <w>in</w>
+    <w>its</w>
+    <w>precision</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petitions</w>
+    <w>are</w>
+    <w>covered</w>
+    <w>in</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u195">
+    <w>Yeah</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>court</w>
+    <w>of</w>
+    <w>appeals</w>
+    <w>agreed</w>
+    <w>with</w>
+    <w>you</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u196">
+    <w>But</w>
+    <w>I</w>
+    <w>thought</w>
+    <w>you</w>
+    <w>are</w>
+    <w>suggesting</w>
+    <w>that</w>
+    <w>even</w>
+    <w>if</w>
+    <w>we</w>
+    <w>don't</w>
+    <w>agree</w>
+    <w>with</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that</w>
+    <w>that's</w>
+    <w>how</w>
+    <w>the</w>
+    <w>statute</w>
+    <pause symbolic-length="simple"/>
+    <w>this</w>
+    <w>particular</w>
+    <w>sentence</w>
+    <pause symbolic-length="simple"/>
+    <w>should</w>
+    <w>be</w>
+    <w>construed</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u197">
+    <w>There</w>
+    <w>are</w>
+    <w>some</w>
+    <w>other</w>
+    <w>considerations</w>
+    <w>we</w>
+    <w>could</w>
+    <w>rely</w>
+    <w>on</w>
+    <w>to</w>
+    <w>reach</w>
+    <w>the</w>
+    <w>same</w>
+    <w>result</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u198">
+    <w>What</w>
+    <w>I</w>
+    <w>was</w>
+    <w>referring</w>
+    <w>to</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>not</w>
+    <w>looking</w>
+    <w>at</w>
+    <w>that</w>
+    <w>portion</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <g><w formType="letter">d</w>
+    <w>two</w><ga type="explanation">(d)(2)</ga></g>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>looking</w>
+    <w>at</w>
+    <g><w formType="letter">d</w>
+    <w>one</w><ga type="explanation">(d)(1)</ga></g>
+    <pause symbolic-length="simple"/>
+    <w>just</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u199">
+    <w>And</w>
+    <w>what</w>
+    <w>I</w>
+    <w>was</w>
+    <w>referring</w>
+    <w>to</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>was</w>
+    <w>an</w>
+    <w>alternative</w>
+    <w>to</w>
+    <w>you</w>
+    <w>which</w>
+    <w>was</w>
+    <w>espoused</w>
+    <w>by</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>in</w>
+    <w>American</w>
+    <w>Pipe</w>
+    <w>which</w>
+    <w>gives</w>
+    <w>you</w>
+    <w>the</w>
+    <w>ability</w>
+    <w>to</w>
+    <w>impose</w>
+    <w>equitable</w>
+    <w>tolling</w>
+    <w>across</w>
+    <w>a</w>
+    <w>broad</w>
+    <w>base</w>
+    <w>of</w>
+    <w>cases</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <w>specifically</w>
+    <w>with</w>
+    <w>respect</w>
+    <w>to</w>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Walker</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>to</w>
+    <w>a</w>
+    <w>broad</w>
+    <w>base</w>
+    <w>of</w>
+    <w>cases</w>
+    <w>and</w>
+    <w>those</w>
+    <w>cases</w>
+    <w>being</w>
+    <w>habeas</w>
+    <w>cases</w>
+    <w>such</w>
+    <w>as</w>
+    <w>we</w>
+    <w>have</w>
+    <w>here</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u200">
+    <w>What</w>
+    <w>do</w>
+    <w>you</w>
+    <w>say</w>
+    <w>to</w>
+    <w>the</w>
+    <w>argument</w>
+    <w>of</w>
+    <w>opposing</w>
+    <w>counsel</w>
+    <w>that</w>
+    <w>there</w>
+    <w>is</w>
+    <w>no</w>
+    <w>need</w>
+    <w>really</w>
+    <w>to</w>
+    <w>invoke</w>
+    <w>any</w>
+    <w>extraordinary</w>
+    <w>equitable</w>
+    <w>powers</w>
+    <w>like</w>
+    <w>that</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u201">
+    <w>The</w>
+    <w>better</w>
+    <w>rule</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>she</w>
+    <w>argues</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>simply</w>
+    <w>a</w>
+    <w>rule</w>
+    <w>that</w>
+    <w>if</w>
+    <w>in</w>
+    <w>doubt</w>
+    <w>the</w>
+    <w>prisoner</w>
+    <w>should</w>
+    <w>raise</w>
+    <w>the</w>
+    <w>issue</w>
+    <w>at</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <w>first</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>there</w>
+    <w>may</w>
+    <w>be</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>suppose</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>situations</w>
+    <w>in</w>
+    <w>which</w>
+    <w>there</w>
+    <w>is</w>
+    <w>doubt</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u202">
+    <w>But</w>
+    <w>the</w>
+    <w>default</w>
+    <w>rule</w>
+    <w>is</w>
+    <w>raise</w>
+    <w>it</w>
+    <w>there</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>you</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>this</w>
+    <w>to</w>
+    <w>worry</w>
+    <w>about</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u203">
+    <w>You're</w>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>exhaustion</w>
+    <w>rule</w>
+    <w>requires</w>
+    <w>the</w>
+    <w>state</w>
+    <w>petitioner</w>
+    <w>to</w>
+    <w>bring</w>
+    <w>all</w>
+    <w>of</w>
+    <w>his</w>
+    <w>claims</w>
+    <w>before</w>
+    <w>the</w>
+    <w>state</w>
+    <w>courts</w>
+    <w>first</w>
+    <w>because</w>
+    <w>he</w>
+    <w>actually</w>
+    <w>comes</w>
+    <w>into</w>
+    <w>Federal</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u204">
+    <w>But</w>
+    <w>as</w>
+    <w>Justice</w>
+    <w>Breyer</w>
+    <w>has</w>
+    <w>noted</w>
+    <pause symbolic-length="simple"/>
+    <w>and</w>
+    <w>I'm</w>
+    <w>sure</w>
+    <w>many</w>
+    <w>of</w>
+    <w>the</w>
+    <w>other</w>
+    <w>Justices</w>
+    <w>know</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>questions</w>
+    <w>of</w>
+    <w>exhaustion</w>
+    <w>are</w>
+    <w>often</w>
+    <w>very</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>very</w>
+    <w>complicated</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u205">
+    <w>No</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>Justice</w>
+    <w>Breyer's</w>
+    <w>example</w>
+    <w>was</w>
+    <w>the</w>
+    <w>example</w>
+    <w>of</w>
+    <w>the</w>
+    <w>individual</w>
+    <w>who</w>
+    <w>simply</w>
+    <w>didn't</w>
+    <w>think</w>
+    <w>of</w>
+    <w>one</w>
+    <w>of</w>
+    <w>his</w>
+    <w>claims</w>
+    <w>when</w>
+    <w>he</w>
+    <w>went</w>
+    <w>into</w>
+    <w>state</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u206">
+    <w>He</w>
+    <w>gets</w>
+    <w>into</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>and</w>
+    <w>says</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I've</w>
+    <w>got</w>
+    <w>another</w>
+    <w>idea</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u207">
+    <w>And</w>
+    <w>I</w>
+    <w>think</w>
+    <w>the</w>
+    <w>argument</w>
+    <w>on</w>
+    <w>the</w>
+    <w>other</w>
+    <w>side</w>
+    <w>is</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>better</w>
+    <w>think</w>
+    <w>carefully</w>
+    <w>before</w>
+    <w>you</w>
+    <w>go</w>
+    <w>into</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>because</w>
+    <w>the</w>
+    <w>obvious</w>
+    <w>objective</w>
+    <w>here</w>
+    <w>is</w>
+    <w>to</w>
+    <w>get</w>
+    <w>the</w>
+    <w>state</w>
+    <w>litigation</w>
+    <w>over</w>
+    <w>with</w>
+    <w>so</w>
+    <w>we</w>
+    <w>can</w>
+    <w>get</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>litigation</w>
+    <w>over</w>
+    <w>with</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <w>object</w>
+    <w>is</w>
+    <w>not</w>
+    <w>going</w>
+    <w>to</w>
+    <w>be</w>
+    <w>served</w>
+    <w>if</w>
+    <w>every</w>
+    <w>time</w>
+    <w>somebody</w>
+    <w>has</w>
+    <w>a</w>
+    <w>delayed</w>
+    <w>good</w>
+    <w>idea</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>effect</w>
+    <w>the</w>
+    <w>clock</w>
+    <w>stops</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u208">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>is</w>
+    <w>that</w>
+    <w>a</w>
+    <w>fair</w>
+    <w>reading</w>
+    <w>of</w>
+    <w>the</w>
+    <w>congressional</w>
+    <w>objective</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u209">
+    <w>And</w>
+    <w>if</w>
+    <w>it</w>
+    <w>is</w>
+    <w>a</w>
+    <w>fair</w>
+    <w>reading</w>
+    <w>of</w>
+    <w>the</w>
+    <w>congressional</w>
+    <w>objective</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>then</w>
+    <w>isn't</w>
+    <w>the</w>
+    <w>answer</w>
+    <w>to</w>
+    <w>the</w>
+    <w>late</w>
+    <w>good</w>
+    <w>idea</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>effect</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>too</w>
+    <w>bad</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>really</w>
+    <w>should</w>
+    <w>have</w>
+    <w>thought</w>
+    <w>of</w>
+    <w>it</w>
+    <w>before</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>if</w>
+    <w>you</w>
+    <w>didn't</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you're</w>
+    <w>out</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u210">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>the</w>
+    <w>congressional</w>
+    <w>objective</w>
+    <w>is</w>
+    <w>consistent</w>
+    <w>with</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <w>and</w>
+    <w>with</w>
+    <w>all</w>
+    <w>the</w>
+    <w>habeas</w>
+    <w>jurisprudence</w>
+    <w>that</w>
+    <w>has</w>
+    <w>evolved</w>
+    <w>over</w>
+    <w>the</w>
+    <w>last</w>
+    <w>century</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>you're</w>
+    <w>supposed</w>
+    <w>to</w>
+    <w>bring</w>
+    <w>your</w>
+    <w>claims</w>
+    <w>in</w>
+    <w>state</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u211">
+    <w>All</w>
+    <w>your</w>
+    <w>claims</w>
+    <w>of</w>
+    <w>unconstitutional</w>
+    <w>confinement</w>
+    <w>must</w>
+    <w>be</w>
+    <w>first</w>
+    <w>brought</w>
+    <w>there</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u212">
+    <w>And</w>
+    <w>to</w>
+    <w>the</w>
+    <w>extent</w>
+    <w>that</w>
+    <w>we</w>
+    <w>assign</w>
+    <w>that</w>
+    <w>obligation</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>prisoner</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>a</w>
+    <w>fair</w>
+    <w>obligation</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u213">
+    <w>However</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>is</w>
+    <w>unfair</w>
+    <w>to</w>
+    <w>assign</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>prisoner</w>
+    <w>the</w>
+    <w>obligation</w>
+    <w>of</w>
+    <w>understanding</w>
+    <w>a</w>
+    <w>very</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>very</w>
+    <w>complex</w>
+    <w>area</w>
+    <w>of</w>
+    <w>law</w>
+    <w>when</w>
+    <w>he</w>
+    <w>just</w>
+    <w>might</w>
+    <w>have</w>
+    <w>guessed</w>
+    <w>incorrectly</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u214">
+    <w>He</w>
+    <w>might</w>
+    <w>have</w>
+    <w>believed</w>
+    <w>he</w>
+    <w>did</w>
+    <w>bring</w>
+    <w>this</w>
+    <w>claim</w>
+    <w>properly</w>
+    <w>before</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that's</w>
+    <w>why</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u215">
+    <w>But</w>
+    <w>then</w>
+    <w>why</w>
+    <w>isn't</w>
+    <w>the</w>
+    <w>rule</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>in</w>
+    <w>doubt</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>go</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u216">
+    <w>It's</w>
+    <w>not</w>
+    <pause symbolic-length="simple"/>
+    <w>he</w>
+    <w>might</w>
+    <w>believe</w>
+    <w>but</w>
+    <w>he's</w>
+    <w>not</w>
+    <w>certain</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <w>he</w>
+    <w>should</w>
+    <w>go</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u217">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <w>he</w>
+    <w>might</w>
+    <w>be</w>
+    <w>certain</w>
+    <w>but</w>
+    <w>he</w>
+    <w>might</w>
+    <w>be</w>
+    <w>wrong</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>in</w>
+    <w>that</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>he's</w>
+    <w>wrong</w>
+    <w>and</w>
+    <w>the</w>
+    <w>clock</w>
+    <w>doesn't</w>
+    <w>stop</w>
+    <w>while</w>
+    <w>he's</w>
+    <w>in</w>
+    <w>front</w>
+    <w>of</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u218">
+    <w>In</w>
+    <w>this</w>
+    <w>case</w>
+    <w>we've</w>
+    <w>got</w>
+    <w>three</w>
+    <w>months</w>
+    <w>on</w>
+    <w>the</w>
+    <w>first</w>
+    <w>petition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>we've</w>
+    <w>got</w>
+    <w>over</w>
+    <w>a</w>
+    <w>year</w>
+    <w>on</w>
+    <w>the</w>
+    <w>second</w>
+    <w>petition</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u219">
+    <w>He's</w>
+    <w>just</w>
+    <w>out</w>
+    <w>of</w>
+    <w>luck</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <w>can't</w>
+    <w>be</w>
+    <w>what</w>
+    <w>Congress</w>
+    <w>intended</w>
+    <w>by</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u220">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>on</w>
+    <w>the</w>
+    <w>contrary</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>not</w>
+    <w>sure</w>
+    <w>you're</w>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Loewenberg</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u221">
+    <w>Congress</w>
+    <w>was</w>
+    <w>intending</w>
+    <w>to</w>
+    <w>cut</w>
+    <w>back</w>
+    <w>substantially</w>
+    <w>on</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>hearings</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>in</w>
+    <w>Barefoot</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Estelle</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>said</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>direct</w>
+    <w>review</w>
+    <w>is</w>
+    <w>good</w>
+    <w>enough</w>
+    <w>for</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>conviction</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>is</w>
+    <w>not</w>
+    <w>an</w>
+    <w>integral</w>
+    <w>part</w>
+    <w>of</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u222">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Congress</w>
+    <w>has</w>
+    <w>not</w>
+    <w>eliminated</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>it</w>
+    <w>certainly</w>
+    <w>cut</w>
+    <w>back</w>
+    <w>on</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u223">
+    <linker type="self completion"/>
+    <w>It</w>
+    <w>certainly</w>
+    <w>has</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u224">
+    <w>It</w>
+    <w>has</w>
+    <w>established</w>
+    <w>the</w>
+    <w>one-year</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitation</w>
+    <w>where</w>
+    <w>none</w>
+    <w>ever</w>
+    <w>existed</w>
+    <w>before</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>you</w>
+    <w>were</w>
+    <w>having</w>
+    <w>cases</w>
+    <w>coming</w>
+    <w>into</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>district</w>
+    <w>courts</w>
+    <w>that</w>
+    <w>could</w>
+    <w>be</w>
+    <w>five</w>
+    <w>years</w>
+    <w>old</w>
+    <w>or</w>
+    <w>ten</w>
+    <w>years</w>
+    <w>old</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u225">
+    <w>That</w>
+    <w>has</w>
+    <w>been</w>
+    <w>addressed</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>is</w>
+    <w>not</w>
+    <w>at</w>
+    <w>all</w>
+    <w>affected</w>
+    <w>by</w>
+    <w>the</w>
+    <w>Second</w>
+    <w>Circuit</w>
+    <w>or</w>
+    <w>the</w>
+    <w>Tenth</w>
+    <w>Circuit's</w>
+    <w>ruling</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>intact</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u226">
+    <w>What</w>
+    <w>that</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>does</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>does</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>things</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>what</w>
+    <w>it</w>
+    <w>does</w>
+    <w>primarily</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>really</w>
+    <w>defines</w>
+    <w>what</w>
+    <w>we</w>
+    <w>mean</w>
+    <w>by</w>
+    <w>diligence</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u227">
+    <w>If</w>
+    <w>you're</w>
+    <w>within</w>
+    <w>that</w>
+    <w>one</w>
+    <w>year</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you're</w>
+    <w>diligent</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u228">
+    <w>If</w>
+    <w>you're</w>
+    <w>outside</w>
+    <w>that</w>
+    <w>one</w>
+    <w>year</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you're</w>
+    <w>not</w>
+    <w>diligent</w>
+    <w>and</w>
+    <w>you're</w>
+    <w>out</w>
+    <w>of</w>
+    <w>luck</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u229">
+    <w>You've</w>
+    <w>got</w>
+    <w>no</w>
+    <w>Federal</w>
+    <w>review</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>no</w>
+    <w>merits</w>
+    <w>review</w>
+    <w>whatsoever</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u230">
+    <w>If</w>
+    <w>the</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <w>has</w>
+    <w>been</w>
+    <w>around</w>
+    <w>really</w>
+    <w>for</w>
+    <w>almost</w>
+    <w>twenty</w>
+    <w>years</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>I</w>
+    <w>think</w>
+    <w>we're</w>
+    <w>talking</w>
+    <w>about</w>
+    <w>noncapital</w>
+    <w>cases</w>
+    <w>where</w>
+    <w>I</w>
+    <w>would</w>
+    <w>imagine</w>
+    <w>even</w>
+    <w>now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>even</w>
+    <w>last</w>
+    <w>year</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>even</w>
+    <w>four</w>
+    <w>years</w>
+    <w>ago</w>
+    <w>prisoners</w>
+    <w>wanted</w>
+    <w>their</w>
+    <w>case</w>
+    <w>heard</w>
+    <w>sooner</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>not</w>
+    <w>later</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u231">
+    <w>Absolutely</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u232">
+    <w>They</w>
+    <w>don't</w>
+    <w>want</w>
+    <w>to</w>
+    <w>be</w>
+    <w>subject</w>
+    <w>to</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u233">
+    <w>They</w>
+    <w>do</w>
+    <w>not</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u234">
+    <w>No</w>
+    <pause symbolic-length="simple"/>
+    <w>what</w>
+    <w>percentage</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>do</w>
+    <w>you</w>
+    <w>have</w>
+    <w>any</w>
+    <w>idea</w>
+    <w>at</w>
+    <w>all</w>
+    <w>of</w>
+    <w>whether</w>
+    <w>there</w>
+    <w>are</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <w>cases</w>
+    <w>even</w>
+    <w>now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>nineteen</w>
+    <w>years</w>
+    <w>later</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>just</w>
+    <w>a</w>
+    <w>handful</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u235">
+    <w>Is</w>
+    <w>there</w>
+    <w>any</w>
+    <w>way</w>
+    <w>to</w>
+    <w>say</w>
+    <w>what</w>
+    <w>the</w>
+    <w>amount</w>
+    <w>is</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u236">
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>statistics</w>
+    <w>that</w>
+    <w>I</w>
+    <w>could</w>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>specifically</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>could</w>
+    <w>tell</w>
+    <w>you</w>
+    <w>from</w>
+    <w>my</w>
+    <w>experience</w>
+    <w>these</w>
+    <w>are</w>
+    <w>overwhelming</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u237">
+    <w>The</w>
+    <w>number</w>
+    <w>of</w>
+    <w>cases</w>
+    <w>that</w>
+    <w>present</w>
+    <w>mixed</w>
+    <w>petitions</w>
+    <w>are</w>
+    <w>overwhelming</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u238">
+    <w>Why</w>
+    <w>does</w>
+    <w>that</w>
+    <w>happen</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u239">
+    <w>Why</w>
+    <w>does</w>
+    <w>that</w>
+    <w>happen</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u240">
+    <w>Because</w>
+    <w>you</w>
+    <w>have</w>
+    <w>a</w>
+    <w>pro</w>
+    <w>se</w>
+    <w>petitioner</w>
+    <w>who's</w>
+    <w>got</w>
+    <w>maybe</w>
+    <w>a</w>
+    <w>seventh</w>
+    <w>grade</w>
+    <w>education</w>
+    <w>who</w>
+    <w>can</w>
+    <w>barely</w>
+    <w>string</w>
+    <w>two</w>
+    <w>words</w>
+    <w>together</w>
+    <pause symbolic-length="simple"/>
+    <w>all</w>
+    <w>you</w>
+    <w>have</w>
+    <w>to</w>
+    <w>do</w>
+    <w>is</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <w>petition</w>
+    <w>in</w>
+    <w>this</w>
+    <w>case</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u241">
+    <w>It's</w>
+    <w>very</w>
+    <w>hard</w>
+    <w>to</w>
+    <w>decipher</w>
+    <w>what</w>
+    <w>it</w>
+    <w>is</w>
+    <w>he's</w>
+    <w>trying</w>
+    <w>to</w>
+    <w>make</w>
+    <w>out</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>you're</w>
+    <w>ascribing</w>
+    <w>to</w>
+    <w>him</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>state</w>
+    <w>would</w>
+    <w>ascribe</w>
+    <w>to</w>
+    <w>him</w>
+    <pause symbolic-length="simple"/>
+    <w>this</w>
+    <w>ability</w>
+    <w>to</w>
+    <w>understand</w>
+    <w>if</w>
+    <w>he's</w>
+    <w>exhausted</w>
+    <w>or</w>
+    <w>not</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u242">
+    <w>That's</w>
+    <w>an</w>
+    <w>absurd</w>
+    <w>position</w>
+    <w>to</w>
+    <w>put</w>
+    <w>the</w>
+    <w>petitioner</w>
+    <w>in</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>what</w>
+    <w>makes</w>
+    <w>it</w>
+    <w>absurd</w>
+    <w>and</w>
+    <w>unfair</w>
+    <w>is</w>
+    <w>to</w>
+    <w>state</w>
+    <w>that</w>
+    <w>the</w>
+    <w>time</w>
+    <w>that</w>
+    <w>this</w>
+    <w>petition</w>
+    <w>with</w>
+    <w>this</w>
+    <w>unexhausted</w>
+    <w>or</w>
+    <w>maybe</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <w>that's</w>
+    <w>in</w>
+    <w>front</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>district</w>
+    <w>court</w>
+    <w>counts</w>
+    <w>against</w>
+    <w>him</w>
+    <w>when</w>
+    <w>he</w>
+    <w>can't</w>
+    <w>control</w>
+    <w>that</w>
+    <w>length</w>
+    <w>of</w>
+    <w>time</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u243">
+    <w>He</w>
+    <w>can't</w>
+    <w>control</w>
+    <w>how</w>
+    <w>long</w>
+    <w>it's</w>
+    <w>in</w>
+    <w>the</w>
+    <w>clerk's</w>
+    <w>office</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he</w>
+    <w>can't</w>
+    <w>control</w>
+    <w>how</w>
+    <w>long</w>
+    <w>the</w>
+    <w>prosecutor</w>
+    <w>is</w>
+    <w>going</w>
+    <w>to</w>
+    <w>ask</w>
+    <w>for</w>
+    <w>an</w>
+    <w>adjournment</w>
+    <w>to</w>
+    <w>respond</w>
+    <w>to</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u244">
+    <w>But</w>
+    <w>as</w>
+    <w>I</w>
+    <w>pointed</w>
+    <w>out</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>true</w>
+    <w>with</w>
+    <w>any</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>in</w>
+    <w>a</w>
+    <w>single</w>
+    <w>jurisdiction</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u245">
+    <w>That</w>
+    <w>might</w>
+    <w>be</w>
+    <w>true</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>I</w>
+    <w>understand</w>
+    <w>what</w>
+    <w>you're</w>
+    <w>saying</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>habeas</w>
+    <w>is</w>
+    <w>a</w>
+    <w>whole</w>
+    <w>different</w>
+    <w>ball</w>
+    <w>of</w>
+    <w>wax</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>so</w>
+    <w>to</w>
+    <w>speak</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u246">
+    <w>Why</w>
+    <w>is</w>
+    <w>that</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u247">
+    <w>It's</w>
+    <w>a</w>
+    <w>civil</w>
+    <w>proceeding</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>isn't</w>
+    <w>it</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u248">
+    <w>It</w>
+    <w>is</w>
+    <w>a</w>
+    <w>civil</w>
+    <w>proceeding</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>we're</w>
+    <w>dealing</w>
+    <w>with</w>
+    <w>people</w>
+    <w>who</w>
+    <w>are</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>by</w>
+    <w>and</w>
+    <w>large</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>uncounseled</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u249">
+    <w>And</w>
+    <w>that</w>
+    <w>makes</w>
+    <w>a</w>
+    <w>huge</w>
+    <w>difference</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u250">
+    <w>They're</w>
+    <w>pro</w>
+    <w>se</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u251">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>there</w>
+    <w>are</w>
+    <w>pro</w>
+    <w>se</w>
+    <w>litigation</w>
+    <w>filed</w>
+    <w>in</w>
+    <w>other</w>
+    <w>cases</w>
+    <w>than</w>
+    <w>habeas</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u252">
+    <w>We</w>
+    <w>see</w>
+    <w>all</w>
+    <w>sorts</w>
+    <w>of</w>
+    <w>things</w>
+    <w>here</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u253">
+    <w>I'm</w>
+    <w>certain</w>
+    <w>you</w>
+    <w>do</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>to</w>
+    <w>the</w>
+    <w>extent</w>
+    <w>that</w>
+    <w>they're</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u254">
+    <w>And</w>
+    <w>those</w>
+    <w>people</w>
+    <w>are</w>
+    <w>bound</w>
+    <w>by</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>the</w>
+    <w>same</w>
+    <w>way</w>
+    <w>anybody</w>
+    <w>else</w>
+    <w>is</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u255">
+    <linker type="self completion"/>
+    <w>I'm</w>
+    <w>certain</w>
+    <w>that's</w>
+    <w>true</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>think</w>
+    <w>the</w>
+    <w>habeas</w>
+    <w>petitioner</w>
+    <w>really</w>
+    <w>is</w>
+    <w>a</w>
+    <w>unique</w>
+    <w>petitioner</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u256">
+    <w>Your</w>
+    <w>opponent</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Bansal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>suggested</w>
+    <w>that</w>
+    <w>for</w>
+    <w>an</w>
+    <w>egregious</w>
+    <w>case</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there</w>
+    <w>may</w>
+    <w>still</w>
+    <w>be</w>
+    <w>equitable</w>
+    <w>discretion</w>
+    <w>in</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>to</w>
+    <w>fashion</w>
+    <w>some</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>equitable</w>
+    <w>tolling</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u257">
+    <w>I</w>
+    <w>suppose</w>
+    <w>you</w>
+    <w>agree</w>
+    <w>with</w>
+    <w>that</w>
+    <w>much</w>
+    <w>of</w>
+    <w>her</w>
+    <w>argument</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u258">
+    <w>Absolutely</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>can't</w>
+    <w>imagine</w>
+    <w>where</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>wants</w>
+    <w>to</w>
+    <w>go</w>
+    <w>with</w>
+    <w>this</w>
+    <w>particular</w>
+    <w>legislation</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u259">
+    <w>You're</w>
+    <w>going</w>
+    <w>to</w>
+    <w>have</w>
+    <w>ad</w>
+    <w>hoc</w>
+    <w>determinations</w>
+    <w>throughout</w>
+    <w>the</w>
+    <w>country</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>there's</w>
+    <w>going</w>
+    <w>to</w>
+    <w>be</w>
+    <w>disparity</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>you're</w>
+    <w>going</w>
+    <w>to</w>
+    <w>have</w>
+    <w>some</w>
+    <w>judges</w>
+    <w>who</w>
+    <w>are</w>
+    <w>going</w>
+    <w>to</w>
+    <w>decide</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>oh</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>can't</w>
+    <w>do</w>
+    <w>this</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>draconian</w>
+    <w>result</w>
+    <w>is</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u260">
+    <w>So</w>
+    <w>we</w>
+    <w>should</w>
+    <w>reject</w>
+    <w>that</w>
+    <w>principle</w>
+    <w>then</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u261">
+    <linker type="self completion"/>
+    <w>I</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u262">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>make</w>
+    <w>very</w>
+    <w>good</w>
+    <w>arguments</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="LOEWE" uID="u263">
+    <linker type="self completion"/>
+    <w>Justice</w>
+    <w>Scalia</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u264">
+    <linker type="self completion"/>
+    <w>for</w>
+    <w>rejecting</w>
+    <w>the</w>
+    <w>equitable</w>
+    <w>tolling</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u265">
+    <linker type="self completion"/>
+    <w>I'm</w>
+    <w>not</w>
+    <w>saying</w>
+    <w>that</w>
+    <w>there</w>
+    <w>are</w>
+    <w>certain</w>
+    <pause symbolic-length="simple"/>
+    <w>there</w>
+    <w>won't</w>
+    <w>be</w>
+    <w>certain</w>
+    <w>situations</w>
+    <w>where</w>
+    <w>equitable</w>
+    <w>tolling</w>
+    <w>will</w>
+    <w>still</w>
+    <w>come</w>
+    <w>up</w>
+    <w>after</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>determines</w>
+    <w>this</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u266">
+    <w>You</w>
+    <w>got</w>
+    <w>to</w>
+    <w>either</w>
+    <w>like</w>
+    <w>it</w>
+    <w>or</w>
+    <w>not</w>
+    <w>like</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u267">
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>you</w>
+    <w>can</w>
+    <w>say</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="LOEWE" uID="u268">
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>you</w>
+    <w>will</w>
+    <w>like</w>
+    <w>it</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u269">
+    <w>I</w>
+    <w>don't</w>
+    <w>think</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>courts</w>
+    <w>will</w>
+    <w>like</w>
+    <w>that</w>
+    <w>extra</w>
+    <w>burden</w>
+    <w>of</w>
+    <w>having</w>
+    <w>to</w>
+    <w>determine</w>
+    <w>these</w>
+    <w>various</w>
+    <w>individual</w>
+    <w>cases</w>
+    <w>under</w>
+    <w>that</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u270">
+    <linker type="self completion"/>
+    <w>Let</w>
+    <w>me</w>
+    <w>ask</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>though</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>the</w>
+    <w>strongest</w>
+    <w>equitable</w>
+    <w>case</w>
+    <pause symbolic-length="simple"/>
+    <w>say</w>
+    <w>a</w>
+    <w>case</w>
+    <w>is</w>
+    <w>pending</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <w>for</w>
+    <w>over</w>
+    <w>a</w>
+    <w>year</w>
+    <w>in</w>
+    <w>Federal</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>then</w>
+    <w>at</w>
+    <w>the</w>
+    <w>end</w>
+    <w>of</w>
+    <w>the</w>
+    <w>year</w>
+    <w>the</w>
+    <w>judge</w>
+    <w>suddenly</w>
+    <w>realized</w>
+    <w>this</w>
+    <w>part</w>
+    <w>of</w>
+    <w>the</w>
+    <w>claim</w>
+    <w>wasn't</w>
+    <w>exhausted</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>you</w>
+    <w>say</w>
+    <w>that's</w>
+    <w>very</w>
+    <w>unjust</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u271">
+    <w>In</w>
+    <w>your</w>
+    <w>view</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>would</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>judge</w>
+    <w>in</w>
+    <w>that</w>
+    <w>situation</w>
+    <w>have</w>
+    <w>the</w>
+    <w>authority</w>
+    <w>to</w>
+    <w>keep</w>
+    <w>the</w>
+    <w>case</w>
+    <w>on</w>
+    <w>the</w>
+    <w>docket</w>
+    <w>while</w>
+    <w>the</w>
+    <w>case</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>as</w>
+    <w>an</w>
+    <w>abstention</w>
+    <w>case</w>
+    <w>while</w>
+    <w>the</w>
+    <w>claim</w>
+    <w>is</w>
+    <w>exhausted</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>or</w>
+    <w>do</w>
+    <w>you</w>
+    <w>agree</w>
+    <w>with</w>
+    <w>your</w>
+    <w>opponent</w>
+    <w>that</w>
+    <w>it</w>
+    <w>would</w>
+    <w>have</w>
+    <w>to</w>
+    <w>be</w>
+    <w>dismissed</w>
+    <w>at</w>
+    <w>that</w>
+    <w>point</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u272">
+    <linker type="self completion"/>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>think</w>
+    <w>that</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <w>judge</w>
+    <w>has</w>
+    <w>had</w>
+    <w>that</w>
+    <w>discretion</w>
+    <w>all</w>
+    <w>along</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>has</w>
+    <w>done</w>
+    <w>that</w>
+    <w>in</w>
+    <w>various</w>
+    <w>situations</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>has</w>
+    <w>related</w>
+    <pause symbolic-length="simple"/>
+    <w>has</w>
+    <w>allowed</w>
+    <w>the</w>
+    <w>defendant</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>prisoner</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>to</w>
+    <w>relate</w>
+    <w>back</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>has</w>
+    <w>done</w>
+    <w>all</w>
+    <w>sorts</w>
+    <w>of</w>
+    <w>things</w>
+    <w>in</w>
+    <w>order</w>
+    <w>to</w>
+    <w>do</w>
+    <w>justice</w>
+    <w>for</w>
+    <w>that</w>
+    <w>state</w>
+    <w>petitioner</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>it</w>
+    <w>doesn't</w>
+    <w>mean</w>
+    <w>that</w>
+    <w>all</w>
+    <w>district</w>
+    <w>court</w>
+    <w>judges</w>
+    <w>do</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>they're</w>
+    <w>not</w>
+    <w>obligated</w>
+    <w>to</w>
+    <w>do</w>
+    <w>that</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>does</w>
+    <w>say</w>
+    <w>that</w>
+    <w>they</w>
+    <w>need</w>
+    <w>to</w>
+    <w>send</w>
+    <w>back</w>
+    <w>for</w>
+    <w>exhaustion</w>
+    <w>purposes</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>courts</w>
+    <w>those</w>
+    <w>claims</w>
+    <w>that</w>
+    <w>have</w>
+    <w>not</w>
+    <w>been</w>
+    <w>exhausted</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u273">
+    <w>But</w>
+    <w>sending</w>
+    <w>it</w>
+    <w>back</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <w>doesn't</w>
+    <w>seem</w>
+    <w>to</w>
+    <w>me</w>
+    <pause symbolic-length="simple"/>
+    <w>there</w>
+    <w>are</w>
+    <w>other</w>
+    <w>abstention</w>
+    <w>situations</w>
+    <pause symbolic-length="simple"/>
+    <w>necessarily</w>
+    <w>means</w>
+    <w>they</w>
+    <w>must</w>
+    <w>dismiss</w>
+    <w>the</w>
+    <w>pending</w>
+    <w>petition</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>just</w>
+    <w>not</w>
+    <w>sure</w>
+    <w>about</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u274">
+    <w>I'm</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u275">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they're</w>
+    <w>sending</w>
+    <w>it</w>
+    <pause symbolic-length="simple"/>
+    <w>they</w>
+    <w>obviously</w>
+    <w>can't</w>
+    <w>rule</w>
+    <w>on</w>
+    <w>it</w>
+    <w>on</w>
+    <w>the</w>
+    <w>merits</w>
+    <w>until</w>
+    <w>the</w>
+    <w>state</w>
+    <w>is</w>
+    <w>exhausted</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u276">
+    <w>Does</w>
+    <w>that</w>
+    <w>mean</w>
+    <w>they</w>
+    <w>must</w>
+    <w>dismiss</w>
+    <w>the</w>
+    <w>pending</w>
+    <w>Federal</w>
+    <w>petition</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u277">
+    <linker type="self completion"/>
+    <w>Under</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>they</w>
+    <w>must</w>
+    <w>dismiss</w>
+    <w>it</w>
+    <w>if</w>
+    <w>there</w>
+    <w>are</w>
+    <w>questions</w>
+    <w>of</w>
+    <w>exhaustion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u278">
+    <w>But</w>
+    <w>of</w>
+    <w>course</w>
+    <w>there</w>
+    <w>could</w>
+    <w>be</w>
+    <w>mixed</w>
+    <w>questions</w>
+    <w>that</w>
+    <w>are</w>
+    <w>unexhausted</w>
+    <w>where</w>
+    <w>the</w>
+    <w>petitioner</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>once</w>
+    <w>counsel</w>
+    <w>is</w>
+    <w>obtained</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>says</w>
+    <w>we</w>
+    <w>can</w>
+    <w>give</w>
+    <w>those</w>
+    <w>up</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u279">
+    <w>Let's</w>
+    <w>stick</w>
+    <w>with</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petition</w>
+    <w>and</w>
+    <w>abandon</w>
+    <w>those</w>
+    <w>unexhausted</w>
+    <w>state</w>
+    <w>claims</w>
+    <w>because</w>
+    <w>they</w>
+    <w>don't</w>
+    <w>amount</w>
+    <w>to</w>
+    <w>much</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u280">
+    <w>You're</w>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>oftentimes</w>
+    <w>the</w>
+    <w>petitioner</w>
+    <w>is</w>
+    <w>not</w>
+    <w>aware</w>
+    <w>that</w>
+    <w>he</w>
+    <w>has</w>
+    <w>that</w>
+    <w>option</w>
+    <w>unless</w>
+    <w>he's</w>
+    <w>told</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>he's</w>
+    <w>not</w>
+    <w>told</w>
+    <w>that</w>
+    <w>in</w>
+    <w>every</w>
+    <w>instance</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u281">
+    <w>In</w>
+    <w>fact</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>very</w>
+    <w>few</w>
+    <w>instances</w>
+    <w>is</w>
+    <w>he</w>
+    <w>given</w>
+    <w>that</w>
+    <w>option</w>
+    <w>at</w>
+    <w>that</w>
+    <w>juncture</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u282">
+    <w>Or</w>
+    <w>the</w>
+    <w>even</w>
+    <w>tougher</w>
+    <w>case</w>
+    <w>is</w>
+    <w>that</w>
+    <w>the</w>
+    <w>only</w>
+    <w>claim</w>
+    <w>that</w>
+    <w>has</w>
+    <w>any</w>
+    <w>merit</w>
+    <w>happens</w>
+    <w>to</w>
+    <w>be</w>
+    <w>the</w>
+    <w>unexhausted</w>
+    <w>claim</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u283">
+    <w>Absolutely</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u284">
+    <w>And</w>
+    <w>then</w>
+    <w>we're</w>
+    <w>totally</w>
+    <w>out</w>
+    <w>of</w>
+    <w>time</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u285">
+    <w>It's</w>
+    <w>very</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>very</w>
+    <w>difficult</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="LOEWE" uID="u286">
+    <w>The</w>
+    <w>position</w>
+    <w>that</w>
+    <w>the</w>
+    <w>state</w>
+    <w>takes</w>
+    <w>also</w>
+    <w>works</w>
+    <w>against</w>
+    <w>the</w>
+    <w>theory</w>
+    <w>behind</w>
+    <w>exhaustion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u287">
+    <w>The</w>
+    <w>theory</w>
+    <w>of</w>
+    <w>comity</w>
+    <w>and</w>
+    <w>federalism</w>
+    <w>is</w>
+    <w>not</w>
+    <w>advanced</w>
+    <w>by</w>
+    <w>the</w>
+    <w>state's</w>
+    <w>position</w>
+    <w>at</w>
+    <w>all</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that's</w>
+    <w>because</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>district</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>when</w>
+    <w>it's</w>
+    <w>reviewing</w>
+    <w>the</w>
+    <w>petition</w>
+    <w>to</w>
+    <w>see</w>
+    <w>whether</w>
+    <w>or</w>
+    <w>not</w>
+    <w>claims</w>
+    <w>are</w>
+    <w>exhausted</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>Federal</w>
+    <w>district</w>
+    <w>court</w>
+    <w>has</w>
+    <w>always</w>
+    <w>felt</w>
+    <w>comfortable</w>
+    <w>dismissing</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <w>in</w>
+    <w>order</w>
+    <w>to</w>
+    <w>enable</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <w>to</w>
+    <w>really</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>really</w>
+    <w>look</w>
+    <w>at</w>
+    <w>the</w>
+    <w>claims</w>
+    <w>that</w>
+    <w>are</w>
+    <w>made</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u288">
+    <w>But</w>
+    <w>the</w>
+    <w>state's</w>
+    <w>position</w>
+    <w>will</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>fair-minded</w>
+    <w>district</w>
+    <w>court</w>
+    <w>judges</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>will</w>
+    <w>have</w>
+    <w>those</w>
+    <w>judges</w>
+    <w>make</w>
+    <w>determinations</w>
+    <w>on</w>
+    <w>exhaustion</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>on</w>
+    <w>close</w>
+    <w>questions</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>find</w>
+    <w>that</w>
+    <w>there</w>
+    <w>has</w>
+    <w>been</w>
+    <w>exhaustion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u289">
+    <w>And</w>
+    <w>that</w>
+    <w>really</w>
+    <w>cuts</w>
+    <w>against</w>
+    <pause symbolic-length="simple"/>
+    <w>in</w>
+    <w>order</w>
+    <w>to</w>
+    <w>safeguard</w>
+    <w>the</w>
+    <w>petitioner's</w>
+    <w>rights</w>
+    <w>to</w>
+    <w>a</w>
+    <w>merit</w>
+    <w>review</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u290">
+    <w>Why</w>
+    <w>not</w>
+    <w>just</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>has</w>
+    <w>been</w>
+    <w>suggested</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>say</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>going</w>
+    <w>to</w>
+    <w>hang</w>
+    <w>onto</w>
+    <w>this</w>
+    <w>so</w>
+    <w>at</w>
+    <w>least</w>
+    <w>when</w>
+    <w>you</w>
+    <w>go</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <w>court</w>
+    <w>swiftly</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>then</w>
+    <w>it</w>
+    <w>will</w>
+    <w>come</w>
+    <w>back</w>
+    <w>here</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>so</w>
+    <w>the</w>
+    <w>only</w>
+    <w>time</w>
+    <w>that</w>
+    <w>will</w>
+    <w>be</w>
+    <w>lost</w>
+    <w>is</w>
+    <w>the</w>
+    <w>initial</w>
+    <w>time</w>
+    <w>that</w>
+    <w>you</w>
+    <w>took</w>
+    <w>to</w>
+    <w>get</w>
+    <w>to</w>
+    <w>any</w>
+    <w>court</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u291">
+    <linker type="self completion"/>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>that's</w>
+    <w>not</w>
+    <w>the</w>
+    <w>rule</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>it's</w>
+    <w>not</w>
+    <w>something</w>
+    <w>that's</w>
+    <w>used</w>
+    <w>in</w>
+    <w>practice</w>
+    <w>with</w>
+    <w>any</w>
+    <w>kind</w>
+    <w>of</w>
+    <w>frequency</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u292">
+    <w>And</w>
+    <w>if</w>
+    <w>it</w>
+    <w>was</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>maybe</w>
+    <w>my</w>
+    <w>position</w>
+    <w>would</w>
+    <w>be</w>
+    <w>a</w>
+    <w>little</w>
+    <w>bit</w>
+    <w>different</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>I</w>
+    <w>still</w>
+    <w>need</w>
+    <w>to</w>
+    <w>take</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>back</w>
+    <w>to</w>
+    <w>the</w>
+    <w>original</w>
+    <w>language</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u293">
+    <w>And</w>
+    <w>the</w>
+    <w>original</w>
+    <w>language</w>
+    <w>does</w>
+    <w>support</w>
+    <w>the</w>
+    <w>Second</w>
+    <w>Circuit's</w>
+    <w>reasoning</w>
+    <w>and</w>
+    <w>ruling</w>
+    <w>that</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>petitions</w>
+    <w>are</w>
+    <w>other</w>
+    <w>collateral</w>
+    <w>review</w>
+    <w>that</w>
+    <w>would</w>
+    <w>stop</w>
+    <w>the</w>
+    <w>clock</w>
+    <w>for</w>
+    <w>tolling</w>
+    <w>purposes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u294">
+    <w>Then</w>
+    <w>why</w>
+    <w>put</w>
+    <w>in</w>
+    <w>those</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>word</w>
+    <w>state</w>
+    <w>at</w>
+    <w>all</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u295">
+    <w>Why</w>
+    <w>not</w>
+    <w>just</w>
+    <pause symbolic-length="simple"/>
+    <w>it</w>
+    <w>would</w>
+    <w>have</w>
+    <w>been</w>
+    <w>more</w>
+    <w>economical</w>
+    <w>just</w>
+    <w>to</w>
+    <w>say</w>
+    <w>collateral</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u296">
+    <w>You're</w>
+    <w>right</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Justice</w>
+    <w>Ginsburg</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>I</w>
+    <w>think</w>
+    <w>Justice</w>
+    <w>Souter</w>
+    <w>called</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>in</w>
+    <w>a</w>
+    <w>world</w>
+    <w>of</w>
+    <w>silk</w>
+    <w>purses</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>is</w>
+    <w>a</w>
+    <w>sow's</w>
+    <w>ear</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u297">
+    <w>And</w>
+    <w>that</w>
+    <w>would</w>
+    <pause symbolic-length="simple"/>
+    <w>it's</w>
+    <w>not</w>
+    <w>well-crafted</w>
+    <w>in</w>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>different</w>
+    <w>instances</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u298">
+    <w>We</w>
+    <w>really</w>
+    <w>don't</w>
+    <w>have</w>
+    <w>a</w>
+    <w>world</w>
+    <w>of</w>
+    <w>silk</w>
+    <w>purses</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>fact</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u299">
+    <w>I'm</w>
+    <w>not</w>
+    <w>sure</w>
+    <w>it's</w>
+    <w>much</w>
+    <w>worse</w>
+    <w>than</w>
+    <w>one</w>
+    <w>is</w>
+    <w>accustomed</w>
+    <w>to</w>
+    <w>receiving</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u300">
+    <w>I</w>
+    <w>think</w>
+    <w>it</w>
+    <w>would</w>
+    <w>be</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>much</w>
+    <w>worse</w>
+    <w>from</w>
+    <g><w>Mister</w><ga type="explanation">Mr.</ga></g>
+    <w>Walker's</w>
+    <w>perspective</w>
+    <w>and</w>
+    <w>from</w>
+    <w>other</w>
+    <w>state</w>
+    <w>petitioners</w>
+    <w>who</w>
+    <w>get</w>
+    <w>caught</w>
+    <w>up</w>
+    <w>in</w>
+    <w>the</w>
+    <w>mire</w>
+    <w>of</w>
+    <w>delay</w>
+    <w>that</w>
+    <w>they</w>
+    <w>really</w>
+    <w>have</w>
+    <w>no</w>
+    <w>control</w>
+    <w>over</w>
+    <w>at</w>
+    <w>all</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u301">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>defendant</w>
+    <w>did</w>
+    <w>have</w>
+    <w>something</w>
+    <w>on</w>
+    <w>the</w>
+    <w>order</w>
+    <w>of</w>
+    <w>ten</w>
+    <w>months</w>
+    <w>to</w>
+    <w>go</w>
+    <w>do</w>
+    <w>something</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>didn't</w>
+    <w>he</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="LOEWE" uID="u302">
+    <w>Yes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he</w>
+    <w>did</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u303">
+    <w>And</w>
+    <w>nothing</w>
+    <w>was</w>
+    <w>done</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u304">
+    <w>Those</w>
+    <pause symbolic-length="simple"/>
+    <w>those</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>time</w>
+    <w>period</w>
+    <w>is</w>
+    <w>counted</w>
+    <w>against</w>
+    <w>him</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u305">
+    <w>He</w>
+    <w>doesn't</w>
+    <w>have</w>
+    <w>the</w>
+    <w>benefit</w>
+    <w>of</w>
+    <w>it</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>that's</w>
+    <w>how</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitation</w>
+    <w>works</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="LOEWE" uID="u306">
+    <w>It's</w>
+    <w>definitely</w>
+    <w>counted</w>
+    <w>against</w>
+    <w>him</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>not</w>
+    <w>the</w>
+    <w>time</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>three-month</w>
+    <w>period</w>
+    <w>that</w>
+    <w>it</w>
+    <w>was</w>
+    <w>sitting</w>
+    <w>in</w>
+    <w>Judge</w>
+    <w>Sterling</w>
+    <w>Johnson's</w>
+    <w>office</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>for</w>
+    <w>whatever</w>
+    <w>reason</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>because</w>
+    <w>he</w>
+    <w>had</w>
+    <w>no</w>
+    <w>control</w>
+    <w>over</w>
+    <w>that</w>
+    <w>time</w>
+    <w>period</w>
+    <w>at</w>
+    <w>all</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="LOEWE" uID="u307">
+    <w>If</w>
+    <w>there</w>
+    <w>aren't</w>
+    <w>any</w>
+    <w>further</w>
+    <w>questions</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u308">
+    <w>Thank</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Loewenberg</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="UNKN" uID="u309">
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Bansal</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>have</w>
+    <w>eleven</w>
+    <w>minutes</w>
+    <w>remaining</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">REBUTTAL ARGUMENT OF PREETA D. BANSAL ON BEHALF OF THE PETITIONER</comment>
+  <u who="BANSA" uID="u310">
+    <w>Just</w>
+    <w>briefly</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>Your</w>
+    <w>Honor</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u311">
+    <w>Respondent</w>
+    <w>in</w>
+    <w>the</w>
+    <w>court</w>
+    <w>below</w>
+    <w>would</w>
+    <w>do</w>
+    <w>violence</w>
+    <w>to</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>in</w>
+    <w>order</w>
+    <w>to</w>
+    <w>achieve</w>
+    <w>the</w>
+    <w>policy</w>
+    <w>result</w>
+    <w>they</w>
+    <w>seek</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u312">
+    <w>They</w>
+    <w>would</w>
+    <w>basically</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>as</w>
+    <w>this</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>suggested</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>eliminate</w>
+    <w>the</w>
+    <w>word</w>
+    <w>state</w>
+    <w>which</w>
+    <w>is</w>
+    <w>a</w>
+    <w>very</w>
+    <w>big</w>
+    <w>word</w>
+    <w>to</w>
+    <w>eliminate</w>
+    <w>from</w>
+    <w>a</w>
+    <w>statute</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u313">
+    <w>But</w>
+    <w>furthermore</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>we</w>
+    <w>believe</w>
+    <w>the</w>
+    <w>policy</w>
+    <w>concerns</w>
+    <w>that</w>
+    <w>they</w>
+    <w>raised</w>
+    <w>are</w>
+    <w>entirely</w>
+    <w>unfounded</w>
+    <w>at</w>
+    <w>this</w>
+    <w>point</w>
+    <pause symbolic-length="simple"/>
+    <w>speculative</w>
+    <w>and</w>
+    <w>premature</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u314">
+    <w>First</w>
+    <w>of</w>
+    <w>all</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>in</w>
+    <w>terms</w>
+    <w>of</w>
+    <w>the</w>
+    <w>options</w>
+    <w>the</w>
+    <w>district</w>
+    <w>courts</w>
+    <w>already</w>
+    <w>have</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>reasons</w>
+    <w>this</w>
+    <w>won't</w>
+    <w>lead</w>
+    <w>to</w>
+    <w>a</w>
+    <w>harsh</w>
+    <w>result</w>
+    <w>in</w>
+    <w>the</w>
+    <w>vast</w>
+    <w>majority</w>
+    <w>of</w>
+    <w>cases</w>
+    <w>are</w>
+    <w>as</w>
+    <w>follows</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u315">
+    <w>Prisoners</w>
+    <w>will</w>
+    <w>be</w>
+    <w>required</w>
+    <w>to</w>
+    <w>err</w>
+    <w>first</w>
+    <w>on</w>
+    <w>the</w>
+    <w>side</w>
+    <w>of</w>
+    <w>exhaustion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u316">
+    <w>There</w>
+    <w>is</w>
+    <w>no</w>
+    <w>reason</w>
+    <w>to</w>
+    <w>believe</w>
+    <w>that</w>
+    <w>they</w>
+    <w>can't</w>
+    <w>do</w>
+    <w>that</w>
+    <w>in</w>
+    <w>the</w>
+    <w>vast</w>
+    <w>majority</w>
+    <w>of</w>
+    <w>cases</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u317">
+    <w>If</w>
+    <w>there</w>
+    <w>are</w>
+    <w>mixed</w>
+    <w>petitions</w>
+    <w>that</w>
+    <w>ultimately</w>
+    <w>go</w>
+    <w>before</w>
+    <w>the</w>
+    <w>district</w>
+    <w>court</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>prisoner</w>
+    <w>at</w>
+    <w>that</w>
+    <w>point</w>
+    <w>would</w>
+    <w>have</w>
+    <w>the</w>
+    <w>opportunity</w>
+    <w>to</w>
+    <w>delete</w>
+    <w>the</w>
+    <w>unexhausted</w>
+    <w>claims</w>
+    <w>in</w>
+    <w>order</w>
+    <w>to</w>
+    <w>have</w>
+    <w>the</w>
+    <w>exhausted</w>
+    <w>claims</w>
+    <w>continue</w>
+    <w>to</w>
+    <w>be</w>
+    <w>heard</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u318">
+    <w>Third</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>district</w>
+    <w>courts</w>
+    <w>can</w>
+    <w>reach</w>
+    <w>out</w>
+    <w>and</w>
+    <w>decide</w>
+    <w>the</w>
+    <w>merits</w>
+    <w>of</w>
+    <w>unexhausted</w>
+    <w>claims</w>
+    <w>if</w>
+    <w>it's</w>
+    <w>for</w>
+    <w>purposes</w>
+    <w>of</w>
+    <w>denying</w>
+    <w>the</w>
+    <w>petition</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u319">
+    <w>And</w>
+    <w>since</w>
+    <w>the</w>
+    <w>vast</w>
+    <w>majority</w>
+    <w>of</w>
+    <w>claims</w>
+    <w>actually</w>
+    <w>end</w>
+    <w>up</w>
+    <w>being</w>
+    <w>unmeritorious</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>actually</w>
+    <w>provides</w>
+    <w>the</w>
+    <w>mechanism</w>
+    <w>for</w>
+    <w>the</w>
+    <w>prisoner</w>
+    <w>to</w>
+    <w>achieve</w>
+    <w>substantive</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>review</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u320">
+    <w>I</w>
+    <w>don't</w>
+    <w>see</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u321">
+    <w>I</w>
+    <w>don't</w>
+    <w>quite</w>
+    <w>understand</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u322">
+    <w>What</w>
+    <w>is</w>
+    <w>the</w>
+    <w>anomaly</w>
+    <w>of</w>
+    <w>the</w>
+    <w>other</w>
+    <w>side</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u323">
+    <w>I'm</w>
+    <w>sorry</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u324">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>if</w>
+    <w>you</w>
+    <w>lose</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>anomaly</w>
+    <w>does</w>
+    <w>it</w>
+    <w>create</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="UNKN" uID="u325">
+    <w>You</w>
+    <w>were</w>
+    <w>saying</w>
+    <w>the</w>
+    <w>policy</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="BANSA" uID="u326">
+    <w>Right</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u327">
+    <linker type="self completion"/>
+    <w>All</w>
+    <w>right</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u328">
+    <w>The</w>
+    <w>policy</w>
+    <w>anomaly</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>were</w>
+    <w>you</w>
+    <w>to</w>
+    <w>lose</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>would</w>
+    <w>be</w>
+    <w>what</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>precisely</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u329">
+    <w>I</w>
+    <w>think</w>
+    <w>for</w>
+    <w>us</w>
+    <w>to</w>
+    <w>lose</w>
+    <w>would</w>
+    <w>do</w>
+    <w>violence</w>
+    <w>to</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u330">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>have</w>
+    <w>the</w>
+    <w>words</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>but</w>
+    <w>the</w>
+    <w>reason</w>
+    <w>is</w>
+    <w>as</w>
+    <w>I</w>
+    <w>said</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u331">
+    <w>I</w>
+    <w>can</w>
+    <w>imagine</w>
+    <w>that</w>
+    <w>you're</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>either</w>
+    <w>read</w>
+    <w>it</w>
+    <w>your</w>
+    <w>way</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="BANSA" uID="u332">
+    <w>Right</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u333">
+    <linker type="self completion"/>
+    <w>or</w>
+    <w>you</w>
+    <w>read</w>
+    <w>it</w>
+    <w>their</w>
+    <w>way</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u334">
+    <w>Their</w>
+    <w>way</w>
+    <w>is</w>
+    <w>saying</w>
+    <w>state</w>
+    <w>post-trial</w>
+    <w>is</w>
+    <w>the</w>
+    <w>main</w>
+    <w>thing</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>then</w>
+    <w>there</w>
+    <w>are</w>
+    <w>other</w>
+    <w>things</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>a</w>
+    <w>lot</w>
+    <w>of</w>
+    <w>examples</w>
+    <w>like</w>
+    <w>that</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u335">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <w>more</w>
+    <w>indifferent</w>
+    <w>between</w>
+    <w>the</w>
+    <w>two</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u336">
+    <w>So</w>
+    <w>I'm</w>
+    <w>looking</w>
+    <w>at</w>
+    <w>the</w>
+    <w>policy</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u337">
+    <w>The</w>
+    <w>policy</w>
+    <w>concern</w>
+    <w>that</w>
+    <w>we</w>
+    <w>have</w>
+    <w>is</w>
+    <w>that</w>
+    <w>it</w>
+    <w>would</w>
+    <w>be</w>
+    <w>undermining</w>
+    <w>the</w>
+    <w>finality</w>
+    <w>of</w>
+    <w>state</w>
+    <w>court</w>
+    <w>convictions</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u338">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>would</w>
+    <w>be</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u339">
+    <w>Because</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u340">
+    <linker type="self completion"/>
+    <w>The</w>
+    <w>first</w>
+    <w>canon</w>
+    <w>of</w>
+    <w>statutory</w>
+    <w>interpretation</w>
+    <w>is</w>
+    <w>that</w>
+    <w>you</w>
+    <w>give</w>
+    <w>effect</w>
+    <w>to</w>
+    <w>the</w>
+    <w>words</w>
+    <w>of</w>
+    <w>Congress</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u341">
+    <w>No</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I'm</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>policy</w>
+    <w>you</w>
+    <w>say</w>
+    <w>undermines</w>
+    <w>the</w>
+    <w>state</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u342">
+    <w>I</w>
+    <w>want</w>
+    <w>to</w>
+    <w>understand</w>
+    <w>how</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u343">
+    <w>Because</w>
+    <w>the</w>
+    <w>whole</w>
+    <w>purpose</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <w>was</w>
+    <w>to</w>
+    <w>put</w>
+    <w>a</w>
+    <w>finite</w>
+    <w>limit</w>
+    <w>on</w>
+    <w>the</w>
+    <w>time</w>
+    <w>in</w>
+    <w>which</w>
+    <w>Federal</w>
+    <w>petitions</w>
+    <w>could</w>
+    <w>be</w>
+    <w>brought</w>
+    <w>in</w>
+    <w>the</w>
+    <w>state's</w>
+    <w>interest</w>
+    <w>in</w>
+    <w>preserving</w>
+    <w>the</w>
+    <w>finality</w>
+    <w>of</w>
+    <w>its</w>
+    <w>convictions</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u344">
+    <w>If</w>
+    <w>you</w>
+    <w>allow</w>
+    <w>tolling</w>
+    <w>for</w>
+    <w>pending</w>
+    <w>Federal</w>
+    <w>petitions</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>undermines</w>
+    <w>that</w>
+    <w>purpose</w>
+    <w>of</w>
+    <w>finality</w>
+    <w>without</w>
+    <w>serving</w>
+    <w>any</w>
+    <w>other</w>
+    <w>purpose</w>
+    <w>of</w>
+    <w>the</w>
+    <w>statute</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u345">
+    <w>The</w>
+    <w>only</w>
+    <w>other</w>
+    <w>possible</w>
+    <w>purpose</w>
+    <w>that</w>
+    <w>it</w>
+    <w>could</w>
+    <w>serve</w>
+    <w>would</w>
+    <w>be</w>
+    <w>respect</w>
+    <w>for</w>
+    <w>state</w>
+    <w>court</w>
+    <w>processes</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>isn't</w>
+    <w>implicated</w>
+    <w>when</w>
+    <w>you're</w>
+    <w>talking</w>
+    <w>about</w>
+    <w>tolling</w>
+    <w>for</w>
+    <w>Federal</w>
+    <w>petitions</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u346">
+    <w>The</w>
+    <w>whole</w>
+    <w>reason</w>
+    <w>you</w>
+    <w>have</w>
+    <w>that</w>
+    <w>tolling</w>
+    <w>provision</w>
+    <w>is</w>
+    <w>to</w>
+    <w>allow</w>
+    <w>exhaustion</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>to</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>know</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>serve</w>
+    <w>respect</w>
+    <w>for</w>
+    <w>state</w>
+    <w>court</w>
+    <w>processes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u347">
+    <w>But</w>
+    <t type="interruption"></t>
+
+  </u>
+  <u who="UNKN" uID="u348">
+    <w>The</w>
+    <w>thing</w>
+    <w>is</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>don't</w>
+    <w>want</w>
+    <w>to</w>
+    <pause symbolic-length="simple"/>
+    <w>it's</w>
+    <w>probably</w>
+    <w>my</w>
+    <w>fault</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>I</w>
+    <w>mean</w>
+    <pause symbolic-length="simple"/>
+    <w>you</w>
+    <w>have</w>
+    <w>the</w>
+    <w>year</w>
+    <w>while</w>
+    <w>it's</w>
+    <w>in</w>
+    <w>state</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u349">
+    <w>Now</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>go</w>
+    <w>their</w>
+    <w>way</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>you</w>
+    <w>still</w>
+    <w>have</w>
+    <w>a</w>
+    <w>year</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u350">
+    <w>You're</w>
+    <w>never</w>
+    <w>going</w>
+    <w>to</w>
+    <w>have</w>
+    <w>more</w>
+    <w>than</w>
+    <w>a</w>
+    <w>year</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u351">
+    <w>The</w>
+    <w>only</w>
+    <w>thing</w>
+    <w>they're</w>
+    <w>throwing</w>
+    <w>into</w>
+    <w>that</w>
+    <w>is</w>
+    <w>the</w>
+    <w>situation</w>
+    <w>where</w>
+    <w>a</w>
+    <w>Federal</w>
+    <w>court</w>
+    <w>sends</w>
+    <w>it</w>
+    <w>back</w>
+    <w>to</w>
+    <w>the</w>
+    <w>state</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u352">
+    <w>No</w>
+    <w>matter</w>
+    <w>what</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>all</w>
+    <w>over</w>
+    <w>in</w>
+    <w>a</w>
+    <w>year</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u353">
+    <linker type="self completion"/>
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>what</w>
+    <w>the</w>
+    <w>court</w>
+    <w>below</w>
+    <w>and</w>
+    <w>the</w>
+    <w>respondents</w>
+    <w>want</w>
+    <pause symbolic-length="simple"/>
+    <w>they</w>
+    <w>want</w>
+    <w>to</w>
+    <w>reward</w>
+    <w>petitioners</w>
+    <w>who</w>
+    <w>haven't</w>
+    <w>been</w>
+    <w>able</w>
+    <w>to</w>
+    <w>comply</w>
+    <w>with</w>
+    <w>the</w>
+    <w>procedural</w>
+    <w>requirements</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u354">
+    <w>The</w>
+    <w>normal</w>
+    <w>rule</w>
+    <w>is</w>
+    <w>as</w>
+    <w>Justice</w>
+    <w>Kennedy</w>
+    <w>suggested</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>which</w>
+    <w>is</w>
+    <w>that</w>
+    <w>when</w>
+    <w>a</w>
+    <w>Federal</w>
+    <pause symbolic-length="simple"/>
+    <w>when</w>
+    <w>a</w>
+    <w>case</w>
+    <w>is</w>
+    <w>dismissed</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it's</w>
+    <w>treated</w>
+    <w>as</w>
+    <w>though</w>
+    <w>it</w>
+    <w>were</w>
+    <w>never</w>
+    <w>filed</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u355">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>the</w>
+    <w>concern</w>
+    <w>that</w>
+    <w>respondent</w>
+    <w>raises</w>
+    <pause symbolic-length="simple"/>
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>this</w>
+    <w>is</w>
+    <w>just</w>
+    <w>Congress</w>
+    <w>clearly</w>
+    <w>intended</w>
+    <pause symbolic-length="simple"/>
+    <w>or</w>
+    <w>they</w>
+    <w>contemplated</w>
+    <w>that</w>
+    <w>there</w>
+    <w>might</w>
+    <w>be</w>
+    <w>some</w>
+    <w>harsh</w>
+    <w>results</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>regardless</w>
+    <w>of</w>
+    <w>the</w>
+    <w>Rose</w>
+    <g><w formType="letter">v</w><ga type="explanation">v.</ga></g>
+    <w>Lundy</w>
+    <w>situation</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u356">
+    <w>Forget</w>
+    <w>about</w>
+    <w>the</w>
+    <w>mixed</w>
+    <w>petition</w>
+    <w>situation</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u357">
+    <w>It</w>
+    <w>could</w>
+    <w>be</w>
+    <w>that</w>
+    <w>a</w>
+    <w>petitioner</w>
+    <w>decides</w>
+    <w>thirteen</w>
+    <w>months</w>
+    <w>after</w>
+    <w>his</w>
+    <w>judgment</w>
+    <w>becomes</w>
+    <w>final</w>
+    <w>that</w>
+    <w>he</w>
+    <w>may</w>
+    <w>have</w>
+    <w>a</w>
+    <w>meritorious</w>
+    <w>Federal</w>
+    <w>habeas</w>
+    <w>claim</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u358">
+    <w>Well</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>it</w>
+    <w>doesn't</w>
+    <w>matter</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u359">
+    <w>Under</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>he's</w>
+    <w>out</w>
+    <w>of</w>
+    <w>time</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u360">
+    <w>The</w>
+    <w>fact</w>
+    <w>that</w>
+    <w>he</w>
+    <w>first</w>
+    <w>filed</w>
+    <w>one</w>
+    <w>month</w>
+    <w>into</w>
+    <w>the</w>
+    <w>statute</w>
+    <w>of</w>
+    <w>limitations</w>
+    <pause symbolic-length="simple"/>
+    <w>the</w>
+    <w>fact</w>
+    <w>that</w>
+    <w>he</w>
+    <w>might</w>
+    <w>have</w>
+    <w>filed</w>
+    <w>a</w>
+    <w>petition</w>
+    <w>that</w>
+    <w>is</w>
+    <w>unexhausted</w>
+    <w>and</w>
+    <w>that</w>
+    <w>doesn't</w>
+    <w>meet</w>
+    <w>the</w>
+    <w>procedural</w>
+    <w>requirements</w>
+    <w>and</w>
+    <w>therefore</w>
+    <w>requires</w>
+    <w>dismissal</w>
+    <w>without</w>
+    <w>prejudice</w>
+    <pause symbolic-length="simple"/>
+    <w>that</w>
+    <w>can't</w>
+    <w>change</w>
+    <w>the</w>
+    <w>results</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u361">
+    <w>I</w>
+    <w>mean</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>petitioners</w>
+    <w>are</w>
+    <w>supposed</w>
+    <w>to</w>
+    <w>act</w>
+    <w>in</w>
+    <w>mind</w>
+    <w>with</w>
+    <w>the</w>
+    <w>procedural</w>
+    <w>rules</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u362">
+    <w>This</w>
+    <w>Court</w>
+    <w>has</w>
+    <w>recognized</w>
+    <w>that</w>
+    <w>in</w>
+    <w>repeated</w>
+    <w>contexts</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>even</w>
+    <w>when</w>
+    <w>we're</w>
+    <w>talking</w>
+    <w>about</w>
+    <w>pro</w>
+    <w>se</w>
+    <w>litigants</w>
+    <tagMarker type="comma"></tagMarker>
+    <w>and</w>
+    <w>I</w>
+    <w>believe</w>
+    <w>Justice</w>
+    <w>Stevens</w>
+    <w>said</w>
+    <w>that</w>
+    <w>in</w>
+    <w>the</w>
+    <w>McNeil</w>
+    <w>case</w>
+    <w>when</w>
+    <w>we're</w>
+    <w>talking</w>
+    <w>about</w>
+    <w>the</w>
+    <w>Federal</w>
+    <w>Tort</w>
+    <w>Claims</w>
+    <w>Act</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u363">
+    <w>Procedural</w>
+    <w>rules</w>
+    <w>are</w>
+    <w>designed</w>
+    <w>to</w>
+    <w>have</w>
+    <w>regularity</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u364">
+    <w>Congress</w>
+    <w>enacted</w>
+    <w>a</w>
+    <w>harsh</w>
+    <pause symbolic-length="simple"/>
+    <w>arguably</w>
+    <w>harsh</w>
+    <w>statute</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u365">
+    <w>Thirteen</w>
+    <w>month</w>
+    <w>meritorious</w>
+    <w>claim</w>
+    <t type="q"></t>
+
+  </u>
+  <u who="BANSA" uID="u366">
+    <w>It</w>
+    <w>doesn't</w>
+    <w>matter</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u367">
+    <w>The</w>
+    <w>person</w>
+    <w>is</w>
+    <w>out</w>
+    <w>of</w>
+    <w>time</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u368">
+    <w>He</w>
+    <w>may</w>
+    <w>be</w>
+    <w>as</w>
+    <w>unaware</w>
+    <w>of</w>
+    <w>the</w>
+    <w>twelve</w>
+    <w>month</w>
+    <w>limitation</w>
+    <w>as</w>
+    <w>he</w>
+    <w>is</w>
+    <w>of</w>
+    <w>the</w>
+    <w>necessity</w>
+    <w>for</w>
+    <w>state</w>
+    <w>exhaustion</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u369">
+    <w>That's</w>
+    <w>correct</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="UNKN" uID="u370">
+    <w>Yes</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="BANSA" uID="u371">
+    <w>If</w>
+    <w>there</w>
+    <w>are</w>
+    <w>no</w>
+    <w>further</w>
+    <w>questions</w>
+    <t type="p"></t>
+
+  </u>
+  <lazy-gem label="---"/>
+  <u who="BANSA" uID="u372">
+    <w>Thank</w>
+    <w>you</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="REHN" uID="u373">
+    <w>Thank</w>
+    <w>you</w>
+    <tagMarker type="comma"></tagMarker>
+    <g><w>Ms</w><ga type="explanation">Ms.</ga></g>
+    <w>Bansal</w>
+    <t type="p"></t>
+
+  </u>
+  <u who="REHN" uID="u374">
+    <w>The</w>
+    <w>case</w>
+    <w>is</w>
+    <w>submitted</w>
+    <t type="p"></t>
+
+  </u>
+  <comment type="Generic">(Whereupon at 11:44 a.m., the case in the above-entitled matter was submitted.)</comment>
+</CHAT>
