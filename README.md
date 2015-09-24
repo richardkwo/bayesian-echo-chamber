@@ -73,4 +73,5 @@ Currently, we have prepared the following datasets under `data/` directory.
 
 ### Authors
 
-This repo is maintained by [Richard Guo](http://richardkwo.net). We also acknowledge the contribution of [Juston Moore](https://people.cs.umass.edu/~jmoore/) to `likelihoods.py` and `slice_sampler.py`.
+This repo is maintained by [Richard Guo](http://richardkwo.net). We also acknowledge the earlier contribution of [Juston Moore](https://people.cs.umass.edu/~jmoore/) to `bec.py`, `likelihoods.py` and `slice_sampler.py`.
+
