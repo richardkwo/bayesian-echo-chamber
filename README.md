@@ -16,7 +16,7 @@ A new Bayesian generative model for social interaction data, for uncovering infl
 ├── data                              a collection of datasets
 ├── results                           results are produced here
 │   ├── 12-angry-men-analytics.Rmd    generating report from result
-│   └── Makefile                      compile a html report from R markdown
+│   └── Makefile                      compile an html report from R markdown
 ├── src
 │   ├── bec.py                        main "Bayesian echo chamber" class
 │   ├── bec_sampler.py                a wrapper of the sampler of bec
@@ -50,7 +50,7 @@ A new Bayesian generative model for social interaction data, for uncovering infl
 
 ### Datasets
 
-The conversation data is read from the [TalkBank xml](https://talkbank.org/software/) format. A conversation consists of several utterances, with each utterance described with the following files: speaker, content, start time and end time, which looks like the snippet below.
+The conversation data is read from the [TalkBank xml](https://talkbank.org/software/) format. A conversation consists of several utterances, with each utterance described with the following entities: speaker, content, start time and end time, which looks like the snippet below.
 
 ``` xml
 <u who="Juror 7" uID="#7">
@@ -74,4 +74,3 @@ Currently, we have prepared the following datasets under `data/` directory.
 ### Authors
 
 This repo is maintained by [Richard Guo](http://richardkwo.net). We also acknowledge the earlier contribution of [Juston Moore](https://people.cs.umass.edu/~jmoore/) to `bec.py`, `likelihoods.py` and `slice_sampler.py`.
-
