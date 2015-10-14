@@ -2,7 +2,6 @@
 Created on Jun 14, 2013
 
 @author: Juston Moore
-MIT Lincoln Laboratory
 
 Partially based on Ryan Prescott Adams' code at http://machinelearningmisc.blogspot.com/2010/01/slice-sampling-in-python.html
 '''
